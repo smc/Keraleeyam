@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1418449779
+ModificationTime: 1418451064
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -68,9 +68,34 @@ Lookup: 4 0 0 "presPreBaseSubstituitionsinMalayalam2" { "presPreBaseSubstituitio
 Lookup: 4 256 0 "pstsPostBaseSubstitutionsinMala" { "pstsPostBaseSubstitutionsinMala subtable"  } ['psts' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "pstfPostBaseFormsinMalaylamlook" { "pstfPostBaseFormsinMalaylamlook subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "pstfPostBaseFormsinMalaylam2loo" { "pstfPostBaseFormsinMalaylam2loo subtable"  } ['pstf' ('mlm2' <'dflt' > ) ]
+Lookup: 2 0 0 "'ccmp' Glyph Composition/Decomposition lookup 12" { "'ccmp' Glyph Composition/Decomposition lookup 12-1"  } ['ccmp' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
+Lookup: 6 0 0 "'calt' Contextual Alternates lookup 13" { "'calt' Contextual Alternates lookup 13-1"  } ['calt' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 MarkAttachClasses: 2
 "nomark" 0 
 DEI: 91125
+ChainSub2: class "'calt' Contextual Alternates lookup 13-1" 5 5 5 1
+  Class: 56 hyphen zero one two three four five six seven eight nine
+  Class: 7 uni25CC
+  Class: 7 uni0D3E
+  Class: 10 uni0D02 m1
+  BClass: 56 hyphen zero one two three four five six seven eight nine
+  BClass: 7 uni25CC
+  BClass: 7 uni0D3E
+  BClass: 10 uni0D02 m1
+  FClass: 56 hyphen zero one two three four five six seven eight nine
+  FClass: 7 uni25CC
+  FClass: 7 uni0D3E
+  FClass: 10 uni0D02 m1
+ 1 1 2
+  ClsList: 2
+  BClsList: 1
+  FClsList: 3 4
+ 1
+  SeqLookup: 0 "'ccmp' Glyph Composition/Decomposition lookup 12"
+  ClassNames: "All_Others" "digits" "dotted_c" "aa" "am_ma"
+  BClassNames: "All_Others" "digits" "dotted_c" "aa" "am_ma"
+  FClassNames: "All_Others" "digits" "dotted_c" "aa" "am_ma"
+EndFPST
 TtTable: prep
 PUSHW_1
  0
@@ -568,7 +593,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 540 27 10
+WinInfo: 0 27 10
 BeginPrivate: 0
 EndPrivate
 BeginChars: 66502 789
@@ -8287,6 +8312,7 @@ SplineSet
  742 674 742 674 720 686 c 1,73,-1
  718 686 l 1,63,64
 EndSplineSet
+MultipleSubs2: "'ccmp' Glyph Composition/Decomposition lookup 12-1" NULL
 EndChar
 
 StartChar: r4
