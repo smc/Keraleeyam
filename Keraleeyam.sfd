@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1418451064
+ModificationTime: 1418453784
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -63,39 +63,15 @@ Lookup: 4 0 0 "halfHalfFormsinMalaylamlookup2" { "halfHalfFormsinMalaylamlookup2
 Lookup: 4 0 0 "blwfBelowBaseFormsinMalaylamloo" { "blwfBelowBaseFormsinMalaylamloo subtable"  } ['blwf' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "blwfBelowBaseFormsinMalaylam2lo" { "blwfBelowBaseFormsinMalaylam2lo subtable"  } ['blwf' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "blwsBelowBaseSubstitutionsinMal" { "blwsBelowBaseSubstitutionsinMal subtable"  } ['blws' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "presPreBaseSubstitutionsinMalayalam" { "presPreBaseSubstitutionsinMalay subtable"  } ['pres' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "presPreBaseSubstituitionsinMalayalam2" { "presPreBaseSubstituitionsinMalayalam2 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "presPreBaseSubstitutionsinMalay" { "presPreBaseSubstitutionsinMalay subtable"  } ['pres' ('mlym' <'dflt' > ) ]
+Lookup: 4 0 0 "sub_ligature_presmlm2_0" { "sub_ligature_presmlm2_0 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
 Lookup: 4 256 0 "pstsPostBaseSubstitutionsinMala" { "pstsPostBaseSubstitutionsinMala subtable"  } ['psts' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "halnHalantFormsinMalaylamlookup" { "halnHalantFormsinMalaylamlookup subtable"  } ['haln' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "pstfPostBaseFormsinMalaylamlook" { "pstfPostBaseFormsinMalaylamlook subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "pstfPostBaseFormsinMalaylam2loo" { "pstfPostBaseFormsinMalaylam2loo subtable"  } ['pstf' ('mlm2' <'dflt' > ) ]
-Lookup: 2 0 0 "'ccmp' Glyph Composition/Decomposition lookup 12" { "'ccmp' Glyph Composition/Decomposition lookup 12-1"  } ['ccmp' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 6 0 0 "'calt' Contextual Alternates lookup 13" { "'calt' Contextual Alternates lookup 13-1"  } ['calt' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 MarkAttachClasses: 2
 "nomark" 0 
 DEI: 91125
-ChainSub2: class "'calt' Contextual Alternates lookup 13-1" 5 5 5 1
-  Class: 56 hyphen zero one two three four five six seven eight nine
-  Class: 7 uni25CC
-  Class: 7 uni0D3E
-  Class: 10 uni0D02 m1
-  BClass: 56 hyphen zero one two three four five six seven eight nine
-  BClass: 7 uni25CC
-  BClass: 7 uni0D3E
-  BClass: 10 uni0D02 m1
-  FClass: 56 hyphen zero one two three four five six seven eight nine
-  FClass: 7 uni25CC
-  FClass: 7 uni0D3E
-  FClass: 10 uni0D02 m1
- 1 1 2
-  ClsList: 2
-  BClsList: 1
-  FClsList: 3 4
- 1
-  SeqLookup: 0 "'ccmp' Glyph Composition/Decomposition lookup 12"
-  ClassNames: "All_Others" "digits" "dotted_c" "aa" "am_ma"
-  BClassNames: "All_Others" "digits" "dotted_c" "aa" "am_ma"
-  FClassNames: "All_Others" "digits" "dotted_c" "aa" "am_ma"
-EndFPST
 TtTable: prep
 PUSHW_1
  0
@@ -593,10 +569,10 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 27 10
+WinInfo: 486 27 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 66502 789
+BeginChars: 66502 788
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -7805,18 +7781,18 @@ SplineSet
  662 0 l 1,1,-1
  662 44 l 1,2,3
  882 204 882 204 882 406 c 0,4,5
- 882 559 882 559 803 654.5 c 256,6,7
- 724 750 724 750 574.5 750 c 256,8,9
- 425 750 425 750 337.5 658.5 c 256,10,11
+ 882 559 882 559 803 654.5 c 0,6,7
+ 724 750 724 750 574.5 750 c 0,8,9
+ 425 750 425 750 337.5 658.5 c 0,10,11
  250 567 250 567 250 416 c 0,12,13
  250 168 250 168 474 36 c 1,14,-1
  440 -19 l 1,15,16
  321 53 321 53 240 176 c 1,17,18
  160 301 160 301 160 434 c 0,19,20
- 160 652 160 652 287.5 787 c 256,21,22
- 415 922 415 922 617.5 922 c 256,23,24
+ 160 652 160 652 287.5 787 c 0,21,22
+ 415 922 415 922 617.5 922 c 0,23,24
  820 922 820 922 936 788 c 256,25,26
- 1052 654 1052 654 1052 452.5 c 256,27,28
+ 1052 654 1052 654 1052 452.5 c 0,27,28
  1052 251 1052 251 882 70 c 1,29,-1
  1388 70 l 1,30,-1
  1388 0 l 1,0,-1
@@ -8312,7 +8288,6 @@ SplineSet
  742 674 742 674 720 686 c 1,73,-1
  718 686 l 1,63,64
 EndSplineSet
-MultipleSubs2: "'ccmp' Glyph Composition/Decomposition lookup 12-1" NULL
 EndChar
 
 StartChar: r4
@@ -8372,6 +8347,7 @@ SplineSet
  210 -107 210 -107 227 -86.5 c 0,21,22
  265 -40.6764705882 265 -40.6764705882 265 44 c 1,0,-1
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "pstfPostBaseFormsinMalaylam2loo subtable" xx y1
 Ligature2: "pstfPostBaseFormsinMalaylamlook subtable" y1 xx
 EndChar
@@ -8469,6 +8445,7 @@ SplineSet
  434 -430.857142857 434 -430.857142857 434 -386.428571429 c 0,55,56
  434 -297.125 434 -297.125 383 -261 c 1,34,35
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y2 u2
 EndChar
 
@@ -8500,6 +8477,7 @@ SplineSet
  245 739 l 1,5,-1
  259 -219 l 1,0,-1
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "pstfPostBaseFormsinMalaylam2loo subtable" xx v1
 Ligature2: "pstfPostBaseFormsinMalaylamlook subtable" v1 xx
 EndChar
@@ -8631,6 +8609,7 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k1 xx ZWJ
+Ligature2: "halnHalantFormsinMalaylamlookup subtable" k1 xx ZWJ
 EndChar
 
 StartChar: nhcil
@@ -8723,6 +8702,7 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nh xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nh xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" nh xx ZWJ
+Ligature2: "halnHalantFormsinMalaylamlookup subtable" nh xx ZWJ
 EndChar
 
 StartChar: n1cil
@@ -8791,6 +8771,7 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" n1 xx ZWJ
+Ligature2: "halnHalantFormsinMalaylamlookup subtable" n1 xx ZWJ
 EndChar
 
 StartChar: l3cil
@@ -8872,6 +8853,7 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" l3 xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" l3 xx ZWJ
+Ligature2: "halnHalantFormsinMalaylamlookup subtable" l3 xx ZWJ
 EndChar
 
 StartChar: lhcil
@@ -8943,6 +8925,7 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" lh xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" lh xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" lh xx ZWJ
+Ligature2: "halnHalantFormsinMalaylamlookup subtable" lh xx ZWJ
 EndChar
 
 StartChar: r3cil
@@ -8998,6 +8981,7 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" r3 xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" r3 xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" r3 xx ZWJ
+Ligature2: "halnHalantFormsinMalaylamlookup subtable" r3 xx ZWJ
 EndChar
 
 StartChar: k1u1
@@ -9062,6 +9046,7 @@ SplineSet
  300.03125 154 300.03125 154 345 154 c 0,76,77
  360 154 360 154 393 163 c 1,65,66
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1 u1
 EndChar
 
@@ -9405,7 +9390,6 @@ SplineSet
  358 154 358 154 369.5 157.5 c 128,-1,105
  381 161 381 161 393 163 c 1,92,93
 EndSplineSet
-LCarets2: 2 0 0 
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx k1
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx k1
 EndChar
@@ -9782,7 +9766,8 @@ SplineSet
  1032 918 1032 918 1063.5 901.5 c 0,122,123
  1132.37444934 865.422907489 1132.37444934 865.422907489 1163 808 c 1,48,49
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k1k1
+LCarets2: 2 0 0 
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1k1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1k1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1k1 r4
 EndChar
@@ -10193,7 +10178,7 @@ SplineSet
  717 -180 717 -180 731.5 -196 c 128,-1,125
  746 -212 746 -212 773 -212 c 1,71,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k1t1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1t1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1t1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1t1 r4
 EndChar
@@ -10848,7 +10833,7 @@ SplineSet
  504 201 504 201 517.5 185 c 128,-1,130
  531 169 531 169 550.5 159.5 c 128,-1,131
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k1th1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1th1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1th1 r4
 EndChar
@@ -11101,7 +11086,7 @@ SplineSet
  311 392.871794872 311 392.871794872 394 478 c 128,-1,88
  476.875 563 476.875 563 605 563 c 1,32,33
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1xx r3
 EndChar
@@ -12085,6 +12070,7 @@ SplineSet
  254 230 254 230 267.5 214 c 128,-1,163
  281 198 281 198 300.5 189 c 128,-1,164
 EndSplineSet
+LCarets2: 4 0 0 0 0 
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx sh xx nh
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx sh xx nh
 EndChar
@@ -13918,7 +13904,7 @@ SplineSet
  1898.66015787 841.251350229 1898.66015787 841.251350229 1841 910 c 1,126,-1
  2054 910 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k3th3th4
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k3th3th4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3th3th4 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3th3th4 r4
 EndChar
@@ -14662,7 +14648,7 @@ SplineSet
  1218 848 1218 848 1265 773.5 c 128,-1,0
  1312 699 1312 699 1336 601.5 c 128,-1,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k3
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3xx r3
 EndChar
@@ -15520,7 +15506,7 @@ SplineSet
  700.43373494 873 700.43373494 873 776.5 781.5 c 0,81,82
  846 697.898550725 846 697.898550725 846 580 c 0,5,6
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k4
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k4xx r3
 EndChar
@@ -17254,7 +17240,7 @@ SplineSet
  991 255.710526316 991 255.710526316 916 159 c 1,107,-1
  1093 159 l 1,16,17
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 ch2
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 ch2
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch2 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch2xx r3
 EndChar
@@ -18964,7 +18950,7 @@ SplineSet
  1451 751.275 1451 751.275 1451 605.423214286 c 128,-1,122
  1451 459.571428571 1451 459.571428571 1376 381 c 1,28,29
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 ch3
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 ch3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch3xx r3
 EndChar
@@ -19563,7 +19549,7 @@ SplineSet
  2154.20765957 791.877446809 2154.20765957 791.877446809 2087 910 c 1,122,-1
  2277 910 l 1,17,18
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 ch4
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 ch4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch4xx r3
 EndChar
@@ -21978,6 +21964,7 @@ SplineSet
  785 421.445783133 785 421.445783133 785 312.180034423 c 128,-1,64
  785 202.914285714 785 202.914285714 716 128 c 1,0,1
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" t1 xx t1
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" t1 xx t1
 EndChar
@@ -22183,7 +22170,7 @@ SplineSet
  572.666666667 928 572.666666667 928 742.200680272 928 c 128,-1,58
  911.734693878 928 911.734693878 928 1037 835 c 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 t1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 t1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t1xx r3
 EndChar
@@ -23489,7 +23476,7 @@ SplineSet
  1508 877 1508 877 1493 907 c 1,91,-1
  1682 907 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 t3
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 t3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t3xx r3
 EndChar
@@ -24000,7 +23987,7 @@ SplineSet
  949 553.285714286 949 553.285714286 936.5 483.642857143 c 0,109,110
  913 352.714285714 913 352.714285714 913 296 c 0,16,17
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 t4
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 t4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t4xx r3
 EndChar
@@ -26854,7 +26841,7 @@ SplineSet
  860.292682927 158 860.292682927 158 925 158 c 0,134,135
  1028.6 158 1028.6 158 1037 336.5 c 0,120,121
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th1th1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th1th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1th1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1th1 r4
 EndChar
@@ -28305,7 +28292,7 @@ SplineSet
  512.902985075 -386 512.902985075 -386 293.5 -186 c 0,79,80
  51 35.0544217687 51 35.0544217687 51 413 c 0,18,19
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1xx r3
 EndChar
@@ -30420,6 +30407,7 @@ SplineSet
  911.195652174 -25 911.195652174 -25 795 -25 c 0,80,81
  707.115384615 -25 707.115384615 -25 626 32 c 1,0,1
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th3 xx th4
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th3 xx th4
 EndChar
@@ -30890,6 +30878,7 @@ SplineSet
  957 -343 l 1,109,-1
  992 -343 l 1,103,104
 EndSplineSet
+LCarets2: 4 0 0 0 0 
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th3 xx th4 xx m1
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th3 xx th4 xx m1
 EndChar
@@ -30968,7 +30957,7 @@ SplineSet
  1623 728.047619048 1623 728.047619048 1471 909 c 1,96,-1
  1680 910 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th3th4
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th3th4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3th4 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3th4 r4
 EndChar
@@ -31227,7 +31216,7 @@ SplineSet
  827 673 827 673 809 696 c 0,65,66
  769.086956522 747 769.086956522 747 703 747 c 0,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th3
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3xx r3
 EndChar
@@ -31759,7 +31748,7 @@ SplineSet
  1174 854 1174 854 1147 910 c 1,67,-1
  1330 910 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th4
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th4xx r3
 EndChar
@@ -32486,7 +32475,7 @@ SplineSet
  1497 523 1497 523 1483.5 560 c 0,94,95
  1452.93865031 643.760736196 1452.93865031 643.760736196 1392 677 c 1,80,81
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1th1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th1 r4
 EndChar
@@ -33343,7 +33332,7 @@ SplineSet
  530 225.818181818 530 225.818181818 645 0 c 1,77,-1
  455 0 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1th3
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1th3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th3 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th3 r4
 EndChar
@@ -33895,7 +33884,7 @@ SplineSet
  2153 339.833333333 2153 339.833333333 2153 437 c 0,108,109
  2153 741 2153 741 2009 909 c 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1th4
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1th4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th4 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th4 r4
 EndChar
@@ -34433,7 +34422,7 @@ SplineSet
  971.409090909 929 971.409090909 929 1089 929 c 256,68,69
  1228.24 929 1228.24 929 1305 828 c 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1n1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1n1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1n1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1n1 r4
 EndChar
@@ -34941,7 +34930,7 @@ SplineSet
  1168 328 1168 328 1168 362 c 128,-1,73
  1168 396 1168 396 1147 427 c 128,-1,74
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1m1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1m1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1m1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1m1 r4
 EndChar
@@ -35174,7 +35163,7 @@ SplineSet
  174 -57 174 -57 134 30.5 c 0,66,67
  54 205.5 54 205.5 54 414 c 0,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1xx r3
 EndChar
@@ -36407,7 +36396,7 @@ SplineSet
  1199 909 l 1,56,-1
  1199 549 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 p1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p1xx r3
 EndChar
@@ -37577,7 +37566,7 @@ SplineSet
  1351 163 l 1,76,-1
  1351 510 l 2,66,67
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 p2
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p2
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p2 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p2xx r3
 EndChar
@@ -39645,7 +39634,7 @@ SplineSet
  615.097560976 150 615.097560976 150 638.5 200.5 c 0,95,96
  655 236.105263158 655 236.105263158 655 278 c 256,81,82
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 p3
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p3xx r3
 EndChar
@@ -40440,7 +40429,7 @@ SplineSet
  785 338.153846154 785 338.153846154 808 324 c 0,79,80
  815.5 318 815.5 318 827 318 c 2,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 p4
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p4xx r3
 EndChar
@@ -41044,6 +41033,7 @@ SplineSet
  1171 -23 1171 -23 1184 0 c 1,83,-1
  1179 0 l 1,60,61
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1p1 u2
 EndChar
 
@@ -41176,7 +41166,7 @@ SplineSet
  528 930 528 930 664.447368421 930 c 128,-1,78
  800.894736842 930 800.894736842 930 885 828 c 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 m1p1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 m1p1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1p1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1p1 r4
 EndChar
@@ -41723,7 +41713,7 @@ SplineSet
  1098 661.739130435 1098 661.739130435 1098 464 c 2,64,-1
  1100 25 l 1,25,26
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 m1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 m1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1xx r3
 EndChar
@@ -42396,16 +42386,6 @@ EndChar
 
 StartChar: y1k1
 Encoding: 66168 -1 572
-Width: 2048
-GlyphClass: 3
-Flags: W
-LayerCount: 2
-Back
-Fore
-EndChar
-
-StartChar: y1k1k1
-Encoding: 66172 -1 573
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -42504,12 +42484,12 @@ SplineSet
  572 -337 l 2,131,132
  578 -337 578 -337 584 -335 c 1,121,122
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx k1k1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx k1 xx k1
+Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx k1
+Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx k1 
 EndChar
 
-StartChar: y1k1k1u1
-Encoding: 66173 -1 574
+StartChar: y1k1k1
+Encoding: 66172 -1 573
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -42623,11 +42603,13 @@ SplineSet
  487 -341 487 -341 489.5 -341 c 128,-1,149
  492 -341 492 -341 502 -339 c 1,140,141
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1k1k1 u1
+LCarets2: 4 0 0 0 0 
+Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx k1k1
+Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx k1 xx k1
 EndChar
 
-StartChar: y1k1k1u2
-Encoding: 66174 -1 575
+StartChar: y1k1k1u1
+Encoding: 66173 -1 574
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -42743,11 +42725,11 @@ SplineSet
  459 -340 459 -340 469 -338 c 1,155,156
  452 -293 452 -293 447 -242 c 1,148,149
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1k1k1 u2
+Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1k1k1 u1
 EndChar
 
-StartChar: y1ch1
-Encoding: 66175 -1 576
+StartChar: y1k1k1u2
+Encoding: 66174 -1 575
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -42883,12 +42865,11 @@ SplineSet
  531.5 -349 l 2,183,184
  536 -349 536 -349 541 -347 c 1,175,176
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx ch1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx ch1
+Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1k1k1 u2
 EndChar
 
-StartChar: y1ch1u1
-Encoding: 66176 -1 577
+StartChar: y1ch1
+Encoding: 66175 -1 576
 Width: 1347
 GlyphClass: 3
 Flags: W
@@ -42965,11 +42946,12 @@ SplineSet
  454 253 454 253 419.5 342 c 128,-1,99
  385 431 385 431 385 517 c 1,80,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1ch1 u1
+Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx ch1
+Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx ch1
 EndChar
 
 StartChar: y1th1
-Encoding: 66178 -1 578
+Encoding: 66178 -1 577
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -43060,7 +43042,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx th1
 EndChar
 
 StartChar: y1th1u1
-Encoding: 66179 -1 579
+Encoding: 66179 -1 578
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -43168,7 +43150,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1th1 u1
 EndChar
 
 StartChar: y1th1u2
-Encoding: 66180 -1 580
+Encoding: 66180 -1 579
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -43279,7 +43261,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1th1 u2
 EndChar
 
 StartChar: y1n1
-Encoding: 66186 -1 581
+Encoding: 66186 -1 580
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -43371,7 +43353,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx n1
 EndChar
 
 StartChar: y1p1
-Encoding: 66189 -1 582
+Encoding: 66189 -1 581
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -43453,7 +43435,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx p1
 EndChar
 
 StartChar: y1m1
-Encoding: 66193 -1 583
+Encoding: 66193 -1 582
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -43541,7 +43523,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx m1
 EndChar
 
 StartChar: y1y1
-Encoding: 66197 -1 584
+Encoding: 66197 -1 583
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -43613,7 +43595,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx y1
 EndChar
 
 StartChar: y1y1u1
-Encoding: 66198 -1 585
+Encoding: 66198 -1 584
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -43701,7 +43683,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1 y2 u1
 EndChar
 
 StartChar: y1y1u2
-Encoding: 66199 -1 586
+Encoding: 66199 -1 585
 Width: 1251
 GlyphClass: 3
 Flags: W
@@ -43797,7 +43779,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1 y2 u2
 EndChar
 
 StartChar: r3u1
-Encoding: 66200 -1 587
+Encoding: 66200 -1 586
 Width: 1330
 GlyphClass: 3
 Flags: W
@@ -43865,7 +43847,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" r3 u1
 EndChar
 
 StartChar: r3u2
-Encoding: 66201 -1 588
+Encoding: 66201 -1 587
 Width: 1609
 GlyphClass: 3
 Flags: W
@@ -43934,7 +43916,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" r3 u2
 EndChar
 
 StartChar: r3r1
-Encoding: 66202 -1 589
+Encoding: 66202 -1 588
 Width: 1099
 GlyphClass: 3
 Flags: W
@@ -44002,7 +43984,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" r3 r1
 EndChar
 
 StartChar: l3u1
-Encoding: 66203 -1 590
+Encoding: 66203 -1 589
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44055,7 +44037,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 u1
 EndChar
 
 StartChar: l3u2
-Encoding: 66204 -1 591
+Encoding: 66204 -1 590
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44118,7 +44100,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 u2
 EndChar
 
 StartChar: l3r1
-Encoding: 66205 -1 592
+Encoding: 66205 -1 591
 Width: 1033
 GlyphClass: 3
 Flags: W
@@ -44170,7 +44152,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 r1
 EndChar
 
 StartChar: l3k1
-Encoding: 66206 -1 593
+Encoding: 66206 -1 592
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44250,7 +44232,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx k1
 EndChar
 
 StartChar: l3k1k1
-Encoding: 66210 -1 594
+Encoding: 66210 -1 593
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44345,7 +44327,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx k1 xx k1
 EndChar
 
 StartChar: l3k3
-Encoding: 66213 -1 595
+Encoding: 66213 -1 594
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44420,7 +44402,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx k3
 EndChar
 
 StartChar: l3ch1
-Encoding: 66217 -1 596
+Encoding: 66217 -1 595
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44480,7 +44462,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx ch1
 EndChar
 
 StartChar: l3th1
-Encoding: 66220 -1 597
+Encoding: 66220 -1 596
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44547,7 +44529,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx th1
 EndChar
 
 StartChar: l3p1
-Encoding: 66227 -1 598
+Encoding: 66227 -1 597
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44607,7 +44589,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx p1
 EndChar
 
 StartChar: l3p2
-Encoding: 66233 -1 599
+Encoding: 66233 -1 598
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44679,7 +44661,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx p2
 EndChar
 
 StartChar: l3p3
-Encoding: 66236 -1 600
+Encoding: 66236 -1 599
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44765,7 +44747,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx p3
 EndChar
 
 StartChar: l3m1
-Encoding: 66239 -1 601
+Encoding: 66239 -1 600
 Width: 985
 GlyphClass: 3
 Flags: W
@@ -44830,7 +44812,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx m1
 EndChar
 
 StartChar: l3l3
-Encoding: 66242 -1 602
+Encoding: 66242 -1 601
 Width: 987
 GlyphClass: 3
 Flags: W
@@ -44904,7 +44886,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx l3
 EndChar
 
 StartChar: l3l3u1
-Encoding: 66243 -1 603
+Encoding: 66243 -1 602
 Width: 987
 GlyphClass: 3
 Flags: W
@@ -44991,7 +44973,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 l4 u1
 EndChar
 
 StartChar: l3l3u2
-Encoding: 66244 -1 604
+Encoding: 66244 -1 603
 Width: 987
 GlyphClass: 3
 Flags: W
@@ -45085,7 +45067,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 l4 u2
 EndChar
 
 StartChar: v1u1
-Encoding: 66245 -1 605
+Encoding: 66245 -1 604
 Width: 1087
 GlyphClass: 3
 Flags: W
@@ -45133,7 +45115,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 u1
 EndChar
 
 StartChar: v1u2
-Encoding: 66246 -1 606
+Encoding: 66246 -1 605
 Width: 1136
 GlyphClass: 3
 Flags: W
@@ -45191,7 +45173,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 u2
 EndChar
 
 StartChar: v1r1
-Encoding: 66247 -1 607
+Encoding: 66247 -1 606
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -45244,7 +45226,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 r1
 EndChar
 
 StartChar: v1r3
-Encoding: 66248 -1 608
+Encoding: 66248 -1 607
 Width: 1335
 GlyphClass: 3
 Flags: W
@@ -45288,13 +45270,13 @@ SplineSet
  542.6 937 542.6 937 691 937 c 0,53,54
  1006.02752294 937 1006.02752294 937 1033 569.5 c 0,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 v1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 v1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" v1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" v1xx r3
 EndChar
 
 StartChar: v1r3u1
-Encoding: 66249 -1 609
+Encoding: 66249 -1 608
 Width: 1335
 GlyphClass: 3
 Flags: W
@@ -45357,7 +45339,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1r3 u1
 EndChar
 
 StartChar: v1r3u2
-Encoding: 66250 -1 610
+Encoding: 66250 -1 609
 Width: 1335
 GlyphClass: 3
 Flags: W
@@ -45427,7 +45409,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1r3 u2
 EndChar
 
 StartChar: v1l3
-Encoding: 66251 -1 611
+Encoding: 66251 -1 610
 Width: 1044
 GlyphClass: 3
 Flags: W
@@ -45499,7 +45481,7 @@ Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" v1xx l3
 EndChar
 
 StartChar: v1l3u1
-Encoding: 66252 -1 612
+Encoding: 66252 -1 611
 Width: 1044
 GlyphClass: 3
 Flags: W
@@ -45578,7 +45560,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1l3 u1
 EndChar
 
 StartChar: v1l3u2
-Encoding: 66253 -1 613
+Encoding: 66253 -1 612
 Width: 1044
 GlyphClass: 3
 Flags: W
@@ -45673,7 +45655,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1l3 u2
 EndChar
 
 StartChar: v1v1
-Encoding: 66254 -1 614
+Encoding: 66254 -1 613
 Width: 1044
 GlyphClass: 3
 Flags: W
@@ -45716,7 +45698,7 @@ Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" v1 xx v1
 EndChar
 
 StartChar: v1v1u1
-Encoding: 66255 -1 615
+Encoding: 66255 -1 614
 Width: 1044
 GlyphClass: 3
 Flags: W
@@ -45775,7 +45757,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 v2 u1
 EndChar
 
 StartChar: v1v1u2
-Encoding: 66256 -1 616
+Encoding: 66256 -1 615
 Width: 1044
 GlyphClass: 3
 Flags: W
@@ -45843,7 +45825,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 v2 u2
 EndChar
 
 StartChar: z1u1
-Encoding: 66257 -1 617
+Encoding: 66257 -1 616
 Width: 1414
 GlyphClass: 3
 Flags: W
@@ -45922,7 +45904,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1 u1
 EndChar
 
 StartChar: z1u2
-Encoding: 66258 -1 618
+Encoding: 66258 -1 617
 Width: 1426
 GlyphClass: 3
 Flags: W
@@ -46016,7 +45998,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1 u2
 EndChar
 
 StartChar: z1r1
-Encoding: 66259 -1 619
+Encoding: 66259 -1 618
 Width: 1532
 GlyphClass: 3
 Flags: W
@@ -46090,7 +46072,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1 r1
 EndChar
 
 StartChar: z1ch1
-Encoding: 66260 -1 620
+Encoding: 66260 -1 619
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -46169,7 +46151,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx ch1
 EndChar
 
 StartChar: z1ch1u1
-Encoding: 66261 -1 621
+Encoding: 66261 -1 620
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -46265,7 +46247,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1ch1 u1
 EndChar
 
 StartChar: z1ch1u2
-Encoding: 66262 -1 622
+Encoding: 66262 -1 621
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -46367,7 +46349,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1ch1 u2
 EndChar
 
 StartChar: z1ch1r1
-Encoding: 66263 -1 623
+Encoding: 66263 -1 622
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -46466,7 +46448,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1ch1 r1
 EndChar
 
 StartChar: z1ch2
-Encoding: 66264 -1 624
+Encoding: 66264 -1 623
 Width: 2485
 GlyphClass: 3
 Flags: W
@@ -46569,7 +46551,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx ch2
 EndChar
 
 StartChar: z1n1
-Encoding: 66268 -1 625
+Encoding: 66268 -1 624
 Width: 1243
 GlyphClass: 3
 Flags: W
@@ -46660,7 +46642,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx n1
 EndChar
 
 StartChar: z1n1u1
-Encoding: 66269 -1 626
+Encoding: 66269 -1 625
 Width: 1243
 GlyphClass: 3
 Flags: W
@@ -46758,7 +46740,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1n1 u1
 EndChar
 
 StartChar: z1n1u2
-Encoding: 66270 -1 627
+Encoding: 66270 -1 626
 Width: 1243
 GlyphClass: 3
 Flags: W
@@ -46870,7 +46852,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1n1 u2
 EndChar
 
 StartChar: z1m1
-Encoding: 66271 -1 628
+Encoding: 66271 -1 627
 Width: 1243
 GlyphClass: 3
 Flags: W
@@ -46958,7 +46940,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx m1
 EndChar
 
 StartChar: z1r3
-Encoding: 66275 -1 629
+Encoding: 66275 -1 628
 Width: 1791
 GlyphClass: 3
 Flags: W
@@ -47037,13 +47019,13 @@ SplineSet
  1003 565.561403509 1003 565.561403509 1167 649 c 0,110,111
  1224 678 1224 678 1303 679 c 1,16,17
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 z1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 z1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1xx r3
 EndChar
 
 StartChar: z1r3u1
-Encoding: 66276 -1 630
+Encoding: 66276 -1 629
 Width: 1791
 GlyphClass: 3
 Flags: W
@@ -47145,7 +47127,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1r3 u1
 EndChar
 
 StartChar: z1r3u2
-Encoding: 66277 -1 631
+Encoding: 66277 -1 630
 Width: 1791
 GlyphClass: 3
 Flags: W
@@ -47252,7 +47234,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1r3 u2
 EndChar
 
 StartChar: z1l3
-Encoding: 66278 -1 632
+Encoding: 66278 -1 631
 Width: 1233
 GlyphClass: 3
 Flags: W
@@ -47359,7 +47341,7 @@ Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" z1xx l3
 EndChar
 
 StartChar: z1l3u1
-Encoding: 66279 -1 633
+Encoding: 66279 -1 632
 Width: 1233
 GlyphClass: 3
 Flags: W
@@ -47474,7 +47456,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1l3 u1
 EndChar
 
 StartChar: z1l3u2
-Encoding: 66280 -1 634
+Encoding: 66280 -1 633
 Width: 1233
 GlyphClass: 3
 Flags: W
@@ -47596,7 +47578,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1l3 u2
 EndChar
 
 StartChar: z1z1
-Encoding: 66281 -1 635
+Encoding: 66281 -1 634
 Width: 1243
 GlyphClass: 3
 Flags: W
@@ -47698,7 +47680,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx z1
 EndChar
 
 StartChar: z1z1u1
-Encoding: 66282 -1 636
+Encoding: 66282 -1 635
 Width: 1243
 GlyphClass: 3
 Flags: W
@@ -47820,7 +47802,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1z1 u1
 EndChar
 
 StartChar: z1z1u2
-Encoding: 66283 -1 637
+Encoding: 66283 -1 636
 Width: 1243
 GlyphClass: 3
 Flags: W
@@ -47947,7 +47929,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1z1 u2
 EndChar
 
 StartChar: z1z1r1
-Encoding: 66284 -1 638
+Encoding: 66284 -1 637
 Width: 1243
 GlyphClass: 3
 Flags: W
@@ -48069,7 +48051,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1z1 r1
 EndChar
 
 StartChar: z1z1r3
-Encoding: 66285 -1 639
+Encoding: 66285 -1 638
 Width: 1243
 GlyphClass: 3
 Flags: W
@@ -48190,13 +48172,13 @@ SplineSet
  924.8 -215 924.8 -215 910 -252 c 0,171,172
  899 -279.5 899 -279.5 899 -309 c 0,159,160
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 z1z1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 z1z1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1z1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1z1 r4
 EndChar
 
 StartChar: shu1
-Encoding: 66288 -1 640
+Encoding: 66288 -1 639
 Width: 1399
 GlyphClass: 3
 Flags: W
@@ -48284,7 +48266,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sh u1
 EndChar
 
 StartChar: shu2
-Encoding: 66289 -1 641
+Encoding: 66289 -1 640
 Width: 1399
 GlyphClass: 3
 Flags: W
@@ -48381,7 +48363,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sh u2
 EndChar
 
 StartChar: shr1
-Encoding: 66290 -1 642
+Encoding: 66290 -1 641
 Width: 1399
 GlyphClass: 3
 Flags: W
@@ -48470,7 +48452,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sh r1
 EndChar
 
 StartChar: shk1
-Encoding: 66291 -1 643
+Encoding: 66291 -1 642
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -48582,7 +48564,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx k1
 EndChar
 
 StartChar: shk1r1
-Encoding: 66294 -1 644
+Encoding: 66294 -1 643
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -48705,7 +48687,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shk1 r1
 EndChar
 
 StartChar: shk1k1
-Encoding: 66295 -1 645
+Encoding: 66295 -1 644
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -48832,7 +48814,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx k1 xx k1
 EndChar
 
 StartChar: shk1r3
-Encoding: 66299 -1 646
+Encoding: 66299 -1 645
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -48948,13 +48930,13 @@ SplineSet
  772 -327 772 -327 784 -341 c 128,-1,151
  796 -355 796 -355 818 -355 c 1,140,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 shk1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 shk1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shk1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shk1 r4
 EndChar
 
 StartChar: sht1
-Encoding: 66302 -1 647
+Encoding: 66302 -1 646
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -49050,7 +49032,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx t1
 EndChar
 
 StartChar: sht1r3
-Encoding: 66307 -1 648
+Encoding: 66307 -1 647
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -49146,13 +49128,13 @@ SplineSet
  1023 -158 1023 -158 1030.5 -168 c 128,-1,117
  1038 -178 1038 -178 1049 -178 c 1,76,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 sht1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 sht1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" sht1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" sht1 r4
 EndChar
 
 StartChar: sht2
-Encoding: 66310 -1 649
+Encoding: 66310 -1 648
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -49239,7 +49221,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx t2
 EndChar
 
 StartChar: sht2u1
-Encoding: 66311 -1 650
+Encoding: 66311 -1 649
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -49340,7 +49322,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sht2 u1
 EndChar
 
 StartChar: sht2u2
-Encoding: 66312 -1 651
+Encoding: 66312 -1 650
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -49444,7 +49426,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sht2 u2
 EndChar
 
 StartChar: shnh
-Encoding: 66313 -1 652
+Encoding: 66313 -1 651
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -49563,7 +49545,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx nh
 EndChar
 
 StartChar: shnhu1
-Encoding: 66314 -1 653
+Encoding: 66314 -1 652
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -49691,7 +49673,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shnh u1
 EndChar
 
 StartChar: shnhu2
-Encoding: 66315 -1 654
+Encoding: 66315 -1 653
 Width: 1426
 GlyphClass: 3
 Flags: W
@@ -49837,7 +49819,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shnh u2
 EndChar
 
 StartChar: shp1
-Encoding: 66316 -1 655
+Encoding: 66316 -1 654
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -49930,7 +49912,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx p1
 EndChar
 
 StartChar: shp1r3
-Encoding: 66320 -1 656
+Encoding: 66320 -1 655
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -50033,13 +50015,13 @@ SplineSet
  1363 39 l 1,126,-1
  1363 -144 l 1,76,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 shp1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 shp1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shp1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shp1 r4
 EndChar
 
 StartChar: shp2
-Encoding: 66323 -1 657
+Encoding: 66323 -1 656
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -50144,7 +50126,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx p2
 EndChar
 
 StartChar: shm1
-Encoding: 66326 -1 658
+Encoding: 66326 -1 657
 Width: 1364
 GlyphClass: 3
 Flags: W
@@ -50241,7 +50223,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx m1
 EndChar
 
 StartChar: shm1r3
-Encoding: 66329 -1 659
+Encoding: 66329 -1 658
 Width: 1613
 GlyphClass: 3
 Flags: W
@@ -50321,13 +50303,13 @@ SplineSet
  1275 164 l 1,99,-1
  1428 164 l 1,95,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 sh
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 sh
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" sh r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shxx r3
 EndChar
 
 StartChar: shm1r3u1
-Encoding: 66330 -1 660
+Encoding: 66330 -1 659
 Width: 1613
 GlyphClass: 3
 Flags: W
@@ -50423,7 +50405,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shm1r3 u1
 EndChar
 
 StartChar: shm1r3u2
-Encoding: 66331 -1 661
+Encoding: 66331 -1 660
 Width: 1613
 GlyphClass: 3
 Flags: W
@@ -50527,7 +50509,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shm1r3 u2
 EndChar
 
 StartChar: s1u1
-Encoding: 66332 -1 662
+Encoding: 66332 -1 661
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -50595,7 +50577,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1 u1
 EndChar
 
 StartChar: s1u2
-Encoding: 66333 -1 663
+Encoding: 66333 -1 662
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -50670,7 +50652,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1 u2
 EndChar
 
 StartChar: s1r1
-Encoding: 66334 -1 664
+Encoding: 66334 -1 663
 Width: 1507
 GlyphClass: 3
 Flags: W
@@ -50738,7 +50720,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1 r1
 EndChar
 
 StartChar: s1k1
-Encoding: 66336 -1 665
+Encoding: 66336 -1 664
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -50836,7 +50818,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx k1
 EndChar
 
 StartChar: s1k1u1
-Encoding: 66337 -1 666
+Encoding: 66337 -1 665
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -50939,7 +50921,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1 u1
 EndChar
 
 StartChar: s1k1u2
-Encoding: 66338 -1 667
+Encoding: 66338 -1 666
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -51054,7 +51036,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1 u2
 EndChar
 
 StartChar: s1k1r1
-Encoding: 66339 -1 668
+Encoding: 66339 -1 667
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -51160,7 +51142,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1 r1
 EndChar
 
 StartChar: s1k1k1
-Encoding: 66340 -1 669
+Encoding: 66340 -1 668
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -51272,7 +51254,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx k1 xx k1
 EndChar
 
 StartChar: s1k1k1u1
-Encoding: 66341 -1 670
+Encoding: 66341 -1 669
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -51399,7 +51381,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1k1 u1
 EndChar
 
 StartChar: s1k1k1u2
-Encoding: 66342 -1 671
+Encoding: 66342 -1 670
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -51528,7 +51510,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1k1 u2
 EndChar
 
 StartChar: s1k1k1r1
-Encoding: 66343 -1 672
+Encoding: 66343 -1 671
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -51656,7 +51638,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1k1 r1
 EndChar
 
 StartChar: s1k1r3
-Encoding: 66344 -1 673
+Encoding: 66344 -1 672
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -51756,13 +51738,13 @@ SplineSet
  883.208333333 -364.395833333 883.208333333 -364.395833333 908 -352 c 1,137,-1
  889 -257 l 1,129,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1k1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1k1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1k1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1k1 r4
 EndChar
 
 StartChar: s1k2
-Encoding: 66347 -1 674
+Encoding: 66347 -1 673
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -51857,7 +51839,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx k2
 EndChar
 
 StartChar: s1t1
-Encoding: 66350 -1 675
+Encoding: 66350 -1 674
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -51939,7 +51921,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx t1
 EndChar
 
 StartChar: s1t1r3
-Encoding: 66353 -1 676
+Encoding: 66353 -1 675
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -52021,13 +52003,13 @@ SplineSet
  946 -147 946 -147 953 -156 c 128,-1,109
  960 -165 960 -165 969 -165 c 2,68,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1t1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1t1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1t1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1t1 r4
 EndChar
 
 StartChar: s1th1
-Encoding: 66356 -1 677
+Encoding: 66356 -1 676
 Width: 1502
 Flags: W
 LayerCount: 2
@@ -52111,7 +52093,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx th1
 EndChar
 
 StartChar: s1th1u1
-Encoding: 66357 -1 678
+Encoding: 66357 -1 677
 Width: 1502
 Flags: W
 LayerCount: 2
@@ -52212,7 +52194,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th1 u1
 EndChar
 
 StartChar: s1th1u2
-Encoding: 66358 -1 679
+Encoding: 66358 -1 678
 Width: 1502
 Flags: W
 LayerCount: 2
@@ -52319,7 +52301,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th1 u2
 EndChar
 
 StartChar: s1th1r1
-Encoding: 66359 -1 680
+Encoding: 66359 -1 679
 Width: 1502
 Flags: W
 LayerCount: 2
@@ -52419,7 +52401,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th1 r1
 EndChar
 
 StartChar: s1th1r3
-Encoding: 66361 -1 681
+Encoding: 66361 -1 680
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -52507,13 +52489,13 @@ SplineSet
  1111 -322 1111 -322 1111 -255 c 0,123,124
  1111 -166.64516129 1111 -166.64516129 1061 -136 c 1,119,120
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1th1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1th1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1th1 r4
 EndChar
 
 StartChar: s1th2
-Encoding: 66364 -1 682
+Encoding: 66364 -1 681
 Width: 2201
 GlyphClass: 3
 Flags: W
@@ -52584,7 +52566,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx th2
 EndChar
 
 StartChar: s1th2u1
-Encoding: 66365 -1 683
+Encoding: 66365 -1 682
 Width: 2201
 GlyphClass: 3
 Flags: W
@@ -52670,7 +52652,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th2 u1
 EndChar
 
 StartChar: s1th2u2
-Encoding: 66366 -1 684
+Encoding: 66366 -1 683
 Width: 2201
 GlyphClass: 3
 Flags: W
@@ -52764,7 +52746,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th2 u2
 EndChar
 
 StartChar: s1th2r1
-Encoding: 66367 -1 685
+Encoding: 66367 -1 684
 Width: 2201
 GlyphClass: 3
 Flags: W
@@ -52855,7 +52837,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th2 r1
 EndChar
 
 StartChar: s1n1
-Encoding: 66368 -1 686
+Encoding: 66368 -1 685
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -52941,7 +52923,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx n1
 EndChar
 
 StartChar: s1n1u1
-Encoding: 66369 -1 687
+Encoding: 66369 -1 686
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53034,7 +53016,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1n1 u1
 EndChar
 
 StartChar: s1n1u2
-Encoding: 66370 -1 688
+Encoding: 66370 -1 687
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53135,7 +53117,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1n1 u2
 EndChar
 
 StartChar: s1p1
-Encoding: 66371 -1 689
+Encoding: 66371 -1 688
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53210,7 +53192,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx p1
 EndChar
 
 StartChar: s1p1u1
-Encoding: 66372 -1 690
+Encoding: 66372 -1 689
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53300,7 +53282,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p1 u1
 EndChar
 
 StartChar: s1p1u2
-Encoding: 66373 -1 691
+Encoding: 66373 -1 690
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53396,7 +53378,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p1 u2
 EndChar
 
 StartChar: s1p1r1
-Encoding: 66374 -1 692
+Encoding: 66374 -1 691
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53489,7 +53471,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p1 r1
 EndChar
 
 StartChar: s1p1r3
-Encoding: 66375 -1 693
+Encoding: 66375 -1 692
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53576,13 +53558,13 @@ SplineSet
  1079 527 1079 527 1074 490.5 c 0,117,118
  1060 388.3 1060 388.3 1060 342 c 0,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1p1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1p1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1p1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1p1 r4
 EndChar
 
 StartChar: s1p2
-Encoding: 66378 -1 694
+Encoding: 66378 -1 693
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53674,7 +53656,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx p2
 EndChar
 
 StartChar: s1p2u1
-Encoding: 66379 -1 695
+Encoding: 66379 -1 694
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53782,7 +53764,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p2 u1
 EndChar
 
 StartChar: s1p2u2
-Encoding: 66380 -1 696
+Encoding: 66380 -1 695
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53893,7 +53875,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p2 u2
 EndChar
 
 StartChar: s1m1
-Encoding: 66381 -1 697
+Encoding: 66381 -1 696
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -53975,7 +53957,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx m1
 EndChar
 
 StartChar: s1m1u1
-Encoding: 66382 -1 698
+Encoding: 66382 -1 697
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -54072,7 +54054,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1m1 u1
 EndChar
 
 StartChar: s1m1u2
-Encoding: 66383 -1 699
+Encoding: 66383 -1 698
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -54175,7 +54157,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1m1 u2
 EndChar
 
 StartChar: s1m1r1
-Encoding: 66384 -1 700
+Encoding: 66384 -1 699
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -54275,7 +54257,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1m1 r1
 EndChar
 
 StartChar: s1r3
-Encoding: 66385 -1 701
+Encoding: 66385 -1 700
 Width: 1803
 GlyphClass: 3
 Flags: W
@@ -54341,13 +54323,13 @@ SplineSet
  1508 877 1508 877 1493 907 c 1,90,-1
  1682 907 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1xx r3
 EndChar
 
 StartChar: s1r3u1
-Encoding: 66386 -1 702
+Encoding: 66386 -1 701
 Width: 1803
 GlyphClass: 3
 Flags: W
@@ -54434,7 +54416,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1r3 u1
 EndChar
 
 StartChar: s1r3u2
-Encoding: 66387 -1 703
+Encoding: 66387 -1 702
 Width: 1803
 GlyphClass: 3
 Flags: W
@@ -54529,7 +54511,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1r3 u2
 EndChar
 
 StartChar: s1l3
-Encoding: 66388 -1 704
+Encoding: 66388 -1 703
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -54625,7 +54607,7 @@ Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" s1xx l3
 EndChar
 
 StartChar: s1l3u1
-Encoding: 66389 -1 705
+Encoding: 66389 -1 704
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -54731,7 +54713,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1l3 u1
 EndChar
 
 StartChar: s1l3u2
-Encoding: 66390 -1 706
+Encoding: 66390 -1 705
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -54847,7 +54829,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1l3 u2
 EndChar
 
 StartChar: s1s1
-Encoding: 66391 -1 707
+Encoding: 66391 -1 706
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -54942,7 +54924,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx s1
 EndChar
 
 StartChar: s1s1u1
-Encoding: 66392 -1 708
+Encoding: 66392 -1 707
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -55048,7 +55030,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1 u1
 EndChar
 
 StartChar: s1s1u2
-Encoding: 66393 -1 709
+Encoding: 66393 -1 708
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -55162,7 +55144,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1 u2
 EndChar
 
 StartChar: s1s1r1
-Encoding: 66394 -1 710
+Encoding: 66394 -1 709
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -55262,7 +55244,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1 r1
 EndChar
 
 StartChar: s1s1r3
-Encoding: 66395 -1 711
+Encoding: 66395 -1 710
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -55356,13 +55338,13 @@ SplineSet
  1325 -138.0625 1325 -138.0625 1240 16 c 1,132,-1
  1382 16 l 1,68,69
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1s1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1s1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1s1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1s1 r4
 EndChar
 
 StartChar: s1s1r3u1
-Encoding: 66396 -1 712
+Encoding: 66396 -1 711
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -55479,7 +55461,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1r3 u1
 EndChar
 
 StartChar: s1s1r3u2
-Encoding: 66397 -1 713
+Encoding: 66397 -1 712
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -55599,7 +55581,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1r3 u2
 EndChar
 
 StartChar: s1rhrh
-Encoding: 66398 -1 714
+Encoding: 66398 -1 713
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -55692,7 +55674,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx rh xx rh
 EndChar
 
 StartChar: s1rhrhu1
-Encoding: 66399 -1 715
+Encoding: 66399 -1 714
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -55796,7 +55778,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1rhrh u1
 EndChar
 
 StartChar: s1rhrhu2
-Encoding: 66400 -1 716
+Encoding: 66400 -1 715
 Width: 1502
 GlyphClass: 3
 Flags: W
@@ -55908,7 +55890,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1rhrh u2
 EndChar
 
 StartChar: h1u1
-Encoding: 66404 -1 717
+Encoding: 66404 -1 716
 Width: 1351
 GlyphClass: 3
 Flags: W
@@ -55972,7 +55954,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1 u1
 EndChar
 
 StartChar: h1u2
-Encoding: 66405 -1 718
+Encoding: 66405 -1 717
 Width: 1351
 GlyphClass: 3
 Flags: W
@@ -56049,7 +56031,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1 u2
 EndChar
 
 StartChar: h1r1
-Encoding: 66406 -1 719
+Encoding: 66406 -1 718
 Width: 1493
 GlyphClass: 3
 Flags: W
@@ -56110,7 +56092,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1 r1
 EndChar
 
 StartChar: h1n1
-Encoding: 66407 -1 720
+Encoding: 66407 -1 719
 Width: 1794
 GlyphClass: 3
 Flags: W
@@ -56174,7 +56156,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" h1 xx n1
 EndChar
 
 StartChar: h1n1u1
-Encoding: 66408 -1 721
+Encoding: 66408 -1 720
 Width: 1930
 GlyphClass: 3
 Flags: W
@@ -56250,7 +56232,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1n1 u1
 EndChar
 
 StartChar: h1n1u2
-Encoding: 66409 -1 722
+Encoding: 66409 -1 721
 Width: 2228
 GlyphClass: 3
 Flags: W
@@ -56334,7 +56316,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1n1 u2
 EndChar
 
 StartChar: h1m1
-Encoding: 66410 -1 723
+Encoding: 66410 -1 722
 Width: 1473
 GlyphClass: 3
 Flags: W
@@ -56394,7 +56376,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" h1 xx m1
 EndChar
 
 StartChar: h1m1u1
-Encoding: 66411 -1 724
+Encoding: 66411 -1 723
 Width: 1473
 GlyphClass: 3
 Flags: W
@@ -56471,7 +56453,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1m1 u1
 EndChar
 
 StartChar: h1m1u2
-Encoding: 66412 -1 725
+Encoding: 66412 -1 724
 Width: 1473
 GlyphClass: 3
 Flags: W
@@ -56554,7 +56536,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1m1 u2
 EndChar
 
 StartChar: h1m1r1
-Encoding: 66413 -1 726
+Encoding: 66413 -1 725
 Width: 1473
 GlyphClass: 3
 Flags: W
@@ -56632,7 +56614,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1m1 r1
 EndChar
 
 StartChar: h1r3
-Encoding: 66414 -1 727
+Encoding: 66414 -1 726
 Width: 1717
 GlyphClass: 3
 Flags: W
@@ -56692,13 +56674,13 @@ SplineSet
  732.833333333 624 732.833333333 624 809.5 524 c 0,78,79
  880 432.043478261 880 432.043478261 880 300.9 c 0,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 h1
+Ligature2: "sub_ligature_presmlm2_0 subtable" r4 h1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" h1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" h1xx r3
 EndChar
 
 StartChar: h1r3u1
-Encoding: 66415 -1 728
+Encoding: 66415 -1 727
 Width: 1717
 GlyphClass: 3
 Flags: W
@@ -56778,7 +56760,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1r3 u1
 EndChar
 
 StartChar: h1r3u2
-Encoding: 66416 -1 729
+Encoding: 66416 -1 728
 Width: 1717
 GlyphClass: 3
 Flags: W
@@ -56864,7 +56846,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1r3 u2
 EndChar
 
 StartChar: h1l3
-Encoding: 66417 -1 730
+Encoding: 66417 -1 729
 Width: 1439
 GlyphClass: 3
 Flags: W
@@ -56962,7 +56944,7 @@ Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" h1xx l3
 EndChar
 
 StartChar: h1l3u1
-Encoding: 66418 -1 731
+Encoding: 66418 -1 730
 Width: 1439
 GlyphClass: 3
 Flags: W
@@ -57070,7 +57052,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1l3 u1
 EndChar
 
 StartChar: h1l3u2
-Encoding: 66419 -1 732
+Encoding: 66419 -1 731
 Width: 1439
 GlyphClass: 3
 Flags: W
@@ -57189,7 +57171,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1l3 u2
 EndChar
 
 StartChar: lhu1
-Encoding: 66420 -1 733
+Encoding: 66420 -1 732
 Width: 967
 GlyphClass: 3
 Flags: W
@@ -57275,7 +57257,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" lh u1
 EndChar
 
 StartChar: lhu2
-Encoding: 66421 -1 734
+Encoding: 66421 -1 733
 Width: 967
 GlyphClass: 3
 Flags: W
@@ -57365,7 +57347,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" lh u2
 EndChar
 
 StartChar: lhlh
-Encoding: 66422 -1 735
+Encoding: 66422 -1 734
 Width: 1923
 GlyphClass: 3
 Flags: W
@@ -57489,7 +57471,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" lh xx lh
 EndChar
 
 StartChar: lhlhu1
-Encoding: 66423 -1 736
+Encoding: 66423 -1 735
 Width: 1923
 GlyphClass: 3
 Flags: W
@@ -57638,7 +57620,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" lhlh u1
 EndChar
 
 StartChar: lhlhu2
-Encoding: 66424 -1 737
+Encoding: 66424 -1 736
 Width: 1923
 GlyphClass: 3
 Flags: W
@@ -57783,7 +57765,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" lhlh u2
 EndChar
 
 StartChar: zhu1
-Encoding: 66425 -1 738
+Encoding: 66425 -1 737
 Width: 855
 GlyphClass: 3
 Flags: W
@@ -57850,7 +57832,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" zh u1
 EndChar
 
 StartChar: zhu2
-Encoding: 66426 -1 739
+Encoding: 66426 -1 738
 Width: 855
 GlyphClass: 3
 Flags: W
@@ -57927,7 +57909,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" zh u2
 EndChar
 
 StartChar: zhk1
-Encoding: 66427 -1 740
+Encoding: 66427 -1 739
 Width: 855
 GlyphClass: 3
 Flags: W
@@ -58026,7 +58008,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx k1
 EndChar
 
 StartChar: zhk1k1
-Encoding: 66430 -1 741
+Encoding: 66430 -1 740
 Width: 855
 GlyphClass: 3
 Flags: W
@@ -58136,7 +58118,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx k1 xx k1
 EndChar
 
 StartChar: zhch1
-Encoding: 66433 -1 742
+Encoding: 66433 -1 741
 Width: 855
 GlyphClass: 3
 Flags: W
@@ -58212,7 +58194,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx ch1
 EndChar
 
 StartChar: zhth1
-Encoding: 66436 -1 743
+Encoding: 66436 -1 742
 Width: 855
 GlyphClass: 3
 Flags: W
@@ -58296,7 +58278,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx th1
 EndChar
 
 StartChar: zhp1
-Encoding: 66448 -1 744
+Encoding: 66448 -1 743
 Width: 855
 GlyphClass: 3
 Flags: W
@@ -58372,7 +58354,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx p1
 EndChar
 
 StartChar: zhm1
-Encoding: 66451 -1 745
+Encoding: 66451 -1 744
 Width: 855
 GlyphClass: 3
 Flags: W
@@ -58453,7 +58435,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx m1
 EndChar
 
 StartChar: zhs1
-Encoding: 66457 -1 746
+Encoding: 66457 -1 745
 Width: 855
 GlyphClass: 3
 Flags: W
@@ -58542,7 +58524,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx s1
 EndChar
 
 StartChar: rhu1
-Encoding: 66460 -1 747
+Encoding: 66460 -1 746
 Width: 759
 GlyphClass: 3
 Flags: W
@@ -58588,7 +58570,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" rh u1
 EndChar
 
 StartChar: rhu2
-Encoding: 66461 -1 748
+Encoding: 66461 -1 747
 Width: 759
 GlyphClass: 3
 Flags: W
@@ -58636,7 +58618,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" rh u2
 EndChar
 
 StartChar: rhrh
-Encoding: 66462 -1 749
+Encoding: 66462 -1 748
 Width: 759
 GlyphClass: 3
 Flags: W
@@ -58684,7 +58666,7 @@ Ligature2: "akhnAkhandinMalaylamlookup1 subtable" rh xx rh
 EndChar
 
 StartChar: rhrhu1
-Encoding: 66463 -1 750
+Encoding: 66463 -1 749
 Width: 759
 GlyphClass: 3
 Flags: W
@@ -58746,7 +58728,7 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" rhrh u1
 EndChar
 
 StartChar: rhrhu2
-Encoding: 66464 -1 751
+Encoding: 66464 -1 750
 Width: 759
 GlyphClass: 3
 Flags: W
@@ -58813,56 +58795,56 @@ Ligature2: "pstsPostBaseSubstitutionsinMala subtable" rhrh u2
 EndChar
 
 StartChar: l4
-Encoding: 66465 -1 752
-Width: 22
+Encoding: 66465 -1 751
+Width: 1502
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
--268 -363 m 0,0,1
- -167 -363 -167 -363 -167 -265 c 0,2,3
- -167 -161.139648438 -167 -161.139648438 -245 -53.5 c 0,4,5
- -270 -19 -270 -19 -300 8 c 1,6,-1
- -117 8 l 1,7,8
- -39.6806640625 -72.412109375 -39.6806640625 -72.412109375 -10.5 -196 c 0,9,10
- -2 -232 -2 -232 -2 -265.5 c 128,-1,11
- -2 -299 -2 -299 -10.5 -339.5 c 128,-1,12
- -19 -380 -19 -380 -47 -413 c 0,13,14
- -111.484375 -489 -111.484375 -489 -272 -489 c 0,15,16
- -395.272460938 -489 -395.272460938 -489 -455.5 -426.5 c 0,17,18
- -504 -376.169921875 -504 -376.169921875 -504 -301 c 1,19,-1
- -498 -217 l 1,20,21
- -498 -161.272460938 -498 -161.272460938 -520.5 -140.13671875 c 0,22,23
- -561.096679688 -102 -561.096679688 -102 -637.048828125 -102 c 0,24,25
- -777.814453125 -102 -777.814453125 -102 -821 -155 c 1,26,27
- -793 -143 -793 -143 -748 -143 c 128,-1,28
- -703 -143 -703 -143 -663.5 -158 c 128,-1,29
- -624 -173 -624 -173 -600.5 -196 c 0,30,31
- -558 -237.595703125 -558 -237.595703125 -558 -304 c 256,32,33
- -558 -372.154296875 -558 -372.154296875 -608 -426 c 0,34,35
- -669.286132812 -492 -669.286132812 -492 -776 -492 c 0,36,37
- -876.799804688 -492 -876.799804688 -492 -939.5 -420.5 c 0,38,39
- -999 -352.649414062 -999 -352.649414062 -999 -259 c 0,40,41
- -999 -145.393554688 -999 -145.393554688 -913.5 -69.5 c 0,42,43
- -813.797851562 19 -813.797851562 19 -635 19 c 0,44,45
- -469.2421875 19 -469.2421875 19 -393 -55 c 0,46,47
- -333 -113.235351562 -333 -113.235351562 -333 -217 c 1,48,-1
- -340 -309 l 1,49,50
- -340 -330 -340 -330 -324 -346.5 c 128,-1,51
- -308 -363 -308 -363 -268 -363 c 0,0,1
--696 -311 m 256,52,53
- -696 -269.5 -696 -269.5 -734 -250.5 c 0,54,55
- -749 -243 -749 -243 -773.5 -243 c 128,-1,56
- -798 -243 -798 -243 -813 -250 c 128,-1,57
- -828 -257 -828 -257 -836.5 -267.5 c 0,58,59
- -850 -284.176757812 -850 -284.176757812 -850 -311 c 256,60,61
- -850 -354.733398438 -850 -354.733398438 -813 -372 c 0,62,63
- -798 -379 -798 -379 -773.5 -379 c 128,-1,64
- -749 -379 -749 -379 -734 -371.5 c 128,-1,65
- -719 -364 -719 -364 -710.5 -353.5 c 0,66,67
- -696 -335.587890625 -696 -335.587890625 -696 -311 c 256,52,53
+1205 -363 m 0,0,1
+ 1306 -363 1306 -363 1306 -265 c 0,2,3
+ 1306 -161.14 1306 -161.14 1228 -53.5 c 0,4,5
+ 1203 -19 1203 -19 1173 8 c 1,6,-1
+ 1356 8 l 1,7,8
+ 1433.31958763 -72.412371134 1433.31958763 -72.412371134 1462.5 -196 c 0,9,10
+ 1471 -232 1471 -232 1471 -265.5 c 128,-1,11
+ 1471 -299 1471 -299 1462.5 -339.5 c 128,-1,12
+ 1454 -380 1454 -380 1426 -413 c 0,13,14
+ 1361.51515152 -489 1361.51515152 -489 1201 -489 c 0,15,16
+ 1077.72727273 -489 1077.72727273 -489 1017.5 -426.5 c 0,17,18
+ 969 -376.169811321 969 -376.169811321 969 -301 c 1,19,-1
+ 975 -217 l 1,20,21
+ 975 -161.272727273 975 -161.272727273 952.5 -140.136363636 c 0,22,23
+ 911.903225806 -102 911.903225806 -102 835.951612903 -102 c 0,24,25
+ 695.185185185 -102 695.185185185 -102 652 -155 c 1,26,27
+ 680 -143 680 -143 725 -143 c 128,-1,28
+ 770 -143 770 -143 809.5 -158 c 128,-1,29
+ 849 -173 849 -173 872.5 -196 c 0,30,31
+ 915 -237.595744681 915 -237.595744681 915 -304 c 256,32,33
+ 915 -372.153846154 915 -372.153846154 865 -426 c 0,34,35
+ 803.714285714 -492 803.714285714 -492 697 -492 c 0,36,37
+ 596.2 -492 596.2 -492 533.5 -420.5 c 0,38,39
+ 474 -352.649122807 474 -352.649122807 474 -259 c 0,40,41
+ 474 -145.393258427 474 -145.393258427 559.5 -69.5 c 0,42,43
+ 659.202531646 19 659.202531646 19 838 19 c 0,44,45
+ 1003.75757576 19 1003.75757576 19 1080 -55 c 0,46,47
+ 1140 -113.235294118 1140 -113.235294118 1140 -217 c 1,48,-1
+ 1133 -309 l 1,49,50
+ 1133 -330 1133 -330 1149 -346.5 c 128,-1,51
+ 1165 -363 1165 -363 1205 -363 c 0,0,1
+777 -311 m 256,52,53
+ 777 -269.5 777 -269.5 739 -250.5 c 0,54,55
+ 724 -243 724 -243 699.5 -243 c 128,-1,56
+ 675 -243 675 -243 660 -250 c 128,-1,57
+ 645 -257 645 -257 636.5 -267.5 c 0,58,59
+ 623 -284.176470588 623 -284.176470588 623 -311 c 256,60,61
+ 623 -354.733333333 623 -354.733333333 660 -372 c 0,62,63
+ 675 -379 675 -379 699.5 -379 c 128,-1,64
+ 724 -379 724 -379 739 -371.5 c 128,-1,65
+ 754 -364 754 -364 762.5 -353.5 c 0,66,67
+ 777 -335.588235294 777 -335.588235294 777 -311 c 256,52,53
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "blwfBelowBaseFormsinMalaylam2lo subtable" xx l3
@@ -58870,7 +58852,7 @@ Ligature2: "blwfBelowBaseFormsinMalaylamloo subtable" l3 xx
 EndChar
 
 StartChar: k1xx
-Encoding: 66466 -1 753
+Encoding: 66466 -1 752
 Width: 1759
 GlyphClass: 3
 Flags: W
@@ -58947,7 +58929,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k1 xx
 EndChar
 
 StartChar: k2xx
-Encoding: 66467 -1 754
+Encoding: 66467 -1 753
 Width: 1801
 GlyphClass: 3
 Flags: W
@@ -59010,7 +58992,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k2 xx
 EndChar
 
 StartChar: k3xx
-Encoding: 66468 -1 755
+Encoding: 66468 -1 754
 Width: 1595
 GlyphClass: 3
 Flags: W
@@ -59067,7 +59049,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k3 xx
 EndChar
 
 StartChar: k4xx
-Encoding: 66469 -1 756
+Encoding: 66469 -1 755
 Width: 2431
 GlyphClass: 3
 Flags: W
@@ -59133,7 +59115,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k4 xx
 EndChar
 
 StartChar: ngxx
-Encoding: 66470 -1 757
+Encoding: 66470 -1 756
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -59213,7 +59195,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ng xx
 EndChar
 
 StartChar: ch1xx
-Encoding: 66471 -1 758
+Encoding: 66471 -1 757
 Width: 1685
 GlyphClass: 3
 Flags: W
@@ -59263,7 +59245,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ch1 xx
 EndChar
 
 StartChar: ch2xx
-Encoding: 66472 -1 759
+Encoding: 66472 -1 758
 Width: 2154
 GlyphClass: 3
 Flags: W
@@ -59334,7 +59316,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ch2 xx
 EndChar
 
 StartChar: ch3xx
-Encoding: 66473 -1 760
+Encoding: 66473 -1 759
 Width: 1623
 GlyphClass: 3
 Flags: W
@@ -59432,7 +59414,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ch3 xx
 EndChar
 
 StartChar: ch4xx
-Encoding: 66474 -1 761
+Encoding: 66474 -1 760
 Width: 2736
 GlyphClass: 3
 Flags: W
@@ -59514,7 +59496,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ch4 xx
 EndChar
 
 StartChar: njxx
-Encoding: 66475 -1 762
+Encoding: 66475 -1 761
 Width: 2445
 GlyphClass: 3
 Flags: W
@@ -59602,7 +59584,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" nj xx
 EndChar
 
 StartChar: t1xx
-Encoding: 66476 -1 763
+Encoding: 66476 -1 762
 Width: 1134
 GlyphClass: 3
 Flags: W
@@ -59658,7 +59640,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" t1 xx
 EndChar
 
 StartChar: t2xx
-Encoding: 66477 -1 764
+Encoding: 66477 -1 763
 Width: 1273
 GlyphClass: 3
 Flags: W
@@ -59704,7 +59686,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" t2 xx
 EndChar
 
 StartChar: t3xx
-Encoding: 66478 -1 765
+Encoding: 66478 -1 764
 Width: 2196
 GlyphClass: 3
 Flags: W
@@ -59772,7 +59754,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" t3 xx
 EndChar
 
 StartChar: t4xx
-Encoding: 66479 -1 766
+Encoding: 66479 -1 765
 Width: 2284
 GlyphClass: 3
 Flags: W
@@ -59852,7 +59834,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" t4 xx
 EndChar
 
 StartChar: nhxx
-Encoding: 66480 -1 767
+Encoding: 66480 -1 766
 Width: 2444
 GlyphClass: 3
 Flags: W
@@ -59929,7 +59911,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" nh xx
 EndChar
 
 StartChar: th1xx
-Encoding: 66481 -1 768
+Encoding: 66481 -1 767
 Width: 1785
 GlyphClass: 3
 Flags: W
@@ -59992,7 +59974,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" th1 xx
 EndChar
 
 StartChar: th2xx
-Encoding: 66482 -1 769
+Encoding: 66482 -1 768
 Width: 1684
 GlyphClass: 3
 Flags: W
@@ -60040,7 +60022,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" th2 xx
 EndChar
 
 StartChar: th3xx
-Encoding: 66483 -1 770
+Encoding: 66483 -1 769
 Width: 1177
 GlyphClass: 3
 Flags: W
@@ -60097,7 +60079,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" th3 xx
 EndChar
 
 StartChar: th4xx
-Encoding: 66484 -1 771
+Encoding: 66484 -1 770
 Width: 1694
 GlyphClass: 3
 Flags: W
@@ -60154,7 +60136,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" th4 xx
 EndChar
 
 StartChar: n1xx
-Encoding: 66485 -1 772
+Encoding: 66485 -1 771
 Width: 1715
 GlyphClass: 3
 Flags: W
@@ -60210,7 +60192,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" n1 xx
 EndChar
 
 StartChar: p1xx
-Encoding: 66486 -1 773
+Encoding: 66486 -1 772
 Width: 1783
 GlyphClass: 3
 Flags: W
@@ -60258,7 +60240,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" p1 xx
 EndChar
 
 StartChar: p2xx
-Encoding: 66487 -1 774
+Encoding: 66487 -1 773
 Width: 2155
 GlyphClass: 3
 Flags: W
@@ -60317,7 +60299,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" p2 xx
 EndChar
 
 StartChar: p3xx
-Encoding: 66488 -1 775
+Encoding: 66488 -1 774
 Width: 2282
 GlyphClass: 3
 Flags: W
@@ -60392,7 +60374,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" p3 xx
 EndChar
 
 StartChar: p4xx
-Encoding: 66489 -1 776
+Encoding: 66489 -1 775
 Width: 1212
 GlyphClass: 3
 Flags: W
@@ -60461,7 +60443,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" p4 xx
 EndChar
 
 StartChar: m1xx
-Encoding: 66490 -1 777
+Encoding: 66490 -1 776
 Width: 1232
 GlyphClass: 3
 Flags: W
@@ -60513,7 +60495,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" m1 xx
 EndChar
 
 StartChar: y1xx
-Encoding: 66491 -1 778
+Encoding: 66491 -1 777
 Width: 1810
 GlyphClass: 3
 Flags: W
@@ -60580,7 +60562,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" y1 xx
 EndChar
 
 StartChar: r3xx
-Encoding: 66492 -1 779
+Encoding: 66492 -1 778
 Width: 1264
 GlyphClass: 3
 Flags: W
@@ -60632,7 +60614,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" r3 xx
 EndChar
 
 StartChar: rhxx
-Encoding: 66493 -1 780
+Encoding: 66493 -1 779
 Width: 1234
 GlyphClass: 3
 Flags: W
@@ -60679,7 +60661,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" rh xx
 EndChar
 
 StartChar: l3xx
-Encoding: 66494 -1 781
+Encoding: 66494 -1 780
 Width: 1644
 GlyphClass: 3
 Flags: W
@@ -60729,7 +60711,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" l3 xx
 EndChar
 
 StartChar: lhxx
-Encoding: 66495 -1 782
+Encoding: 66495 -1 781
 Width: 1318
 GlyphClass: 3
 Flags: W
@@ -60808,7 +60790,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" lh xx
 EndChar
 
 StartChar: zhxx
-Encoding: 66496 -1 783
+Encoding: 66496 -1 782
 Width: 1244
 GlyphClass: 3
 Flags: W
@@ -60868,7 +60850,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" zh xx
 EndChar
 
 StartChar: v1xx
-Encoding: 66497 -1 784
+Encoding: 66497 -1 783
 Width: 1652
 GlyphClass: 3
 Flags: W
@@ -60918,7 +60900,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" v1 xx
 EndChar
 
 StartChar: z1xx
-Encoding: 66498 -1 785
+Encoding: 66498 -1 784
 Width: 1793
 GlyphClass: 3
 Flags: W
@@ -60982,7 +60964,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" z1 xx
 EndChar
 
 StartChar: shxx
-Encoding: 66499 -1 786
+Encoding: 66499 -1 785
 Width: 2072
 GlyphClass: 3
 Flags: W
@@ -61054,7 +61036,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" sh xx
 EndChar
 
 StartChar: s1xx
-Encoding: 66500 -1 787
+Encoding: 66500 -1 786
 Width: 2186
 GlyphClass: 3
 Flags: W
@@ -61118,7 +61100,7 @@ Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" s1 xx
 EndChar
 
 StartChar: h1xx
-Encoding: 66501 -1 788
+Encoding: 66501 -1 787
 Width: 2185
 GlyphClass: 3
 Flags: W
