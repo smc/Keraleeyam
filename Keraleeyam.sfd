@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1418405718
+ModificationTime: 1418449525
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -63,10 +63,9 @@ Lookup: 4 0 0 "halfHalfFormsinMalaylamlookup2" { "halfHalfFormsinMalaylamlookup2
 Lookup: 4 0 0 "blwfBelowBaseFormsinMalaylamloo" { "blwfBelowBaseFormsinMalaylamloo subtable"  } ['blwf' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "blwfBelowBaseFormsinMalaylam2lo" { "blwfBelowBaseFormsinMalaylam2lo subtable"  } ['blwf' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "blwsBelowBaseSubstitutionsinMal" { "blwsBelowBaseSubstitutionsinMal subtable"  } ['blws' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "presPreBaseSubstitutionsinMalay" { "presPreBaseSubstitutionsinMalay subtable"  } ['pres' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "sub_ligature_presmlm2_0" { "sub_ligature_presmlm2_0 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "presPreBaseSubstitutionsinMalayalam" { "presPreBaseSubstitutionsinMalay subtable"  } ['pres' ('mlym' <'dflt' > ) ]
+Lookup: 4 0 0 "presPreBaseSubstituitionsinMalayalam2" { "presPreBaseSubstituitionsinMalayalam2 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
 Lookup: 4 256 0 "pstsPostBaseSubstitutionsinMala" { "pstsPostBaseSubstitutionsinMala subtable"  } ['psts' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "halnHalantFormsinMalaylamlookup" { "halnHalantFormsinMalaylamlookup subtable"  } ['haln' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "pstfPostBaseFormsinMalaylamlook" { "pstfPostBaseFormsinMalaylamlook subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "pstfPostBaseFormsinMalaylam2loo" { "pstfPostBaseFormsinMalaylam2loo subtable"  } ['pstf' ('mlm2' <'dflt' > ) ]
 MarkAttachClasses: 2
@@ -569,7 +568,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 27 10
+WinInfo: 540 27 10
 BeginPrivate: 0
 EndPrivate
 BeginChars: 66502 789
@@ -7781,18 +7780,18 @@ SplineSet
  662 0 l 1,1,-1
  662 44 l 1,2,3
  882 204 882 204 882 406 c 0,4,5
- 882 559 882 559 803 654.5 c 0,6,7
- 724 750 724 750 574.5 750 c 0,8,9
- 425 750 425 750 337.5 658.5 c 0,10,11
+ 882 559 882 559 803 654.5 c 256,6,7
+ 724 750 724 750 574.5 750 c 256,8,9
+ 425 750 425 750 337.5 658.5 c 256,10,11
  250 567 250 567 250 416 c 0,12,13
  250 168 250 168 474 36 c 1,14,-1
  440 -19 l 1,15,16
  321 53 321 53 240 176 c 1,17,18
  160 301 160 301 160 434 c 0,19,20
- 160 652 160 652 287.5 787 c 0,21,22
- 415 922 415 922 617.5 922 c 0,23,24
+ 160 652 160 652 287.5 787 c 256,21,22
+ 415 922 415 922 617.5 922 c 256,23,24
  820 922 820 922 936 788 c 256,25,26
- 1052 654 1052 654 1052 452.5 c 0,27,28
+ 1052 654 1052 654 1052 452.5 c 256,27,28
  1052 251 1052 251 882 70 c 1,29,-1
  1388 70 l 1,30,-1
  1388 0 l 1,0,-1
@@ -8606,7 +8605,6 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k1 xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" k1 xx ZWJ
 EndChar
 
 StartChar: nhcil
@@ -8699,7 +8697,6 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nh xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nh xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" nh xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" nh xx ZWJ
 EndChar
 
 StartChar: n1cil
@@ -8768,7 +8765,6 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" n1 xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" n1 xx ZWJ
 EndChar
 
 StartChar: l3cil
@@ -8850,7 +8846,6 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" l3 xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" l3 xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" l3 xx ZWJ
 EndChar
 
 StartChar: lhcil
@@ -8922,7 +8917,6 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" lh xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" lh xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" lh xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" lh xx ZWJ
 EndChar
 
 StartChar: r3cil
@@ -8978,7 +8972,6 @@ EndSplineSet
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" r3 xx ZWJ
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" r3 xx ZWJ
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" r3 xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" r3 xx ZWJ
 EndChar
 
 StartChar: k1u1
@@ -9762,7 +9755,7 @@ SplineSet
  1032 918 1032 918 1063.5 901.5 c 0,122,123
  1132.37444934 865.422907489 1132.37444934 865.422907489 1163 808 c 1,48,49
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1k1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k1k1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1k1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1k1 r4
 EndChar
@@ -10173,7 +10166,7 @@ SplineSet
  717 -180 717 -180 731.5 -196 c 128,-1,125
  746 -212 746 -212 773 -212 c 1,71,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1t1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k1t1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1t1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1t1 r4
 EndChar
@@ -10828,7 +10821,7 @@ SplineSet
  504 201 504 201 517.5 185 c 128,-1,130
  531 169 531 169 550.5 159.5 c 128,-1,131
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1th1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k1th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1th1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1th1 r4
 EndChar
@@ -11081,7 +11074,7 @@ SplineSet
  311 392.871794872 311 392.871794872 394 478 c 128,-1,88
  476.875 563 476.875 563 605 563 c 1,32,33
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1xx r3
 EndChar
@@ -13898,7 +13891,7 @@ SplineSet
  1898.66015787 841.251350229 1898.66015787 841.251350229 1841 910 c 1,126,-1
  2054 910 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k3th3th4
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k3th3th4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3th3th4 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3th3th4 r4
 EndChar
@@ -14642,7 +14635,7 @@ SplineSet
  1218 848 1218 848 1265 773.5 c 128,-1,0
  1312 699 1312 699 1336 601.5 c 128,-1,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k3
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3xx r3
 EndChar
@@ -15500,7 +15493,7 @@ SplineSet
  700.43373494 873 700.43373494 873 776.5 781.5 c 0,81,82
  846 697.898550725 846 697.898550725 846 580 c 0,5,6
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k4
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 k4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k4xx r3
 EndChar
@@ -17234,7 +17227,7 @@ SplineSet
  991 255.710526316 991 255.710526316 916 159 c 1,107,-1
  1093 159 l 1,16,17
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 ch2
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 ch2
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch2 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch2xx r3
 EndChar
@@ -18944,7 +18937,7 @@ SplineSet
  1451 751.275 1451 751.275 1451 605.423214286 c 128,-1,122
  1451 459.571428571 1451 459.571428571 1376 381 c 1,28,29
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 ch3
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 ch3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch3xx r3
 EndChar
@@ -19543,7 +19536,7 @@ SplineSet
  2154.20765957 791.877446809 2154.20765957 791.877446809 2087 910 c 1,122,-1
  2277 910 l 1,17,18
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 ch4
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 ch4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch4xx r3
 EndChar
@@ -22163,7 +22156,7 @@ SplineSet
  572.666666667 928 572.666666667 928 742.200680272 928 c 128,-1,58
  911.734693878 928 911.734693878 928 1037 835 c 1,0,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 t1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 t1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t1xx r3
 EndChar
@@ -23469,7 +23462,7 @@ SplineSet
  1508 877 1508 877 1493 907 c 1,91,-1
  1682 907 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 t3
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 t3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t3xx r3
 EndChar
@@ -23980,7 +23973,7 @@ SplineSet
  949 553.285714286 949 553.285714286 936.5 483.642857143 c 0,109,110
  913 352.714285714 913 352.714285714 913 296 c 0,16,17
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 t4
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 t4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" t4xx r3
 EndChar
@@ -26834,7 +26827,7 @@ SplineSet
  860.292682927 158 860.292682927 158 925 158 c 0,134,135
  1028.6 158 1028.6 158 1037 336.5 c 0,120,121
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th1th1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th1th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1th1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1th1 r4
 EndChar
@@ -28285,7 +28278,7 @@ SplineSet
  512.902985075 -386 512.902985075 -386 293.5 -186 c 0,79,80
  51 35.0544217687 51 35.0544217687 51 413 c 0,18,19
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1xx r3
 EndChar
@@ -30948,7 +30941,7 @@ SplineSet
  1623 728.047619048 1623 728.047619048 1471 909 c 1,96,-1
  1680 910 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th3th4
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th3th4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3th4 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3th4 r4
 EndChar
@@ -31207,7 +31200,7 @@ SplineSet
  827 673 827 673 809 696 c 0,65,66
  769.086956522 747 769.086956522 747 703 747 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th3
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3xx r3
 EndChar
@@ -31739,7 +31732,7 @@ SplineSet
  1174 854 1174 854 1147 910 c 1,67,-1
  1330 910 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th4
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 th4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" th4xx r3
 EndChar
@@ -32466,7 +32459,7 @@ SplineSet
  1497 523 1497 523 1483.5 560 c 0,94,95
  1452.93865031 643.760736196 1452.93865031 643.760736196 1392 677 c 1,80,81
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1th1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th1 r4
 EndChar
@@ -33323,7 +33316,7 @@ SplineSet
  530 225.818181818 530 225.818181818 645 0 c 1,77,-1
  455 0 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1th3
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1th3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th3 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th3 r4
 EndChar
@@ -33875,7 +33868,7 @@ SplineSet
  2153 339.833333333 2153 339.833333333 2153 437 c 0,108,109
  2153 741 2153 741 2009 909 c 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1th4
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1th4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th4 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th4 r4
 EndChar
@@ -34413,7 +34406,7 @@ SplineSet
  971.409090909 929 971.409090909 929 1089 929 c 256,68,69
  1228.24 929 1228.24 929 1305 828 c 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1n1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1n1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1n1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1n1 r4
 EndChar
@@ -34921,7 +34914,7 @@ SplineSet
  1168 328 1168 328 1168 362 c 128,-1,73
  1168 396 1168 396 1147 427 c 128,-1,74
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1m1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1m1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1m1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1m1 r4
 EndChar
@@ -35154,7 +35147,7 @@ SplineSet
  174 -57 174 -57 134 30.5 c 0,66,67
  54 205.5 54 205.5 54 414 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 n1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1xx r3
 EndChar
@@ -36387,7 +36380,7 @@ SplineSet
  1199 909 l 1,56,-1
  1199 549 l 1,0,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 p1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p1xx r3
 EndChar
@@ -37557,7 +37550,7 @@ SplineSet
  1351 163 l 1,76,-1
  1351 510 l 2,66,67
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p2
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 p2
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p2 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p2xx r3
 EndChar
@@ -39625,7 +39618,7 @@ SplineSet
  615.097560976 150 615.097560976 150 638.5 200.5 c 0,95,96
  655 236.105263158 655 236.105263158 655 278 c 256,81,82
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p3
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 p3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p3 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p3xx r3
 EndChar
@@ -40420,7 +40413,7 @@ SplineSet
  785 338.153846154 785 338.153846154 808 324 c 0,79,80
  815.5 318 815.5 318 827 318 c 2,0,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p4
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 p4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p4 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" p4xx r3
 EndChar
@@ -41156,7 +41149,7 @@ SplineSet
  528 930 528 930 664.447368421 930 c 128,-1,78
  800.894736842 930 800.894736842 930 885 828 c 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 m1p1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 m1p1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1p1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1p1 r4
 EndChar
@@ -41703,7 +41696,7 @@ SplineSet
  1098 661.739130435 1098 661.739130435 1098 464 c 2,64,-1
  1100 25 l 1,25,26
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 m1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 m1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1xx r3
 EndChar
@@ -45268,7 +45261,7 @@ SplineSet
  542.6 937 542.6 937 691 937 c 0,53,54
  1006.02752294 937 1006.02752294 937 1033 569.5 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 v1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 v1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" v1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" v1xx r3
 EndChar
@@ -47017,7 +47010,7 @@ SplineSet
  1003 565.561403509 1003 565.561403509 1167 649 c 0,110,111
  1224 678 1224 678 1303 679 c 1,16,17
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 z1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 z1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1xx r3
 EndChar
@@ -48170,7 +48163,7 @@ SplineSet
  924.8 -215 924.8 -215 910 -252 c 0,171,172
  899 -279.5 899 -279.5 899 -309 c 0,159,160
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 z1z1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 z1z1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1z1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1z1 r4
 EndChar
@@ -48928,7 +48921,7 @@ SplineSet
  772 -327 772 -327 784 -341 c 128,-1,151
  796 -355 796 -355 818 -355 c 1,140,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 shk1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 shk1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shk1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shk1 r4
 EndChar
@@ -49126,7 +49119,7 @@ SplineSet
  1023 -158 1023 -158 1030.5 -168 c 128,-1,117
  1038 -178 1038 -178 1049 -178 c 1,76,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 sht1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 sht1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" sht1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" sht1 r4
 EndChar
@@ -50013,7 +50006,7 @@ SplineSet
  1363 39 l 1,126,-1
  1363 -144 l 1,76,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 shp1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 shp1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shp1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shp1 r4
 EndChar
@@ -50301,7 +50294,7 @@ SplineSet
  1275 164 l 1,99,-1
  1428 164 l 1,95,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 sh
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 sh
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" sh r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" shxx r3
 EndChar
@@ -51736,7 +51729,7 @@ SplineSet
  883.208333333 -364.395833333 883.208333333 -364.395833333 908 -352 c 1,137,-1
  889 -257 l 1,129,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1k1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1k1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1k1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1k1 r4
 EndChar
@@ -52001,7 +51994,7 @@ SplineSet
  946 -147 946 -147 953 -156 c 128,-1,109
  960 -165 960 -165 969 -165 c 2,68,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1t1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1t1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1t1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1t1 r4
 EndChar
@@ -52487,7 +52480,7 @@ SplineSet
  1111 -322 1111 -322 1111 -255 c 0,123,124
  1111 -166.64516129 1111 -166.64516129 1061 -136 c 1,119,120
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1th1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1th1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1th1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1th1 r4
 EndChar
@@ -53556,7 +53549,7 @@ SplineSet
  1079 527 1079 527 1074 490.5 c 0,117,118
  1060 388.3 1060 388.3 1060 342 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1p1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1p1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1p1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1p1 r4
 EndChar
@@ -54321,7 +54314,7 @@ SplineSet
  1508 877 1508 877 1493 907 c 1,90,-1
  1682 907 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1xx r3
 EndChar
@@ -55336,7 +55329,7 @@ SplineSet
  1325 -138.0625 1325 -138.0625 1240 16 c 1,132,-1
  1382 16 l 1,68,69
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1s1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 s1s1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1s1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1s1 r4
 EndChar
@@ -56672,7 +56665,7 @@ SplineSet
  732.833333333 624 732.833333333 624 809.5 524 c 0,78,79
  880 432.043478261 880 432.043478261 880 300.9 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 h1
+Ligature2: "presPreBaseSubstituitionsinMalayalam2 subtable" r4 h1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" h1 r4
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" h1xx r3
 EndChar
