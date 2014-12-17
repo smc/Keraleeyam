@@ -2,7 +2,7 @@ SplineFontDB: 3.0
 FontName: Keraleeyam
 FullName: Keraleeyam
 FamilyName: Keraleeyam
-Weight: Book
+Weight: Bold
 Copyright: Digitized data copyright (c) 2014 by Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose ), Rajeesh K Nambiar, Kavya Manohar, Swathanthra Malayalam Computing.
 Version: 1.0.0-beta.20141216
 ItalicAngle: 0
@@ -21,13 +21,13 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1418710287
-PfmFamily: 81
-TTFWeight: 400
+ModificationTime: 1418831681
+PfmFamily: 33
+TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 0 0 0 0 0 0 0 0 0 0
+Panose: 0 0 8 0 0 0 0 0 0 0
 OS2TypoAscent: 1304
 OS2TypoAOffset: 0
 OS2TypoDescent: -744
@@ -568,7 +568,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 11
+WinInfo: 32 32 11
 BeginPrivate: 0
 EndPrivate
 BeginChars: 792 792
