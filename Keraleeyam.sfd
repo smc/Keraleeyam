@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1419058078
+ModificationTime: 1419759753
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -69,9 +69,15 @@ Lookup: 4 256 0 "pstsPostBaseSubstitutionsinMala" { "pstsPostBaseSubstitutionsin
 Lookup: 4 0 0 "halnHalantFormsinMalaylamlookup" { "halnHalantFormsinMalaylamlookup subtable"  } ['haln' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "pstfPostBaseFormsinMalaylamlook" { "pstfPostBaseFormsinMalaylamlook subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "pstfPostBaseFormsinMalaylam2loo" { "pstfPostBaseFormsinMalaylam2loo subtable"  } ['pstf' ('mlm2' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1" { "'kern' Horizontal Kerning lookup 1-y2classes" [307,30,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > 'mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 MarkAttachClasses: 2
 "nomark" 0 
 DEI: 91125
+KernClass2: 3 2 "'kern' Horizontal Kerning lookup 1-y2classes"
+ 58 k1th1r3 k3th3th4r3 ch4r3 th1th1r3 th3th4r3 n1th1r3 n1th4r3
+ 14 k1t1 k1n1 k1m1
+ 12 y2 y2u1 y2u2
+ 0 {} 0 {} 0 {} 80 {} 0 {} 0 {}
 TtTable: prep
 PUSHW_1
  0
@@ -568,7 +574,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 26 26 10
+WinInfo: 104 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 289792 144896 96597 461824 -1048576 96597 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -8412,7 +8418,7 @@ StartChar: y2u2
 Encoding: 191 -1 185
 Width: 294
 GlyphClass: 3
-Flags: WO
+Flags: W
 LayerCount: 2
 Back
 Fore
