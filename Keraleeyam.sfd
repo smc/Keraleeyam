@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1419759753
+ModificationTime: 1419774808
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -73,11 +73,17 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1" { "'kern' Horizontal Kernin
 MarkAttachClasses: 2
 "nomark" 0 
 DEI: 91125
-KernClass2: 3 2 "'kern' Horizontal Kerning lookup 1-y2classes"
- 58 k1th1r3 k3th3th4r3 ch4r3 th1th1r3 th3th4r3 n1th1r3 n1th4r3
+KernClass2: 9 2 "'kern' Horizontal Kerning lookup 1-y2classes"
+ 70 k1shm1 k1l3 k1th1r3 k3th3th4r3 ch4r3 th1th1r3 th3th4r3 n1th1r3 n1th4r3
  14 k1t1 k1n1 k1m1
+ 4 k3k3
+ 23 k1k1r3 k1s1 k1rhrh k3r3
+ 6 k1t1r3
+ 11 k1shnh k3l3
+ 15 k1nh k4n1 ch2r3
+ 13 ch1ch1 ch1ch2
  12 y2 y2u1 y2u2
- 0 {} 0 {} 0 {} 80 {} 0 {} 0 {}
+ 0 {} 0 {} 0 {} 100 {} 0 {} -10 {} 0 {} 80 {} 0 {} 130 {} 0 {} 50 {} 0 {} 200 {} 0 {} 180 {} 0 {} 200 {}
 TtTable: prep
 PUSHW_1
  0
@@ -574,7 +580,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 104 26 10
+WinInfo: 26 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 289792 144896 96597 461824 -1048576 96597 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
