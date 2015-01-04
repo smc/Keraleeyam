@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1419774808
+ModificationTime: 1419959429
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -56,6 +56,8 @@ OS2XHeight: 0
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80800001.00002002.00000000.00000000
+Lookup: 2 0 0 "'ccmp' Glyph Composition/Decomposition lookup 1" { "'ccmp' Glyph Composition/Decomposition lookup 1-1"  } ['ccmp' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
+Lookup: 6 0 0 "'calt' Contextual Alternates lookup 1" { "'calt' Contextual Alternates lookup 1-1"  } ['calt' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "akhnAkhandinMalaylamlookup1" { "akhnAkhandinMalaylamlookup1 subtable"  } ['akhn' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "akhnAkhandinMalaylam2lookup1" { "akhnAkhandinMalaylam2lookup1 subtable"  } ['akhn' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "prefPreBaseFormsinMalaylam2look" { "prefPreBaseFormsinMalaylam2look subtable"  } ['pref' ('mlm2' <'dflt' > ) ]
@@ -73,17 +75,44 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1" { "'kern' Horizontal Kernin
 MarkAttachClasses: 2
 "nomark" 0 
 DEI: 91125
-KernClass2: 9 2 "'kern' Horizontal Kerning lookup 1-y2classes"
- 70 k1shm1 k1l3 k1th1r3 k3th3th4r3 ch4r3 th1th1r3 th3th4r3 n1th1r3 n1th4r3
+KernClass2: 13 2 "'kern' Horizontal Kerning lookup 1-y2classes"
+ 75 k1th1r3 k1l3 k1shm1 k3th3th4r3 ch4r3 th1th1r3 th3th4r3 n1th1r3 n1th4r3 s1s1
  14 k1t1 k1n1 k1m1
  4 k3k3
  23 k1k1r3 k1s1 k1rhrh k3r3
  6 k1t1r3
  11 k1shnh k3l3
- 15 k1nh k4n1 ch2r3
- 13 ch1ch1 ch1ch2
+ 20 k1nh k4n1 ch2r3 s1l3
+ 30 ch1ch1 ch1ch2 t1t1 th3th3 l3l3
+ 9 t3t3 t3t4
+ 9 z1l3 h1l3
+ 5 p3th3
+ 14 z1z1 sht1 sht2
  12 y2 y2u1 y2u2
- 0 {} 0 {} 0 {} 100 {} 0 {} -10 {} 0 {} 80 {} 0 {} 130 {} 0 {} 50 {} 0 {} 200 {} 0 {} 180 {} 0 {} 200 {}
+ 0 {} 0 {} 0 {} 100 {} 0 {} -10 {} 0 {} 80 {} 0 {} 130 {} 0 {} 50 {} 0 {} 200 {} 0 {} 180 {} 0 {} 200 {} 0 {} 150 {} 0 {} 180 {} 0 {} 180 {} 0 {} 130 {}
+ChainSub2: class "'calt' Contextual Alternates lookup 1-1" 5 5 5 1
+  Class: 56 hyphen zero one two three four five six seven eight nine
+  Class: 7 uni0D3E
+  Class: 10 uni0D02 m1
+  Class: 7 uni25CC
+  BClass: 56 hyphen zero one two three four five six seven eight nine
+  BClass: 7 uni0D3E
+  BClass: 10 uni0D02 m1
+  BClass: 7 uni25CC
+  FClass: 56 hyphen zero one two three four five six seven eight nine
+  FClass: 7 uni0D3E
+  FClass: 10 uni0D02 m1
+  FClass: 7 uni25CC
+ 1 1 2
+  ClsList: 4
+  BClsList: 1
+  FClsList: 2 3
+ 1
+  SeqLookup: 0 "'ccmp' Glyph Composition/Decomposition lookup 1"
+  ClassNames: "All_Others" "hyphen_digits" "aa" "am_ma" "dot_circle"
+  BClassNames: "All_Others" "hyphen_digits" "aa" "am_ma" "dot_circle"
+  FClassNames: "All_Others" "hyphen_digits" "aa" "am_ma" "dot_circle"
+EndFPST
 TtTable: prep
 PUSHW_1
  0
@@ -580,7 +609,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 26 26 10
+WinInfo: 546 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 289792 144896 96597 461824 -1048576 96597 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -8311,6 +8340,7 @@ SplineSet
  742 674 742 674 720 686 c 1,73,-1
  718 686 l 1,63,64
 EndSplineSet
+MultipleSubs2: "'ccmp' Glyph Composition/Decomposition lookup 1-1" NULL
 EndChar
 
 StartChar: r4
