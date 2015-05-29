@@ -4,6 +4,7 @@ FullName: Keraleeyam
 FamilyName: Keraleeyam
 Weight: Bold
 Copyright: Digitized data copyright (c) 2014 by Hussain KH, Rajeesh K Nambiar, Kavya Manohar, Swathanthra Malayalam Computing.
+UComments: "Keraleeyam font was first designed as an ASCII font in 2005 and distributed with Rachana editor. This Unicode Keraleeyam font based on Rachana's exhaustive character set of traditional Malayalam Lipi is totally redesigned as a part of the Fellowship (2014-2015) granted by India Foundation for the Arts, Bangalore under Arts Research and Documentation Programme. The font is dedicated to the environmental activism in Kerala."
 Version: 1.0.0-beta.20141217
 ItalicAngle: 0
 UnderlinePosition: -723
@@ -21,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1420654817
+ModificationTime: 1432869454
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -51,8 +52,6 @@ OS2SupXOff: 0
 OS2SupYOff: 477
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
-OS2CapHeight: 0
-OS2XHeight: 0
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80800001.00002002.00000000.00000000
@@ -8400,7 +8399,7 @@ SplineSet
  60 -107 60 -107 77 -86.5 c 0,21,22
  115 -40.6767578125 115 -40.6767578125 115 44 c 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "pstfPostBaseFormsinMalaylam2loo subtable" xx y1
 Ligature2: "pstfPostBaseFormsinMalaylamlook subtable" y1 xx
 EndChar
@@ -8446,7 +8445,7 @@ SplineSet
  116 -469 116 -469 153 -469 c 256,43,31
  190 -469 190 -469 215 -441.5 c 128,-1,32
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y2 u1
 EndChar
 
@@ -8499,7 +8498,7 @@ SplineSet
  284 -430.857421875 284 -430.857421875 284 -386.428710938 c 0,55,56
  284 -297.125 284 -297.125 233 -261 c 1,34,35
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y2 u2
 EndChar
 
@@ -8531,7 +8530,7 @@ SplineSet
  245 739 l 1,5,-1
  259 -219 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "pstfPostBaseFormsinMalaylam2loo subtable" xx v1
 Ligature2: "pstfPostBaseFormsinMalaylamlook subtable" v1 xx
 EndChar
@@ -9100,7 +9099,7 @@ SplineSet
  300.03125 154 300.03125 154 345 154 c 0,76,77
  360 154 360 154 393 163 c 1,65,66
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1 u1
 EndChar
 
@@ -9820,7 +9819,7 @@ SplineSet
  1032 918 1032 918 1063.5 901.5 c 0,122,123
  1132.37444934 865.422907489 1132.37444934 865.422907489 1163 808 c 1,48,49
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1k1
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1k1 xx r3
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1k1 r4
@@ -12124,7 +12123,7 @@ SplineSet
  254 230 254 230 267.5 214 c 128,-1,163
  281 198 281 198 300.5 189 c 128,-1,164
 EndSplineSet
-LCarets2: 4 0 0 0 0 
+LCarets2: 4 0 0 0 0
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx sh xx nh
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx sh xx nh
 EndChar
@@ -22018,7 +22017,7 @@ SplineSet
  785 421.445783133 785 421.445783133 785 312.180034423 c 128,-1,64
  785 202.914285714 785 202.914285714 716 128 c 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" t1 xx t1
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" t1 xx t1
 EndChar
@@ -30461,7 +30460,7 @@ SplineSet
  911.195652174 -25 911.195652174 -25 795 -25 c 0,80,81
  707.115384615 -25 707.115384615 -25 626 32 c 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th3 xx th4
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th3 xx th4
 EndChar
@@ -30932,7 +30931,7 @@ SplineSet
  957 -343 l 1,109,-1
  992 -343 l 1,103,104
 EndSplineSet
-LCarets2: 4 0 0 0 0 
+LCarets2: 4 0 0 0 0
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th3 xx th4 xx m1
 Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th3 xx th4 xx m1
 EndChar
@@ -41087,7 +41086,7 @@ SplineSet
  1171 -23 1171 -23 1184 0 c 1,83,-1
  1179 0 l 1,60,61
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1p1 u2
 EndChar
 
@@ -42657,7 +42656,7 @@ SplineSet
  487 -341 487 -341 489.5 -341 c 128,-1,149
  492 -341 492 -341 502 -339 c 1,140,141
 EndSplineSet
-LCarets2: 4 0 0 0 0 
+LCarets2: 4 0 0 0 0
 Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx k1k1
 Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx k1 xx k1
 EndChar
@@ -58900,7 +58899,7 @@ SplineSet
  754 -364 754 -364 762.5 -353.5 c 0,66,67
  777 -335.588235294 777 -335.588235294 777 -311 c 256,52,53
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "blwfBelowBaseFormsinMalaylam2lo subtable" xx l3
 Ligature2: "blwfBelowBaseFormsinMalaylamloo subtable" l3 xx
 EndChar
@@ -58915,7 +58914,7 @@ Back
 Fore
 Refer: 164 3405 N 1 0 0 1 1270 0 2
 Refer: 115 3349 N 1 0 0 1 0 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k1 xx
 EndChar
 
@@ -59046,7 +59045,7 @@ Back
 Fore
 Refer: 164 3405 N 1 0 0 1 751 0 2
 Refer: 125 3359 N 1 0 0 1 0 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" t1 xx
 EndChar
 
@@ -59216,7 +59215,7 @@ Back
 Fore
 Refer: 164 3405 N 1 0 0 1 714 0 2
 Refer: 138 3373 N 1 0 0 1 0 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" p4 xx
 EndChar
 
