@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1442637998
+ModificationTime: 1442638287
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -65,11 +65,11 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 26 26 10
+WinInfo: 546 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 289792 144896 96597 461824 -1048576 96597 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 792 792
+BeginChars: 793 793
 
 StartChar: .notdef
 Encoding: 187 -1 0
@@ -57269,6 +57269,26 @@ SplineSet
  295 1081 295 1081 284 1036.5 c 128,-1,13
  273 992 273 992 251.5 953 c 0,14,15
  205.0234375 868.693359375 205.0234375 868.693359375 126 834 c 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: dotreph
+Encoding: 792 3406 792
+Width: 0
+GlyphClass: 4
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-669 953 m 260,0,1
+ -767 953 -767 953 -807 1044 c 4,2,3
+ -819 1071 -819 1071 -819 1102 c 260,4,5
+ -819 1165 -819 1165 -775 1209 c 4,6,7
+ -729 1253 -729 1253 -669 1252 c 260,8,9
+ -608 1252 -608 1252 -563.5 1208.5 c 132,-1,10
+ -519 1165 -519 1165 -519 1102 c 260,11,12
+ -519 1042 -519 1042 -561.5 997.5 c 132,-1,13
+ -604 953 -604 953 -669 953 c 260,0,1
 EndSplineSet
 EndChar
 EndChars

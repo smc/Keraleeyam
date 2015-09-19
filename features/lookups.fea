@@ -16,7 +16,7 @@ lookup akhn_chillu {
 
 lookup akhn_conjuncts {
   lookupflag 0;
- sub nh xx ZWJ  by nhcil;
+    sub nh xx ZWJ  by nhcil;
     sub n1 xx ZWJ  by n1cil;
     sub r3 xx ZWJ  by r3cil;
     sub l3 xx ZWJ  by l3cil;
@@ -406,6 +406,7 @@ lookup psts_vowel_signs {
     sub k3 u1  by k3u1;
     sub k3 u2  by k3u2;
     sub k3 r1  by k3r1;
+    sub k3k3 u1  by k3k3u1;
     sub k3k3 u2  by k3k3u2;
     sub k3n1 u1  by k3n1u1;
     sub k3r3 u1  by k3r3u1;
