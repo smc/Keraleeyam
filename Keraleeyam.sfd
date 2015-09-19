@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1432869454
+ModificationTime: 1442636253
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -119,7 +119,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 546 26 10
+WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 289792 144896 96597 461824 -1048576 96597 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -1536,17 +1536,17 @@ EndChar
 
 StartChar: I
 Encoding: 44 73 44
-Width: 258
+Width: 302
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-73 0 m 1,0,-1
- 73 1254 l 1,1,-1
- 201 1254 l 1,2,-1
- 201 0 l 1,3,-1
- 73 0 l 1,0,-1
+60 0 m 1,0,-1
+ 60 1254 l 1,1,-1
+ 242 1254 l 1,2,-1
+ 242 0 l 1,3,-1
+ 60 0 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -2375,7 +2375,7 @@ EndChar
 
 StartChar: i
 Encoding: 76 105 76
-Width: 219
+Width: 273
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2383,20 +2383,20 @@ Fore
 SplineSet
 55 1020 m 1,0,-1
  55 1254 l 1,1,-1
- 169 1254 l 1,2,-1
- 169 1020 l 1,3,-1
+ 234 1254 l 5,2,-1
+ 234 1020 l 5,3,-1
  55 1020 l 1,0,-1
 56 0 m 1,4,-1
  56 922 l 1,5,-1
- 169 922 l 1,6,-1
- 169 0 l 1,7,-1
+ 234 922 l 5,6,-1
+ 234 0 l 5,7,-1
  56 0 l 1,4,-1
 EndSplineSet
 EndChar
 
 StartChar: j
 Encoding: 77 106 77
-Width: 287
+Width: 315
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2404,19 +2404,19 @@ Fore
 SplineSet
 88 1016 m 1,0,-1
  88 1254 l 1,1,-1
- 238 1254 l 1,2,-1
- 238 1016 l 1,3,-1
+ 265 1254 l 1,2,-1
+ 265 1016 l 1,3,-1
  88 1016 l 1,0,-1
 50 -354 m 0,4,5
- 24.125 -354 24.125 -354 -23 -341 c 1,6,-1
+ 24 -354 24 -354 -23 -341 c 1,6,-1
  -23 -166 l 1,7,-1
  27 -166 l 2,8,9
  61 -166 61 -166 74.5 -149 c 128,-1,10
  88 -132 88 -132 88 -88 c 2,11,-1
  88 917 l 1,12,-1
- 238 917 l 1,13,-1
- 238 -140 l 2,14,15
- 238 -249 238 -249 188 -301.5 c 128,-1,16
+ 265 917 l 1,13,-1
+ 265 -140 l 2,14,15
+ 265 -249 265 -249 201.5 -301.5 c 128,-1,16
  138 -354 138 -354 50 -354 c 0,4,5
 EndSplineSet
 EndChar
@@ -2447,7 +2447,7 @@ EndChar
 
 StartChar: l
 Encoding: 79 108 79
-Width: 217
+Width: 288
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2455,8 +2455,8 @@ Fore
 SplineSet
 59 0 m 1,0,-1
  59 1254 l 1,1,-1
- 171 1254 l 1,2,-1
- 171 0 l 1,3,-1
+ 233 1252 l 1,2,-1
+ 233 -2 l 1,3,-1
  59 0 l 1,0,-1
 EndSplineSet
 EndChar
