@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1442636253
+ModificationTime: 1442637998
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -55,63 +55,9 @@ OS2StrikeYPos: 250
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80800001.00002002.00000000.00000000
-Lookup: 2 0 0 "'ccmp' Glyph Composition/Decomposition lookup 1" { "'ccmp' Glyph Composition/Decomposition lookup 1-1"  } ['ccmp' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 6 0 0 "'calt' Contextual Alternates lookup 1" { "'calt' Contextual Alternates lookup 1-1"  } ['calt' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "akhnAkhandinMalaylamlookup1" { "akhnAkhandinMalaylamlookup1 subtable"  } ['akhn' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "akhnAkhandinMalaylam2lookup1" { "akhnAkhandinMalaylam2lookup1 subtable"  } ['akhn' ('mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "prefPreBaseFormsinMalaylam2look" { "prefPreBaseFormsinMalaylam2look subtable"  } ['pref' ('mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "halfHalfFormsinMalaylamlookup2" { "halfHalfFormsinMalaylamlookup2 subtable"  } ['half' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "blwfBelowBaseFormsinMalaylamloo" { "blwfBelowBaseFormsinMalaylamloo subtable"  } ['blwf' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "blwfBelowBaseFormsinMalaylam2lo" { "blwfBelowBaseFormsinMalaylam2lo subtable"  } ['blwf' ('mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "blwsBelowBaseSubstitutionsinMal" { "blwsBelowBaseSubstitutionsinMal subtable"  } ['blws' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "presPreBaseSubstitutionsinMalay" { "presPreBaseSubstitutionsinMalay subtable"  } ['pres' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "sub_ligature_presmlm2_0" { "sub_ligature_presmlm2_0 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
-Lookup: 4 256 0 "pstsPostBaseSubstitutionsinMala" { "pstsPostBaseSubstitutionsinMala subtable"  } ['psts' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "halnHalantFormsinMalaylamlookup" { "halnHalantFormsinMalaylamlookup subtable"  } ['haln' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "pstfPostBaseFormsinMalaylamlook" { "pstfPostBaseFormsinMalaylamlook subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "pstfPostBaseFormsinMalaylam2loo" { "pstfPostBaseFormsinMalaylam2loo subtable"  } ['pstf' ('mlm2' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1" { "'kern' Horizontal Kerning lookup 1-y2classes" [307,30,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > 'mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 MarkAttachClasses: 2
 "nomark" 0 
 DEI: 91125
-KernClass2: 13 2 "'kern' Horizontal Kerning lookup 1-y2classes"
- 75 k1th1r3 k1l3 k1shm1 k3th3th4r3 ch4r3 th1th1r3 th3th4r3 n1th1r3 n1th4r3 s1s1
- 14 k1t1 k1n1 k1m1
- 4 k3k3
- 23 k1k1r3 k1s1 k1rhrh k3r3
- 6 k1t1r3
- 11 k1shnh k3l3
- 20 k1nh k4n1 ch2r3 s1l3
- 30 ch1ch1 ch1ch2 t1t1 th3th3 l3l3
- 9 t3t3 t3t4
- 9 z1l3 h1l3
- 5 p3th3
- 14 z1z1 sht1 sht2
- 12 y2 y2u1 y2u2
- 0 {} 0 {} 0 {} 100 {} 0 {} -10 {} 0 {} 80 {} 0 {} 130 {} 0 {} 50 {} 0 {} 200 {} 0 {} 180 {} 0 {} 200 {} 0 {} 150 {} 0 {} 180 {} 0 {} 180 {} 0 {} 130 {}
-ChainSub2: class "'calt' Contextual Alternates lookup 1-1" 5 5 5 1
-  Class: 56 hyphen zero one two three four five six seven eight nine
-  Class: 7 uni0D3E
-  Class: 10 uni0D02 m1
-  Class: 7 uni25CC
-  BClass: 56 hyphen zero one two three four five six seven eight nine
-  BClass: 7 uni0D3E
-  BClass: 10 uni0D02 m1
-  BClass: 7 uni25CC
-  FClass: 56 hyphen zero one two three four five six seven eight nine
-  FClass: 7 uni0D3E
-  FClass: 10 uni0D02 m1
-  FClass: 7 uni25CC
- 1 1 2
-  ClsList: 4
-  BClsList: 1
-  FClsList: 2 3
- 1
-  SeqLookup: 0 "'ccmp' Glyph Composition/Decomposition lookup 1"
-  ClassNames: "All_Others" "hyphen_digits" "aa" "am_ma" "dot_circle"
-  BClassNames: "All_Others" "hyphen_digits" "aa" "am_ma" "dot_circle"
-  FClassNames: "All_Others" "hyphen_digits" "aa" "am_ma" "dot_circle"
-EndFPST
 LangName: 1033 "" "" "" "SMCKeraleeyam2014" "" "1.0.0-beta.20141217" "" "" "Swatanthra Malayalam Computing(SMC)+AAoA-http://smc.org.in" "Hussain K. H." "" "http://smc.org.in" "hussain.rachana@gmail.com" "Digitized data copyright (c) 2014 by Hussain K. H., Rajeesh K Nambiar, Kavya Manohar, Swathanthra Malayalam Computing, with Reserved Font Name Keraleeyam.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: Custom
 UnicodeInterp: none
@@ -119,7 +65,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 26 10
+WinInfo: 26 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 289792 144896 96597 461824 -1048576 96597 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -7664,7 +7610,6 @@ SplineSet
  742 674 742 674 720 686 c 1,73,-1
  718 686 l 1,63,64
 EndSplineSet
-MultipleSubs2: "'ccmp' Glyph Composition/Decomposition lookup 1-1" NULL
 EndChar
 
 StartChar: r4
@@ -7693,8 +7638,6 @@ SplineSet
  1000 -202 l 1,23,-1
  1032 -380 l 1,0,-1
 EndSplineSet
-Ligature2: "pstfPostBaseFormsinMalaylamlook subtable" r3 xx
-Ligature2: "prefPreBaseFormsinMalaylam2look subtable" xx r3
 EndChar
 
 StartChar: y2
@@ -7723,8 +7666,6 @@ SplineSet
  115 -40.6767578125 115 -40.6767578125 115 44 c 1,0,-1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "pstfPostBaseFormsinMalaylam2loo subtable" xx y1
-Ligature2: "pstfPostBaseFormsinMalaylamlook subtable" y1 xx
 EndChar
 
 StartChar: y2u1
@@ -7768,7 +7709,6 @@ SplineSet
  190 -469 190 -469 215 -441.5 c 128,-1,32
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y2 u1
 EndChar
 
 StartChar: y2u2
@@ -7820,7 +7760,6 @@ SplineSet
  284 -297.125 284 -297.125 233 -261 c 1,34,35
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y2 u2
 EndChar
 
 StartChar: v2
@@ -7851,8 +7790,6 @@ SplineSet
  259 -219 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "pstfPostBaseFormsinMalaylam2loo subtable" xx v1
-Ligature2: "pstfPostBaseFormsinMalaylamlook subtable" v1 xx
 EndChar
 
 StartChar: NameMe_195550
@@ -7977,10 +7914,6 @@ SplineSet
  358 154 358 154 369.5 157.5 c 128,-1,93
  381 161 381 161 393 163 c 1,80,81
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx ZWJ
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx ZWJ
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k1 xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" k1 xx ZWJ
 EndChar
 
 StartChar: nhcil
@@ -8069,10 +8002,6 @@ SplineSet
  354.684210526 154 354.684210526 154 376 199 c 0,120,121
  392 232.777777778 392 232.777777778 392 278 c 256,106,107
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nh xx ZWJ
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nh xx ZWJ
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" nh xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" nh xx ZWJ
 EndChar
 
 StartChar: n1cil
@@ -8137,10 +8066,6 @@ SplineSet
  1142 504 1142 504 1132.5 541.5 c 0,77,78
  1110.87629459 626.856731876 1110.87629459 626.856731876 1059 668 c 1,65,66
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx ZWJ
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx ZWJ
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" n1 xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" n1 xx ZWJ
 EndChar
 
 StartChar: l3cil
@@ -8218,10 +8143,6 @@ SplineSet
  729 362 729 362 729 402.5 c 0,102,103
  729 583.222222222 729 583.222222222 633 665 c 1,88,89
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" l3 xx ZWJ
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx ZWJ
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" l3 xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" l3 xx ZWJ
 EndChar
 
 StartChar: lhcil
@@ -8289,10 +8210,6 @@ SplineSet
  1070 477 1070 477 1059.5 520 c 0,86,87
  1036.01945525 616.158421345 1036.01945525 616.158421345 985 669 c 1,74,75
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" lh xx ZWJ
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" lh xx ZWJ
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" lh xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" lh xx ZWJ
 EndChar
 
 StartChar: r3cil
@@ -8344,10 +8261,6 @@ SplineSet
  697 509 697 509 687.5 546.5 c 0,62,63
  665.876294591 631.856731876 665.876294591 631.856731876 614 673 c 1,50,51
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" r3 xx ZWJ
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" r3 xx ZWJ
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" r3 xx ZWJ
-Ligature2: "halnHalantFormsinMalaylamlookup subtable" r3 xx ZWJ
 EndChar
 
 StartChar: k1u1
@@ -8412,7 +8325,6 @@ SplineSet
  360 154 360 154 393 163 c 1,65,66
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1 u1
 EndChar
 
 StartChar: k1u2
@@ -8485,7 +8397,6 @@ SplineSet
  328 238 328 238 337.5 240.5 c 128,-1,89
  347 243 347 243 356 245 c 1,79,80
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1 u2
 EndChar
 
 StartChar: k1r1
@@ -8555,7 +8466,6 @@ SplineSet
  254 201 254 201 267.5 185 c 128,-1,76
  281 169 281 169 300.5 159.5 c 128,-1,77
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1 r1
 EndChar
 
 StartChar: k1l1
@@ -8670,8 +8580,6 @@ SplineSet
  400 -390 400 -390 407 -376.5 c 0,160,161
  419 -353.357142857 419 -353.357142857 419 -326 c 256,146,147
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 l1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 l1
 EndChar
 
 StartChar: k1k1
@@ -8751,8 +8659,6 @@ SplineSet
  358 154 358 154 369.5 157.5 c 128,-1,105
  381 161 381 161 393 163 c 1,92,93
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx k1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx k1
 EndChar
 
 StartChar: k1k1u1
@@ -8844,7 +8750,6 @@ SplineSet
  1642 732.098039216 1642 732.098039216 1642 611.909019608 c 128,-1,118
  1642 491.72 1642 491.72 1544 429 c 1,43,44
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1k1 u1
 EndChar
 
 StartChar: k1k1u2
@@ -8942,7 +8847,6 @@ SplineSet
  280.62962963 240 280.62962963 240 320 240 c 0,129,130
  329 240 329 240 356 246 c 1,119,120
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1k1 u2
 EndChar
 
 StartChar: k1k1r1
@@ -9034,7 +8938,6 @@ SplineSet
  358 154 358 154 369.5 157.5 c 128,-1,130
  381 161 381 161 393 163 c 1,117,118
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1k1 r1
 EndChar
 
 StartChar: k1k1r3
@@ -9124,9 +9027,6 @@ SplineSet
  1132.37444934 865.422907489 1132.37444934 865.422907489 1163 808 c 1,48,49
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1k1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1k1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1k1 r4
 EndChar
 
 StartChar: k1k1r3u1
@@ -9233,7 +9133,6 @@ SplineSet
  608 154 608 154 619.5 157.5 c 128,-1,149
  631 161 631 161 643 163 c 1,136,137
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1k1r3 u1
 EndChar
 
 StartChar: k1k1r3u2
@@ -9347,7 +9246,6 @@ SplineSet
  608 154 608 154 619.5 157.5 c 128,-1,164
  631 161 631 161 643 163 c 1,151,152
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1k1r3 u2
 EndChar
 
 StartChar: k1t1
@@ -9434,8 +9332,6 @@ SplineSet
  788 -147 788 -147 794.5 -154.5 c 128,-1,110
  801 -162 801 -162 809 -162 c 2,71,-1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx t1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx t1
 EndChar
 
 StartChar: k1t1r3
@@ -9531,9 +9427,6 @@ SplineSet
  717 -180 717 -180 731.5 -196 c 128,-1,125
  746 -212 746 -212 773 -212 c 1,71,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1t1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1t1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1t1 r4
 EndChar
 
 StartChar: k1nh
@@ -9645,8 +9538,6 @@ SplineSet
  354 -405 354 -405 368.5 -361.5 c 0,148,149
  372 -351 372 -351 372 -342 c 256,134,135
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx nh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx nh
 EndChar
 
 StartChar: k1th1
@@ -9742,8 +9633,6 @@ SplineSet
  254 201 254 201 267.5 185 c 128,-1,107
  281 169 281 169 300.5 159.5 c 128,-1,108
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx th1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx th1
 EndChar
 
 StartChar: k1th1u1
@@ -9847,7 +9736,6 @@ SplineSet
  1281 930 1281 930 1373.84615385 930 c 128,-1,139
  1466.69230769 930 1466.69230769 930 1553 879 c 1,48,49
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1th1 u1
 EndChar
 
 StartChar: k1th1u2
@@ -9958,7 +9846,6 @@ SplineSet
  332 213 332 213 347 217 c 128,-1,147
  362 221 362 221 370 221 c 1,134,135
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1th1 u2
 EndChar
 
 StartChar: k1th1r1
@@ -10069,7 +9956,6 @@ SplineSet
  254 201 254 201 267.5 185 c 128,-1,134
  281 169 281 169 300.5 159.5 c 128,-1,135
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1th1 r1
 EndChar
 
 StartChar: k1th1r3
@@ -10180,9 +10066,6 @@ SplineSet
  504 201 504 201 517.5 185 c 128,-1,130
  531 169 531 169 550.5 159.5 c 128,-1,131
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1th1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1th1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1th1 r4
 EndChar
 
 StartChar: k1n1
@@ -10271,8 +10154,6 @@ SplineSet
  505.880597015 4 505.880597015 4 610 4 c 0,112,113
  684.615384615 4 684.615384615 4 740 -44 c 1,71,72
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx n1
 EndChar
 
 StartChar: k1m1
@@ -10358,8 +10239,6 @@ SplineSet
  731 -333 l 1,103,-1
  763 -333 l 1,97,98
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx m1
 EndChar
 
 StartChar: k1r3
@@ -10430,9 +10309,6 @@ SplineSet
  311 392.871794872 311 392.871794872 394 478 c 128,-1,88
  476.875 563 476.875 563 605 563 c 1,32,33
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k1xx r3
 EndChar
 
 StartChar: k1r3u1
@@ -10519,7 +10395,6 @@ SplineSet
  504 201 504 201 517.5 185 c 128,-1,99
  531 169 531 169 550.5 159.5 c 128,-1,100
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1r3 u1
 EndChar
 
 StartChar: k1r3u2
@@ -10615,7 +10490,6 @@ SplineSet
  1353 -452.028571429 1353 -452.028571429 1353 -375.951785714 c 128,-1,126
  1353 -299.875 1353 -299.875 1302 -251 c 1,102,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1r3 u2
 EndChar
 
 StartChar: k1l3
@@ -10716,8 +10590,6 @@ SplineSet
  556.64 -384 556.64 -384 569 -332.5 c 0,139,140
  572 -320 572 -320 572 -311 c 256,125,126
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" k1 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" k1xx l3
 EndChar
 
 StartChar: k1l3u1
@@ -10828,7 +10700,6 @@ SplineSet
  597.272727273 -352 597.272727273 -352 609 -309 c 0,155,156
  612 -298 612 -298 612 -289 c 256,141,142
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1l3 u1
 EndChar
 
 StartChar: k1l3u2
@@ -10950,7 +10821,6 @@ SplineSet
  597.272727273 -352 597.272727273 -352 609 -309 c 0,169,170
  612 -298 612 -298 612 -289 c 256,155,156
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1l3 u2
 EndChar
 
 StartChar: k1sh
@@ -11040,8 +10910,6 @@ SplineSet
  1732 585 l 1,106,107
  1867 585 1867 585 1867 839 c 0,48,49
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx sh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx sh
 EndChar
 
 StartChar: k1shu1
@@ -11149,7 +11017,6 @@ SplineSet
  254 201 254 201 267.5 185 c 128,-1,120
  281 169 281 169 300.5 159.5 c 128,-1,121
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1sh u1
 EndChar
 
 StartChar: k1shu2
@@ -11267,7 +11134,6 @@ SplineSet
  1699 0 l 1,146,-1
  1700 0 l 1,145,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k1sh u2
 EndChar
 
 StartChar: k1shnh
@@ -11406,8 +11272,6 @@ SplineSet
  281 198 281 198 300.5 189 c 128,-1,164
 EndSplineSet
 LCarets2: 4 0 0 0 0
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx sh xx nh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx sh xx nh
 EndChar
 
 StartChar: k1shm1
@@ -11522,8 +11386,6 @@ SplineSet
  1606 -345 l 1,140,141
  1673 -302.814814815 1673 -302.814814815 1673 -252 c 256,134,135
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx sh xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx sh xx m1
 EndChar
 
 StartChar: k1s1
@@ -11617,8 +11479,6 @@ SplineSet
  1025.39581973 -57.735467015 1025.39581973 -57.735467015 965 -1 c 1,120,-1
  1128 -1 l 1,71,72
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx s1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx s1
 EndChar
 
 StartChar: k1rhrh
@@ -11708,8 +11568,6 @@ SplineSet
  767 -125.909090909 767 -125.909090909 767 -209.687878788 c 128,-1,116
  767 -293.466666667 767 -293.466666667 733 -434 c 1,94,-1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k1 xx rh xx rh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k1 xx rh xx rh
 EndChar
 
 StartChar: k2u1
@@ -11776,7 +11634,6 @@ SplineSet
  368.818181818 150 368.818181818 150 385 239 c 0,81,82
  389 261 389 261 389 277 c 256,67,68
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k2 u1
 EndChar
 
 StartChar: k2u2
@@ -11846,7 +11703,6 @@ SplineSet
  368.818181818 150 368.818181818 150 385 239 c 0,91,92
  389 261 389 261 389 277 c 256,77,78
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k2 u2
 EndChar
 
 StartChar: k2r1
@@ -11912,7 +11768,6 @@ SplineSet
  368.818181818 150 368.818181818 150 385 239 c 0,86,87
  389 261 389 261 389 277 c 256,72,73
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k2 r1
 EndChar
 
 StartChar: k3u1
@@ -11971,7 +11826,6 @@ SplineSet
  730.198347107 22 730.198347107 22 794.5 158.5 c 0,69,70
  852 280.561403509 852 280.561403509 852 444 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3 u1
 EndChar
 
 StartChar: k3u2
@@ -12043,7 +11897,6 @@ SplineSet
  1052 750.990291262 1052 750.990291262 1052 605.328478964 c 128,-1,87
  1052 459.666666667 1052 459.666666667 931 379 c 1,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3 u2
 EndChar
 
 StartChar: k3r1
@@ -12105,7 +11958,6 @@ SplineSet
  850 568 850 568 829.5 624 c 0,80,81
  784.839285714 746 784.839285714 746 710 746 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3 r1
 EndChar
 
 StartChar: k3k3
@@ -12189,8 +12041,6 @@ SplineSet
  748 -204 748 -204 748 -184 c 0,104,105
  748 -75 748 -75 685 -75 c 0,55,56
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k3 xx k3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k3 xx k3
 EndChar
 
 StartChar: k3k3u1
@@ -12288,7 +12138,6 @@ SplineSet
  848 489 848 489 848 525 c 0,125,126
  848 752 848 752 710 752 c 0,70,71
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3k3 u1
 EndChar
 
 StartChar: k3k3u2
@@ -12398,7 +12247,6 @@ SplineSet
  957 -36.5733333333 957 -36.5733333333 957 -113.832121212 c 128,-1,144
  957 -191.090909091 957 -191.090909091 887 -242 c 1,57,58
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3k3 u2
 EndChar
 
 StartChar: k3k3r1
@@ -12500,7 +12348,6 @@ SplineSet
  848 489 848 489 848 525 c 0,131,132
  848 752 848 752 710 752 c 0,76,77
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3k3 r1
 EndChar
 
 StartChar: k3th3
@@ -12565,8 +12412,6 @@ SplineSet
  793.285714286 -25 793.285714286 -25 711 7 c 1,76,-1
  711 181 l 1,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k3 xx th3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k3 xx th3
 EndChar
 
 StartChar: k3th3u1
@@ -12643,7 +12488,6 @@ SplineSet
  889 -25 889 -25 857 -25 c 128,-1,98
  825 -25 825 -25 804 -22 c 1,84,85
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3th3 u1
 EndChar
 
 StartChar: k3th3u2
@@ -12729,7 +12573,6 @@ SplineSet
  771 -38 771 -38 780 -17 c 1,111,-1
  774 -15 l 1,86,87
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3th3 u2
 EndChar
 
 StartChar: k3th3th4
@@ -12817,8 +12660,6 @@ SplineSet
  999 451 999 451 967 436 c 1,110,111
  1096 376.619047619 1096 376.619047619 1096 249 c 0,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k3 xx th3 xx th4
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k3 xx th3 xx th4
 EndChar
 
 StartChar: k3th3th4u1
@@ -12919,7 +12760,6 @@ SplineSet
  1584 -21 1584 -21 1556 -21 c 128,-1,135
  1528 -21 1528 -21 1508 -19 c 1,121,122
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3th3th4 u1
 EndChar
 
 StartChar: k3th3th4u2
@@ -13028,7 +12868,6 @@ SplineSet
  1471 -38 1471 -38 1481 -16 c 1,147,-1
  1474 -14 l 1,123,124
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3th3th4 u2
 EndChar
 
 StartChar: k3th3th4r1
@@ -13126,7 +12965,6 @@ SplineSet
  1411 213.4 1411 213.4 1467 177 c 0,133,134
  1487 164 1487 164 1515 164 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3th3th4 r1
 EndChar
 
 StartChar: k3th3th4r3
@@ -13218,9 +13056,6 @@ SplineSet
  1898.66015787 841.251350229 1898.66015787 841.251350229 1841 910 c 1,126,-1
  2054 910 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k3th3th4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3th3th4 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3th3th4 r4
 EndChar
 
 StartChar: k3th3th4r3u1
@@ -13330,7 +13165,6 @@ SplineSet
  1898.66015787 841.251350229 1898.66015787 841.251350229 1841 910 c 1,154,-1
  2054 910 l 1,17,18
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3th3th4r3 u1
 EndChar
 
 StartChar: k3th3th4r3u2
@@ -13448,7 +13282,6 @@ SplineSet
  2023 -422.028571429 2023 -422.028571429 2023 -367.014285714 c 0,166,167
  2023 -256.1 2023 -256.1 1960 -212 c 1,140,141
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3th3th4r3 u2
 EndChar
 
 StartChar: k3n1
@@ -13511,8 +13344,6 @@ SplineSet
  597.225 932 597.225 932 732.779166667 932 c 128,-1,73
  868.333333333 932 868.333333333 932 955 828 c 1,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k3 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k3 xx n1
 EndChar
 
 StartChar: k3n1u1
@@ -13585,7 +13416,6 @@ SplineSet
  1404 193 1404 193 1414 217.5 c 0,93,94
  1432 261.6 1432 261.6 1432 311 c 256,79,80
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3n1 u1
 EndChar
 
 StartChar: k3n1u2
@@ -13670,7 +13500,6 @@ SplineSet
  597.225 932 597.225 932 732.779166667 932 c 128,-1,113
  868.333333333 932 868.333333333 932 955 828 c 1,13,14
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3n1 u2
 EndChar
 
 StartChar: k3m1
@@ -13728,8 +13557,6 @@ SplineSet
  1004 756 1004 756 925 756 c 2,66,-1
  922 756 l 1,55,56
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k3 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k3 xx m1
 EndChar
 
 StartChar: k3m1u1
@@ -13807,7 +13634,6 @@ SplineSet
  1063.16129032 -214 1063.16129032 -214 1086.08064516 -189.5 c 128,-1,79
  1109 -165 1109 -165 1117 -145 c 128,-1,80
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3m1 u1
 EndChar
 
 StartChar: k3m1u2
@@ -13889,7 +13715,6 @@ SplineSet
  911 -25 911 -25 924 1 c 1,103,-1
  920 1 l 1,80,81
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3m1 u2
 EndChar
 
 StartChar: k3r3
@@ -13953,9 +13778,6 @@ SplineSet
  1218 848 1218 848 1265 773.5 c 128,-1,0
  1312 699 1312 699 1336 601.5 c 128,-1,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k3xx r3
 EndChar
 
 StartChar: k3r3u1
@@ -14032,7 +13854,6 @@ SplineSet
  1113.16129032 -444 1113.16129032 -444 1136.08064516 -419.5 c 128,-1,81
  1159 -395 1159 -395 1167 -375 c 128,-1,82
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3r3 u1
 EndChar
 
 StartChar: k3r3u2
@@ -14116,7 +13937,6 @@ SplineSet
  1173 -412.028571429 1173 -412.028571429 1173 -357.014285714 c 0,110,111
  1173 -246.1 1173 -246.1 1110 -202 c 1,88,89
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3r3 u2
 EndChar
 
 StartChar: k3l3
@@ -14209,8 +14029,6 @@ SplineSet
  376 -364 376 -364 384 -353.5 c 0,124,125
  397 -336.4375 397 -336.4375 397 -311 c 256,110,111
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" k3 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" k3xx l3
 EndChar
 
 StartChar: k3l3u1
@@ -14314,7 +14132,6 @@ SplineSet
  414.736842105 -349 414.736842105 -349 427.368421053 -333 c 0,139,140
  445 -310.666666667 445 -310.666666667 445 -288 c 256,125,126
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3l3 u1
 EndChar
 
 StartChar: k3l3u2
@@ -14427,7 +14244,6 @@ SplineSet
  418.727272727 -359 418.727272727 -359 433.863636364 -340.5 c 128,-1,136
  449 -322 449 -322 452 -310 c 128,-1,137
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k3l3 u2
 EndChar
 
 StartChar: k4u1
@@ -14497,7 +14313,6 @@ SplineSet
  1383.16129032 -224 1383.16129032 -224 1406.08064516 -199.5 c 0,80,81
  1445 -157.896551724 1445 -157.896551724 1445 -112 c 256,66,67
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k4 u1
 EndChar
 
 StartChar: k4u2
@@ -14577,7 +14392,6 @@ SplineSet
  1229 0 l 1,93,-1
  1230 0 l 1,92,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k4 u2
 EndChar
 
 StartChar: k4r1
@@ -14645,7 +14459,6 @@ SplineSet
  857 746 857 746 857 456 c 1,83,-1
  1154 456 l 1,79,80
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k4 r1
 EndChar
 
 StartChar: k4n1
@@ -14730,8 +14543,6 @@ SplineSet
  994.880597015 26 994.880597015 26 1099 26 c 0,99,100
  1173.61538462 26 1173.61538462 26 1229 -22 c 1,58,59
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" k4 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" k4 xx n1
 EndChar
 
 StartChar: k4r3
@@ -14801,9 +14612,6 @@ SplineSet
  700.43373494 873 700.43373494 873 776.5 781.5 c 0,81,82
  846 697.898550725 846 697.898550725 846 580 c 0,5,6
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 k4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k4 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" k4xx r3
 EndChar
 
 StartChar: k4r3u1
@@ -14890,7 +14698,6 @@ SplineSet
  1581 -280 1581 -280 1524 -280 c 2,107,-1
  1514 -280 l 1,93,94
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k4r3 u1
 EndChar
 
 StartChar: k4r3u2
@@ -14981,7 +14788,6 @@ SplineSet
  1471 -282 1471 -282 1479 -260 c 1,116,-1
  1469 -260 l 1,91,92
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" k4r3 u2
 EndChar
 
 StartChar: ngu1
@@ -15068,7 +14874,6 @@ SplineSet
  273 154 273 154 311 154 c 256,109,110
  366.619047619 154 366.619047619 154 383 240 c 0,95,96
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ng u1
 EndChar
 
 StartChar: ngu2
@@ -15157,7 +14962,6 @@ SplineSet
  273 154 273 154 311 154 c 256,120,121
  366.619047619 154 366.619047619 154 383 240 c 0,106,107
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ng u2
 EndChar
 
 StartChar: ngk1
@@ -15233,8 +15037,6 @@ SplineSet
  254 201 254 201 267.5 185 c 128,-1,79
  281 169 281 169 300.5 159.5 c 128,-1,80
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" ng xx k1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" ng xx k1
 EndChar
 
 StartChar: ngk1u1
@@ -15309,7 +15111,6 @@ SplineSet
  300.03125 154 300.03125 154 345 154 c 0,91,92
  360 154 360 154 393 163 c 1,80,81
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ngk1 u1
 EndChar
 
 StartChar: ngk1u2
@@ -15394,7 +15195,6 @@ SplineSet
  328 238 328 238 337.5 240.5 c 128,-1,105
  347 243 347 243 356 245 c 1,95,96
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ngk1 u2
 EndChar
 
 StartChar: ngk1r1
@@ -15480,7 +15280,6 @@ SplineSet
  200.608695652 908 200.608695652 908 295.804347826 908 c 128,-1,112
  391 908 391 908 459 840 c 1,48,49
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ngk1 r1
 EndChar
 
 StartChar: ngng
@@ -15578,8 +15377,6 @@ SplineSet
  323 154 323 154 361 154 c 256,133,134
  416.619047619 154 416.619047619 154 433 240 c 0,119,120
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" ng xx ng
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" ng xx ng
 EndChar
 
 StartChar: ngngu1
@@ -15694,7 +15491,6 @@ SplineSet
  323 154 323 154 361 154 c 256,159,160
  416.619047619 154 416.619047619 154 433 240 c 0,145,146
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ngng u1
 EndChar
 
 StartChar: ngngu2
@@ -15812,7 +15608,6 @@ SplineSet
  323 154 323 154 361 154 c 256,168,169
  416.619047619 154 416.619047619 154 433 240 c 0,154,155
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ngng u2
 EndChar
 
 StartChar: ch1u1
@@ -15863,7 +15658,6 @@ SplineSet
  953.161290323 -224 953.161290323 -224 976.080645161 -199.5 c 0,54,55
  1015 -157.896551724 1015 -157.896551724 1015 -112 c 256,40,41
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch1 u1
 EndChar
 
 StartChar: ch1u2
@@ -15924,7 +15718,6 @@ SplineSet
  819 0 l 1,67,-1
  820 0 l 1,66,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch1 u2
 EndChar
 
 StartChar: ch1ch1
@@ -15967,8 +15760,6 @@ SplineSet
  967 0 l 1,39,-1
  830 0 l 1,35,36
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" ch1 xx ch1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" ch1 xx ch1
 EndChar
 
 StartChar: ch1ch1u1
@@ -16030,7 +15821,6 @@ SplineSet
  943.161290323 -514 943.161290323 -514 966.080645161 -489.5 c 0,69,70
  1005 -447.896551724 1005 -447.896551724 1005 -402 c 256,55,56
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch1ch1 u1
 EndChar
 
 StartChar: ch1ch1u2
@@ -16100,7 +15890,6 @@ SplineSet
  762 -302 762 -302 775 -279 c 1,79,-1
  770 -279 l 1,56,57
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch1ch1 u2
 EndChar
 
 StartChar: ch1ch2
@@ -16179,8 +15968,6 @@ SplineSet
  1100 -245.421052632 1100 -245.421052632 1082 -231.210526316 c 128,-1,96
  1064 -217 1064 -217 1051 -217 c 256,85,86
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" ch1 xx ch2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" ch1 xx ch2
 EndChar
 
 StartChar: ch2u1
@@ -16258,7 +16045,6 @@ SplineSet
  1251.66666667 518 1251.66666667 518 1230 414 c 0,104,105
  1222 375.6 1222 375.6 1222 346 c 0,90,91
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch2 u1
 EndChar
 
 StartChar: ch2u2
@@ -16351,7 +16137,6 @@ SplineSet
  1303.78947368 239 1303.78947368 239 1328 285 c 0,120,121
  1351 328.7 1351 328.7 1351 372 c 2,104,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch2 u2
 EndChar
 
 StartChar: ch2r1
@@ -16434,7 +16219,6 @@ SplineSet
  801 255.710526316 801 255.710526316 726 159 c 1,113,-1
  903 159 l 1,16,17
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch2 r1
 EndChar
 
 StartChar: ch2r3
@@ -16514,9 +16298,6 @@ SplineSet
  991 255.710526316 991 255.710526316 916 159 c 1,107,-1
  1093 159 l 1,16,17
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 ch2
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch2 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch2xx r3
 EndChar
 
 StartChar: ch2r3u1
@@ -16612,7 +16393,6 @@ SplineSet
  1793.16129032 -484 1793.16129032 -484 1816.08064516 -459.5 c 128,-1,117
  1839 -435 1839 -435 1847 -415 c 128,-1,118
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch2r3 u1
 EndChar
 
 StartChar: ch2r3u2
@@ -16718,7 +16498,6 @@ SplineSet
  1883 -284.692307692 1883 -284.692307692 1829 -239 c 1,148,-1
  1826 -240 l 1,121,122
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch2r3 u2
 EndChar
 
 StartChar: ch3u1
@@ -16818,7 +16597,6 @@ SplineSet
  271 240 271 240 258.5 228 c 128,-1,130
  246 216 246 216 246 200 c 0,123,124
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3 u1
 EndChar
 
 StartChar: ch3u2
@@ -16932,7 +16710,6 @@ SplineSet
  271 240 271 240 258.5 228 c 128,-1,144
  246 216 246 216 246 200 c 0,137,138
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3 u2
 EndChar
 
 StartChar: ch3r1
@@ -17037,7 +16814,6 @@ SplineSet
  271 240 271 240 258.5 228 c 128,-1,137
  246 216 246 216 246 200 c 0,130,131
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3 r1
 EndChar
 
 StartChar: ch3ch3
@@ -17178,8 +16954,6 @@ SplineSet
  1465 597 1465 597 1448 616.5 c 128,-1,193
  1431 636 1431 636 1401 636 c 256,182,183
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" ch3 xx ch3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" ch3 xx ch3
 EndChar
 
 StartChar: ch3ch3u1
@@ -17336,7 +17110,6 @@ SplineSet
  301 509 301 509 318 530 c 128,-1,218
  335 551 335 551 335 574 c 256,207,208
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3ch3 u1
 EndChar
 
 StartChar: ch3ch3u2
@@ -17507,7 +17280,6 @@ SplineSet
  301 509 301 509 318 530 c 128,-1,232
  335 551 335 551 335 574 c 256,221,222
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3ch3 u2
 EndChar
 
 StartChar: ch3ch3r1
@@ -17669,7 +17441,6 @@ SplineSet
  301 509 301 509 318 530 c 128,-1,225
  335 551 335 551 335 574 c 256,214,215
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3ch3 r1
 EndChar
 
 StartChar: ch3nj
@@ -17803,8 +17574,6 @@ SplineSet
  301 509 301 509 318 530 c 128,-1,186
  335 551 335 551 335 574 c 256,175,176
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" ch3 xx nj
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" ch3 xx nj
 EndChar
 
 StartChar: ch3nju1
@@ -17956,7 +17725,6 @@ SplineSet
  301 509 301 509 318 530 c 128,-1,214
  335 551 335 551 335 574 c 256,203,204
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3nj u1
 EndChar
 
 StartChar: ch3nju2
@@ -18114,7 +17882,6 @@ SplineSet
  301 509 301 509 318 530 c 128,-1,224
  335 551 335 551 335 574 c 256,213,214
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3nj u2
 EndChar
 
 StartChar: ch3r3
@@ -18211,9 +17978,6 @@ SplineSet
  1451 751.275 1451 751.275 1451 605.423214286 c 128,-1,122
  1451 459.571428571 1451 459.571428571 1376 381 c 1,28,29
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 ch3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch3 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch3xx r3
 EndChar
 
 StartChar: ch3r3u1
@@ -18328,7 +18092,6 @@ SplineSet
  571 240 571 240 558.5 228 c 128,-1,149
  546 216 546 216 546 200 c 0,142,143
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3r3 u1
 EndChar
 
 StartChar: ch3r3u2
@@ -18449,7 +18212,6 @@ SplineSet
  1413 -442.028571429 1413 -442.028571429 1413 -369.561904762 c 128,-1,162
  1413 -297.095238095 1413 -297.095238095 1370 -250 c 1,137,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch3r3 u2
 EndChar
 
 StartChar: ch4u1
@@ -18535,7 +18297,6 @@ SplineSet
  589.771084337 158 589.771084337 158 655 158 c 0,118,119
  761.290697674 158 761.290697674 158 767.5 336 c 0,104,105
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch4 u1
 EndChar
 
 StartChar: ch4u2
@@ -18628,7 +18389,6 @@ SplineSet
  589.771084337 158 589.771084337 158 655 158 c 0,128,129
  761.290697674 158 761.290697674 158 767.5 336 c 0,114,115
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch4 u2
 EndChar
 
 StartChar: ch4r1
@@ -18714,7 +18474,6 @@ SplineSet
  1893 674.125 1893 674.125 1819 910 c 1,120,-1
  2007 910 l 1,17,18
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch4 r1
 EndChar
 
 StartChar: ch4r3
@@ -18804,9 +18563,6 @@ SplineSet
  2154.20765957 791.877446809 2154.20765957 791.877446809 2087 910 c 1,122,-1
  2277 910 l 1,17,18
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 ch4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch4 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" ch4xx r3
 EndChar
 
 StartChar: ch4r3u1
@@ -18915,7 +18671,6 @@ SplineSet
  1047.78823529 159 1047.78823529 159 1056 333.5 c 0,147,148
  1058 376 1058 376 1058 407 c 2,132,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch4r3 u1
 EndChar
 
 StartChar: ch4r3u2
@@ -19031,7 +18786,6 @@ SplineSet
  1047.78823529 159 1047.78823529 159 1056 333.5 c 0,160,161
  1058 376 1058 376 1058 407 c 2,145,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" ch4r3 u2
 EndChar
 
 StartChar: nju1
@@ -19125,7 +18879,6 @@ SplineSet
  397 352.78125 397 352.78125 350 389.5 c 0,126,127
  334 402 334 402 311 402 c 256,112,113
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nj u1
 EndChar
 
 StartChar: nju2
@@ -19231,7 +18984,6 @@ SplineSet
  397 352.78125 397 352.78125 350 389.5 c 0,140,141
  334 402 334 402 311 402 c 256,126,127
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nj u2
 EndChar
 
 StartChar: njch1
@@ -19320,8 +19072,6 @@ SplineSet
  397 233.619047619 397 233.619047619 397 278 c 256,109,110
  397 353.515151515 397 353.515151515 349.5 389.5 c 0,95,96
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nj xx ch1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nj xx ch1
 EndChar
 
 StartChar: njch1u1
@@ -19427,7 +19177,6 @@ SplineSet
  366 179 366 179 376.5 197.5 c 0,137,138
  397 233.619047619 397 233.619047619 397 278 c 256,123,124
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njch1 u1
 EndChar
 
 StartChar: njch1u2
@@ -19545,7 +19294,6 @@ SplineSet
  1739 0 l 1,150,-1
  1740 0 l 1,149,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njch1 u2
 EndChar
 
 StartChar: njch1r1
@@ -19651,7 +19399,6 @@ SplineSet
  366 179 366 179 376.5 197.5 c 0,136,137
  397 233.619047619 397 233.619047619 397 278 c 256,122,123
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njch1 r1
 EndChar
 
 StartChar: njch2
@@ -19764,8 +19511,6 @@ SplineSet
  366 179 366 179 376.5 197.5 c 0,151,152
  397 233.619047619 397 233.619047619 397 278 c 256,137,138
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nj xx ch2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nj xx ch2
 EndChar
 
 StartChar: njch2u1
@@ -19902,7 +19647,6 @@ SplineSet
  366 179 366 179 376.5 197.5 c 0,192,193
  397 233.619047619 397 233.619047619 397 278 c 256,178,179
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njch2 u1
 EndChar
 
 StartChar: njch2u2
@@ -20056,7 +19800,6 @@ SplineSet
  366 179 366 179 376.5 197.5 c 0,210,211
  397 233.619047619 397 233.619047619 397 278 c 256,196,197
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njch2 u2
 EndChar
 
 StartChar: njch2r1
@@ -20193,7 +19936,6 @@ SplineSet
  366 179 366 179 376.5 197.5 c 0,192,193
  397 233.619047619 397 233.619047619 397 278 c 256,178,179
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njch2 r1
 EndChar
 
 StartChar: njch3
@@ -20311,8 +20053,6 @@ SplineSet
  402 352.78125 402 352.78125 355 389.5 c 0,157,158
  339 402 339 402 316 402 c 256,143,144
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nj xx ch3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nj xx ch3
 EndChar
 
 StartChar: njch3u1
@@ -20453,7 +20193,6 @@ SplineSet
  402 352.78125 402 352.78125 355 389.5 c 0,190,191
  339 402 339 402 316 402 c 256,176,177
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njch3 u1
 EndChar
 
 StartChar: njch3u2
@@ -20602,7 +20341,6 @@ SplineSet
  356.810810811 154 356.810810811 154 381.5 197.5 c 0,202,203
  402 233.619047619 402 233.619047619 402 278 c 256,188,189
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njch3 u2
 EndChar
 
 StartChar: njnj
@@ -20709,8 +20447,6 @@ SplineSet
  397 352.78125 397 352.78125 350 389.5 c 0,146,147
  334 402 334 402 311 402 c 256,132,133
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nj xx nj
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nj xx nj
 EndChar
 
 StartChar: njnju1
@@ -20834,7 +20570,6 @@ SplineSet
  397 352.78125 397 352.78125 350 389.5 c 0,174,175
  334 402 334 402 311 402 c 256,160,161
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njnj u1
 EndChar
 
 StartChar: njnju2
@@ -20970,7 +20705,6 @@ SplineSet
  397 352.78125 397 352.78125 350 389.5 c 0,188,189
  334 402 334 402 311 402 c 256,174,175
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" njnj u2
 EndChar
 
 StartChar: t1u1
@@ -21027,7 +20761,6 @@ SplineSet
  553.161290323 -234 553.161290323 -234 576.080645161 -209.5 c 128,-1,54
  599 -185 599 -185 607 -165 c 128,-1,55
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t1 u1
 EndChar
 
 StartChar: t1u2
@@ -21090,7 +20823,6 @@ SplineSet
  381 -47 381 -47 392 -22 c 1,77,-1
  386 -22 l 1,54,55
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t1 u2
 EndChar
 
 StartChar: t1r1
@@ -21140,7 +20872,6 @@ SplineSet
  282.666666667 928 282.666666667 928 452.200680272 928 c 128,-1,61
  621.734693878 928 621.734693878 928 747 835 c 1,0,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t1 r1
 EndChar
 
 StartChar: t1t1
@@ -21198,8 +20929,6 @@ SplineSet
  785 202.914285714 785 202.914285714 716 128 c 1,0,1
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" t1 xx t1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" t1 xx t1
 EndChar
 
 StartChar: t1t1u1
@@ -21269,7 +20998,6 @@ SplineSet
  600 -441.896551724 600 -441.896551724 600 -389.972085386 c 128,-1,86
  600 -338.047619048 600 -338.047619048 554 -303 c 1,74,75
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t1t1 u1
 EndChar
 
 StartChar: t1t1u2
@@ -21348,7 +21076,6 @@ SplineSet
  406 -325 l 2,101,102
  396 -325 396 -325 391 -324 c 1,75,76
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t1t1 u2
 EndChar
 
 StartChar: t1r3
@@ -21400,9 +21127,6 @@ SplineSet
  572.666666667 928 572.666666667 928 742.200680272 928 c 128,-1,58
  911.734693878 928 911.734693878 928 1037 835 c 1,0,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 t1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" t1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" t1xx r3
 EndChar
 
 StartChar: t1r3u1
@@ -21468,7 +21192,6 @@ SplineSet
  895 -137.896551724 895 -137.896551724 895 -83.7210031348 c 128,-1,80
  895 -29.5454545455 895 -29.5454545455 847 1 c 1,68,69
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t1r3 u1
 EndChar
 
 StartChar: t1r3u2
@@ -21542,7 +21265,6 @@ SplineSet
  671 -36.5 l 2,93,94
  671 -33 671 -33 672 -30 c 1,68,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t1r3 u2
 EndChar
 
 StartChar: t2u1
@@ -21585,7 +21307,6 @@ SplineSet
  573.161290323 -224 573.161290323 -224 596.080645161 -199.5 c 128,-1,36
  619 -175 619 -175 627 -155 c 128,-1,37
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t2 u1
 EndChar
 
 StartChar: t2u2
@@ -21635,7 +21356,6 @@ SplineSet
  441 -14 441 -14 437.5 -14 c 2,62,-1
  431 -14 l 1,37,38
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t2 u2
 EndChar
 
 StartChar: t3u1
@@ -21709,7 +21429,6 @@ SplineSet
  1284.16129032 -241 1284.16129032 -241 1307.08064516 -216.5 c 128,-1,77
  1330 -192 1330 -192 1338 -172 c 128,-1,78
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t3 u1
 EndChar
 
 StartChar: t3u2
@@ -21787,7 +21506,6 @@ SplineSet
  1141 -42 1141 -42 1149 -18 c 1,103,-1
  1142 -17 l 1,78,79
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t3 u2
 EndChar
 
 StartChar: t3r1
@@ -21855,7 +21573,6 @@ SplineSet
  1328 202 1328 202 1342.5 241.5 c 0,88,89
  1362 294.620689655 1362 294.620689655 1362 418 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t3 r1
 EndChar
 
 StartChar: t3t3
@@ -21955,8 +21672,6 @@ SplineSet
  1416 -11 l 1,126,127
  1495 -107.341463415 1495 -107.341463415 1495 -230 c 0,70,71
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" t3 xx t3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" t3 xx t3
 EndChar
 
 StartChar: t3t3u1
@@ -22070,7 +21785,6 @@ SplineSet
  1318 -594 1318 -594 1348 -594 c 256,148,138
  1378 -594 1378 -594 1398.5 -572 c 128,-1,139
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t3t3 u1
 EndChar
 
 StartChar: t3t3u2
@@ -22192,7 +21906,6 @@ SplineSet
  1359 -547 1359 -547 1333 -547 c 256,157,136
  1307 -547 1307 -547 1289.5 -526.5 c 128,-1,137
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t3t3 u2
 EndChar
 
 StartChar: t3t4
@@ -22297,8 +22010,6 @@ SplineSet
  1389 -196.214285714 1389 -196.214285714 1389 -175 c 256,143,144
  1389 -139.090909091 1389 -139.090909091 1359 -120 c 0,129,130
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" t3 xx t4
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" t3 xx t4
 EndChar
 
 StartChar: t3t4u1
@@ -22416,7 +22127,6 @@ SplineSet
  1328 -584 1328 -584 1358 -584 c 256,164,154
  1388 -584 1388 -584 1408.5 -562 c 128,-1,155
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t3t4 u1
 EndChar
 
 StartChar: t3t4u2
@@ -22540,7 +22250,6 @@ SplineSet
  1272 -466 1272 -466 1277 -453 c 1,172,-1
  1270 -453 l 1,152,153
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t3t4 u2
 EndChar
 
 StartChar: t3m1
@@ -22620,8 +22329,6 @@ SplineSet
  1098 -354 l 1,94,95
  1159 -314.96 1159 -314.96 1159 -270 c 256,88,89
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" t3 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" t3 xx m1
 EndChar
 
 StartChar: t3r3
@@ -22691,9 +22398,6 @@ SplineSet
  1508 877 1508 877 1493 907 c 1,91,-1
  1682 907 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 t3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" t3 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" t3xx r3
 EndChar
 
 StartChar: t3r3u1
@@ -22782,7 +22486,6 @@ SplineSet
  1583.16129032 -444 1583.16129032 -444 1606.08064516 -419.5 c 0,119,120
  1645 -377.896551724 1645 -377.896551724 1645 -332 c 256,104,105
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t3r3 u1
 EndChar
 
 StartChar: t3r3u2
@@ -22880,7 +22583,6 @@ SplineSet
  1623 -412.028571429 1623 -412.028571429 1623 -357.014285714 c 0,132,133
  1623 -246.1 1623 -246.1 1560 -202 c 1,111,112
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t3r3 u2
 EndChar
 
 StartChar: t4u1
@@ -22958,7 +22660,6 @@ SplineSet
  1373.16129032 -234 1373.16129032 -234 1396.08064516 -209.5 c 128,-1,92
  1419 -185 1419 -185 1427 -165 c 128,-1,93
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t4 u1
 EndChar
 
 StartChar: t4u2
@@ -23039,7 +22740,6 @@ SplineSet
  1241 -39 1241 -39 1250 -18 c 1,116,-1
  1241 -18 l 1,93,94
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t4 u2
 EndChar
 
 StartChar: t4r1
@@ -23115,7 +22815,6 @@ SplineSet
  1408.21052632 500 1408.21052632 500 1430 546 c 0,109,110
  1447 581.888888889 1447 581.888888889 1447 624 c 256,95,96
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t4 r1
 EndChar
 
 StartChar: t4r3
@@ -23196,9 +22895,6 @@ SplineSet
  949 553.285714286 949 553.285714286 936.5 483.642857143 c 0,109,110
  913 352.714285714 913 352.714285714 913 296 c 0,16,17
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 t4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" t4 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" t4xx r3
 EndChar
 
 StartChar: t4r3u1
@@ -23296,7 +22992,6 @@ SplineSet
  1653.16129032 -434 1653.16129032 -434 1676.08064516 -409.5 c 128,-1,121
  1699 -385 1699 -385 1707 -365 c 128,-1,122
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t4r3 u1
 EndChar
 
 StartChar: t4r3u2
@@ -23400,7 +23095,6 @@ SplineSet
  1703 -432.028571429 1703 -432.028571429 1703 -377.014285714 c 0,148,149
  1703 -266.1 1703 -266.1 1640 -222 c 1,124,125
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" t4r3 u2
 EndChar
 
 StartChar: nhu1
@@ -23478,7 +23172,6 @@ SplineSet
  278 154 278 154 316 154 c 256,102,103
  371.619047619 154 371.619047619 154 388 240 c 0,88,89
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nh u1
 EndChar
 
 StartChar: nhu2
@@ -23566,7 +23259,6 @@ SplineSet
  882.730769231 927 882.730769231 927 960 927 c 0,118,119
  1124.61290323 927 1124.61290323 927 1185 823 c 1,29,30
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nh u2
 EndChar
 
 StartChar: nht1
@@ -23655,8 +23347,6 @@ SplineSet
  278 154 278 154 316 154 c 256,117,118
  371.619047619 154 371.619047619 154 388 240 c 0,103,104
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nh xx t1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nh xx t1
 EndChar
 
 StartChar: nht1u1
@@ -23759,7 +23449,6 @@ SplineSet
  278 154 278 154 316 154 c 256,140,141
  371.619047619 154 371.619047619 154 388 240 c 0,126,127
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nht1 u1
 EndChar
 
 StartChar: nht1u2
@@ -23870,7 +23559,6 @@ SplineSet
  278 154 278 154 316 154 c 256,153,154
  371.619047619 154 371.619047619 154 388 240 c 0,139,140
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nht1 u2
 EndChar
 
 StartChar: nht2
@@ -23956,8 +23644,6 @@ SplineSet
  1202 -316 1202 -316 1298 -316 c 128,-1,108
  1394 -316 1394 -316 1394 -210 c 256,102,103
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nh xx t2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nh xx t2
 EndChar
 
 StartChar: nht3
@@ -24050,8 +23736,6 @@ SplineSet
  356.810810811 154 356.810810811 154 381.5 197.5 c 0,123,124
  402 233.619047619 402 233.619047619 402 278 c 256,109,110
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nh xx t3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nh xx t3
 EndChar
 
 StartChar: nht3u1
@@ -24158,7 +23842,6 @@ SplineSet
  356.810810811 154 356.810810811 154 381.5 197.5 c 0,149,150
  402 233.619047619 402 233.619047619 402 278 c 256,135,136
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nht3 u1
 EndChar
 
 StartChar: nht3u2
@@ -24275,7 +23958,6 @@ SplineSet
  2361 134 2361 134 2443 60 c 0,164,165
  2534 -22.1219512195 2534 -22.1219512195 2534 -162.5 c 0,149,150
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nht3 u2
 EndChar
 
 StartChar: nht4
@@ -24383,8 +24065,6 @@ SplineSet
  356.810810811 154 356.810810811 154 381.5 197.5 c 0,148,149
  402 233.619047619 402 233.619047619 402 278 c 256,134,135
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nh xx t4
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nh xx t4
 EndChar
 
 StartChar: nht4u1
@@ -24503,7 +24183,6 @@ SplineSet
  356.810810811 154 356.810810811 154 381.5 197.5 c 0,168,169
  402 233.619047619 402 233.619047619 402 278 c 256,154,155
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nht4 u1
 EndChar
 
 StartChar: nht4u2
@@ -24631,7 +24310,6 @@ SplineSet
  356.810810811 154 356.810810811 154 381.5 197.5 c 0,180,181
  402 233.619047619 402 233.619047619 402 278 c 256,166,167
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nht4 u2
 EndChar
 
 StartChar: nhnh
@@ -24747,8 +24425,6 @@ SplineSet
  881 -298 881 -298 881 -289 c 256,150,151
  881 -231 881 -231 821.5 -231 c 0,139,140
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nh xx nh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nh xx nh
 EndChar
 
 StartChar: nhnhu1
@@ -24883,7 +24559,6 @@ SplineSet
  812 -263.952380952 812 -263.952380952 784.5 -243 c 0,181,182
  774 -235 774 -235 759 -235 c 256,167,168
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nhnh u1
 EndChar
 
 StartChar: nhnhu2
@@ -25024,7 +24699,6 @@ SplineSet
  1403.34782609 -389 1403.34782609 -389 1430 -389 c 0,192,193
  1491 -389 1491 -389 1491 -280 c 2,182,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nhnh u2
 EndChar
 
 StartChar: nhm1
@@ -25103,8 +24777,6 @@ SplineSet
  356.810810811 154 356.810810811 154 381.5 197.5 c 0,94,95
  402 233.619047619 402 233.619047619 402 278 c 256,80,81
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" nh xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" nh xx m1
 EndChar
 
 StartChar: nhm1u1
@@ -25199,7 +24871,6 @@ SplineSet
  356.810810811 154 356.810810811 154 381.5 197.5 c 0,119,120
  402 233.619047619 402 233.619047619 402 278 c 256,105,106
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nhm1 u1
 EndChar
 
 StartChar: nhm1u2
@@ -25300,7 +24971,6 @@ SplineSet
  356.810810811 154 356.810810811 154 381.5 197.5 c 0,130,131
  402 233.619047619 402 233.619047619 402 278 c 256,116,117
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" nhm1 u2
 EndChar
 
 StartChar: th1u1
@@ -25370,7 +25040,6 @@ SplineSet
  227.976377953 930 227.976377953 930 403 930 c 0,88,89
  510.653846154 930 510.653846154 930 595 879 c 1,16,17
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1 u1
 EndChar
 
 StartChar: th1u2
@@ -25446,7 +25115,6 @@ SplineSet
  1250 752.128205128 1250 752.128205128 1250 599.664102564 c 128,-1,95
  1250 447.2 1250 447.2 1131 369 c 1,16,17
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1 u2
 EndChar
 
 StartChar: th1r1
@@ -25515,7 +25183,6 @@ SplineSet
  590.092105263 178 590.092105263 178 655 178 c 0,87,88
  758.721518987 178 758.721518987 178 767 341.5 c 0,73,74
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1 r1
 EndChar
 
 StartChar: th1th1
@@ -25604,8 +25271,6 @@ SplineSet
  744 215 744 215 754.5 255 c 128,-1,96
  765 295 765 295 767 338 c 128,-1,97
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th1 xx th1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th1 xx th1
 EndChar
 
 StartChar: th1th1u1
@@ -25708,7 +25373,6 @@ SplineSet
  509 353 509 353 520 314.5 c 0,139,140
  547 220 547 220 607 220 c 0,127,128
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1th1 u1
 EndChar
 
 StartChar: th1th1u2
@@ -25815,7 +25479,6 @@ SplineSet
  509 353 509 353 520 314.5 c 0,143,144
  547 220 547 220 607 220 c 0,131,132
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1th1 u2
 EndChar
 
 StartChar: th1th1r1
@@ -25920,7 +25583,6 @@ SplineSet
  744 215 744 215 754.5 255 c 128,-1,123
  765 295 765 295 767 338 c 128,-1,124
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1th1 r1
 EndChar
 
 StartChar: th1th1r3
@@ -26022,9 +25684,6 @@ SplineSet
  860.292682927 158 860.292682927 158 925 158 c 0,134,135
  1028.6 158 1028.6 158 1037 336.5 c 0,120,121
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th1th1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1th1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1th1 r4
 EndChar
 
 StartChar: th1th1r3u1
@@ -26144,7 +25803,6 @@ SplineSet
  860.292682927 158 860.292682927 158 925 158 c 0,156,157
  1028.6 158 1028.6 158 1037 336.5 c 0,142,143
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1th1r3 u1
 EndChar
 
 StartChar: th1th1r3u2
@@ -26269,7 +25927,6 @@ SplineSet
  860.292682927 158 860.292682927 158 925 158 c 0,170,171
  1028.6 158 1028.6 158 1037 336.5 c 0,156,157
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1th1r3 u2
 EndChar
 
 StartChar: th1th2
@@ -26334,8 +25991,6 @@ SplineSet
  769 308.545454545 769 308.545454545 769 375.772727273 c 0,80,81
  769 617.727272727 769 617.727272727 652 678 c 1,68,69
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th1 xx th2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th1 xx th2
 EndChar
 
 StartChar: th1th2u1
@@ -26415,7 +26070,6 @@ SplineSet
  769 308.545454545 769 308.545454545 769 375.772727273 c 0,103,104
  769 617.727272727 769 617.727272727 652 678 c 1,91,92
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1th2 u1
 EndChar
 
 StartChar: th1th2u2
@@ -26503,7 +26157,6 @@ SplineSet
  769 308.545454545 769 308.545454545 769 375.772727273 c 0,115,116
  769 617.727272727 769 617.727272727 652 678 c 1,103,104
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1th2 u2
 EndChar
 
 StartChar: th1th2r1
@@ -26585,7 +26238,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,104,105
  758.6 158 758.6 158 767 336.5 c 0,90,91
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1th2 r1
 EndChar
 
 StartChar: th1n1
@@ -26651,8 +26303,6 @@ SplineSet
  744 215 744 215 754.5 255 c 128,-1,61
  765 295 765 295 767 338 c 128,-1,62
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th1 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th1 xx n1
 EndChar
 
 StartChar: th1p4
@@ -26734,8 +26384,6 @@ SplineSet
  769 308.545454545 769 308.545454545 769 375.772727273 c 0,105,106
  769 617.727272727 769 617.727272727 652 678 c 1,93,94
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th1 xx p4
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th1 xx p4
 EndChar
 
 StartChar: th1p4u1
@@ -26837,7 +26485,6 @@ SplineSet
  744 271 744 271 755 306.5 c 128,-1,111
  766 342 766 342 768 380.5 c 128,-1,112
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1p4 u1
 EndChar
 
 StartChar: th1p4u2
@@ -26937,7 +26584,6 @@ SplineSet
  592.23880597 238 592.23880597 238 655 238 c 0,132,133
  756.702702703 238 756.702702703 238 766.5 383 c 0,118,119
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1p4 u2
 EndChar
 
 StartChar: th1p4r1
@@ -27032,7 +26678,6 @@ SplineSet
  769 308.545454545 769 308.545454545 769 375.772727273 c 0,125,126
  769 617.727272727 769 617.727272727 652 678 c 1,113,114
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1p4 r1
 EndChar
 
 StartChar: th1m1
@@ -27109,8 +26754,6 @@ SplineSet
  744 215 744 215 754.5 255 c 128,-1,75
  765 295 765 295 767 338 c 128,-1,76
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th1 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th1 xx m1
 EndChar
 
 StartChar: th1m1u1
@@ -27207,7 +26850,6 @@ SplineSet
  744 215 744 215 754.5 255 c 128,-1,101
  765 295 765 295 767 338 c 128,-1,102
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1m1 u1
 EndChar
 
 StartChar: th1m1u2
@@ -27306,7 +26948,6 @@ SplineSet
  744 215 744 215 754.5 255 c 128,-1,111
  765 295 765 295 767 338 c 128,-1,112
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1m1 u2
 EndChar
 
 StartChar: th1m1r1
@@ -27394,7 +27035,6 @@ SplineSet
  769 308.545454545 769 308.545454545 769 375.772727273 c 0,110,111
  769 617.727272727 769 617.727272727 652 678 c 1,98,99
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1m1 r1
 EndChar
 
 StartChar: th1r3
@@ -27457,9 +27097,6 @@ SplineSet
  512.902985075 -386 512.902985075 -386 293.5 -186 c 0,79,80
  51 35.0544217687 51 35.0544217687 51 413 c 0,18,19
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th1xx r3
 EndChar
 
 StartChar: th1r3u1
@@ -27545,7 +27182,6 @@ SplineSet
  1323.16129032 -414 1323.16129032 -414 1346.08064516 -389.5 c 128,-1,93
  1369 -365 1369 -365 1377 -345 c 128,-1,94
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1r3 u1
 EndChar
 
 StartChar: th1r3u2
@@ -27636,7 +27272,6 @@ SplineSet
  1393 -402.028571429 1393 -402.028571429 1393 -347.014285714 c 0,120,121
  1393 -236.1 1393 -236.1 1330 -192 c 1,96,97
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1r3 u2
 EndChar
 
 StartChar: th1l3
@@ -27731,8 +27366,6 @@ SplineSet
  566 -364 566 -364 574 -353.5 c 0,129,130
  587 -336.4375 587 -336.4375 587 -311 c 256,115,116
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" th1 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" th1xx l3
 EndChar
 
 StartChar: th1l3u1
@@ -27836,7 +27469,6 @@ SplineSet
  556.473684211 -337 556.473684211 -337 571.236842105 -320.5 c 0,146,147
  592 -297.294117647 592 -297.294117647 592 -272 c 256,134,135
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1l3 u1
 EndChar
 
 StartChar: th1l3u2
@@ -27950,7 +27582,6 @@ SplineSet
  556.473684211 -337 556.473684211 -337 571.236842105 -320.5 c 0,155,156
  592 -297.294117647 592 -297.294117647 592 -272 c 256,143,144
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1l3 u2
 EndChar
 
 StartChar: th1s1
@@ -28024,8 +27655,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,98,99
  758.6 158 758.6 158 767 336.5 c 0,84,85
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th1 xx s1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th1 xx s1
 EndChar
 
 StartChar: th1s1u1
@@ -28111,7 +27740,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,119,120
  758.6 158 758.6 158 767 336.5 c 0,105,106
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1s1 u1
 EndChar
 
 StartChar: th1s1u2
@@ -28204,7 +27832,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,131,132
  758.6 158 758.6 158 767 336.5 c 0,117,118
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1s1 u2
 EndChar
 
 StartChar: th1s1r1
@@ -28293,7 +27920,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,124,125
  758.6 158 758.6 158 767 336.5 c 0,110,111
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1s1 r1
 EndChar
 
 StartChar: th1s1th2
@@ -28382,8 +28008,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,118,119
  758.6 158 758.6 158 767 336.5 c 0,104,105
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th1 xx s1 xx th2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th1 xx s1 xx th2
 EndChar
 
 StartChar: th1s1th2u1
@@ -28487,7 +28111,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,142,143
  758.6 158 758.6 158 767 336.5 c 0,128,129
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1s1th2 u1
 EndChar
 
 StartChar: th1s1th2u2
@@ -28600,7 +28223,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,155,156
  758.6 158 758.6 158 767 336.5 c 0,141,142
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1s1th2 u2
 EndChar
 
 StartChar: th1s1th2r1
@@ -28704,7 +28326,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,144,145
  758.6 158 758.6 158 767 336.5 c 0,130,131
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th1s1th2 r1
 EndChar
 
 StartChar: th1s1n1
@@ -28810,8 +28431,6 @@ SplineSet
  1272.44776119 19 1272.44776119 19 1387 19 c 0,144,145
  1468.07692308 19 1468.07692308 19 1529 -29 c 1,103,104
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th1 xx s1 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th1 xx s1 xx n1
 EndChar
 
 StartChar: th2u1
@@ -28861,7 +28480,6 @@ SplineSet
  753.161290323 -224 753.161290323 -224 776.080645161 -199.5 c 128,-1,34
  799 -175 799 -175 807 -155 c 128,-1,35
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th2 u1
 EndChar
 
 StartChar: th2u2
@@ -28915,7 +28533,6 @@ SplineSet
  571 -28 571 -28 589 0 c 1,58,-1
  588 0 l 1,35,36
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th2 u2
 EndChar
 
 StartChar: th2n1
@@ -28976,8 +28593,6 @@ SplineSet
  394.880597015 20 394.880597015 20 499 20 c 0,65,66
  573.615384615 20 573.615384615 20 629 -28 c 1,24,25
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th2 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th2 xx n1
 EndChar
 
 StartChar: th2m1
@@ -29035,8 +28650,6 @@ SplineSet
  581 -333 l 1,55,-1
  613 -333 l 1,49,50
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th2 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th2 xx m1
 EndChar
 
 StartChar: th3u1
@@ -29096,7 +28709,6 @@ SplineSet
  473 -243 473 -243 518.5 -243 c 128,-1,57
  564 -243 564 -243 594.5 -215 c 128,-1,58
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3 u1
 EndChar
 
 StartChar: th3u2
@@ -29163,7 +28775,6 @@ SplineSet
  461 -38 461 -38 470 -17 c 1,83,-1
  463 -15 l 1,59,60
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3 u2
 EndChar
 
 StartChar: th3r1
@@ -29219,7 +28830,6 @@ SplineSet
  835 696.851485149 835 696.851485149 835 542 c 0,66,67
  835 327.326086957 835 327.326086957 670 252 c 1,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3 r1
 EndChar
 
 StartChar: th3th3
@@ -29272,8 +28882,6 @@ SplineSet
  371 218 l 1,61,62
  437.285714286 186 437.285714286 186 495 186 c 0,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th3 xx th3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th3 xx th3
 EndChar
 
 StartChar: th3th3u1
@@ -29340,7 +28948,6 @@ SplineSet
  556 -325 556 -325 511 -325 c 2,83,-1
  498 -325 l 1,73,74
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3th3 u1
 EndChar
 
 StartChar: th3th3u2
@@ -29414,7 +29021,6 @@ SplineSet
  666 -446.555555556 666 -446.555555556 666 -393.931623932 c 128,-1,95
  666 -341.307692308 666 -341.307692308 639 -306 c 1,73,74
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3th3 u2
 EndChar
 
 StartChar: th3th3r1
@@ -29477,7 +29083,6 @@ SplineSet
  412 590 l 1,77,78
  436 588 436 588 462 588 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3th3 r1
 EndChar
 
 StartChar: th3th4
@@ -29547,8 +29152,6 @@ SplineSet
  707.115384615 -25 707.115384615 -25 626 32 c 1,0,1
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th3 xx th4
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th3 xx th4
 EndChar
 
 StartChar: th3th4u1
@@ -29637,7 +29240,6 @@ SplineSet
  1247.28571429 -18.8571428571 1247.28571429 -18.8571428571 1198 -21 c 1,113,-1
  1196 -21 l 1,99,100
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3th4 u1
 EndChar
 
 StartChar: th3th4u2
@@ -29733,7 +29335,6 @@ SplineSet
  1141 -39 1141 -39 1150 -18 c 1,124,125
  1144 -18 1144 -18 1142 -17 c 1,100,101
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3th4 u2
 EndChar
 
 StartChar: th3th4r1
@@ -29815,7 +29416,6 @@ SplineSet
  1061 192.977272727 1061 192.977272727 1114 172.5 c 0,107,108
  1136 164 1136 164 1165 164 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3th4 r1
 EndChar
 
 StartChar: th3th4n1
@@ -29916,8 +29516,6 @@ SplineSet
  780.621212121 7 780.621212121 7 874.291375291 7 c 128,-1,122
  967.961538462 7 967.961538462 7 1024 -40 c 1,79,80
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th3 xx th4 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th3 xx th4 xx n1
 EndChar
 
 StartChar: th3th4m1
@@ -30013,8 +29611,6 @@ SplineSet
  992 -343 l 1,103,104
 EndSplineSet
 LCarets2: 4 0 0 0 0
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th3 xx th4 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th3 xx th4 xx m1
 EndChar
 
 StartChar: th3th4r3
@@ -30090,9 +29686,6 @@ SplineSet
  1623 728.047619048 1623 728.047619048 1471 909 c 1,96,-1
  1680 910 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th3th4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3th4 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3th4 r4
 EndChar
 
 StartChar: th3th4r3u1
@@ -30191,7 +29784,6 @@ SplineSet
  1583.16129032 -474 1583.16129032 -474 1606.08064516 -449.5 c 0,127,128
  1645 -407.896551724 1645 -407.896551724 1645 -362 c 256,112,113
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3th4r3 u1
 EndChar
 
 StartChar: th3th4r3u2
@@ -30291,7 +29883,6 @@ SplineSet
  1633 -442.028571429 1633 -442.028571429 1633 -387.014285714 c 0,131,132
  1633 -276.1 1633 -276.1 1570 -232 c 1,110,111
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3th4r3 u2
 EndChar
 
 StartChar: th3r3
@@ -30346,9 +29937,6 @@ SplineSet
  827 673 827 673 809 696 c 0,65,66
  769.086956522 747 769.086956522 747 703 747 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th3xx r3
 EndChar
 
 StartChar: th3r3u1
@@ -30419,7 +30007,6 @@ SplineSet
  843.161290323 -514 843.161290323 -514 866.080645161 -489.5 c 128,-1,76
  889 -465 889 -465 897 -445 c 128,-1,77
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3r3 u1
 EndChar
 
 StartChar: th3r3u2
@@ -30497,7 +30084,6 @@ SplineSet
  893 -462.028571429 893 -462.028571429 893 -389.561904762 c 128,-1,102
  893 -317.095238095 893 -317.095238095 850 -270 c 1,77,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th3r3 u2
 EndChar
 
 StartChar: th4u1
@@ -30555,7 +30141,6 @@ SplineSet
  896.75 -19 896.75 -19 859 -19 c 2,71,-1
  854 -19 l 1,57,58
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th4 u1
 EndChar
 
 StartChar: th4u2
@@ -30619,7 +30204,6 @@ SplineSet
  791 -37 791 -37 801 -15 c 1,82,-1
  794 -14 l 1,58,59
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th4 u2
 EndChar
 
 StartChar: th4r1
@@ -30671,7 +30255,6 @@ SplineSet
  721 226.230769231 721 226.230769231 741 201.615384615 c 0,65,66
  771.5625 164 771.5625 164 825 164 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th4 r1
 EndChar
 
 StartChar: th4n1
@@ -30745,8 +30328,6 @@ SplineSet
  470.164179104 19 470.164179104 19 564.062858783 19 c 128,-1,90
  657.961538462 19 657.961538462 19 714 -28 c 1,49,50
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th4 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th4 xx n1
 EndChar
 
 StartChar: th4m1
@@ -30816,8 +30397,6 @@ SplineSet
  604 -333 l 1,79,-1
  638 -333 l 1,73,74
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" th4 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" th4 xx m1
 EndChar
 
 StartChar: th4r3
@@ -30870,9 +30449,6 @@ SplineSet
  1174 854 1174 854 1147 910 c 1,67,-1
  1330 910 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 th4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th4 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" th4xx r3
 EndChar
 
 StartChar: th4r3u1
@@ -30945,7 +30521,6 @@ SplineSet
  1263.16129032 -434 1263.16129032 -434 1286.08064516 -409.5 c 0,96,97
  1325 -367.896551724 1325 -367.896551724 1325 -322 c 256,80,81
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th4r3 u1
 EndChar
 
 StartChar: th4r3u2
@@ -31026,7 +30601,6 @@ SplineSet
  1313 -422.028571429 1313 -422.028571429 1313 -367.014285714 c 0,107,108
  1313 -256.1 1313 -256.1 1250 -212 c 1,83,84
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" th4r3 u2
 EndChar
 
 StartChar: n1u1
@@ -31083,7 +30657,6 @@ SplineSet
  261.695652174 930 261.695652174 930 380 930 c 0,68,69
  534.857142857 930 534.857142857 930 615 828 c 1,16,17
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1 u1
 EndChar
 
 StartChar: n1u2
@@ -31148,7 +30721,6 @@ SplineSet
  261.695652174 930 261.695652174 930 380 930 c 0,85,86
  532 930 532 930 615 828 c 1,13,14
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1 u2
 EndChar
 
 StartChar: n1r1
@@ -31203,7 +30775,6 @@ SplineSet
  533 10 l 1,69,-1
  533 605 l 2,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1 r1
 EndChar
 
 StartChar: n1th1
@@ -31265,8 +30836,6 @@ SplineSet
  1229 308.545454545 1229 308.545454545 1229 375.772727273 c 0,74,75
  1229 617.727272727 1229 617.727272727 1112 678 c 1,62,63
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx th1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx th1
 EndChar
 
 StartChar: n1th1u1
@@ -31344,7 +30913,6 @@ SplineSet
  1050.42424242 240 1050.42424242 240 1115 240 c 0,97,98
  1216.73972603 240 1216.73972603 240 1226.5 382.5 c 0,83,84
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th1 u1
 EndChar
 
 StartChar: n1th1u2
@@ -31433,7 +31001,6 @@ SplineSet
  1052.03225806 245 1052.03225806 245 1115 245 c 0,112,113
  1216.92857143 245 1216.92857143 245 1226.5 379 c 0,98,99
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th1 u2
 EndChar
 
 StartChar: n1th1r1
@@ -31511,7 +31078,6 @@ SplineSet
  1050.29268293 158 1050.29268293 158 1115 158 c 0,99,100
  1218.6 158 1218.6 158 1227 336.5 c 0,85,86
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th1 r1
 EndChar
 
 StartChar: n1th1r3
@@ -31587,9 +31153,6 @@ SplineSet
  1497 523 1497 523 1483.5 560 c 0,94,95
  1452.93865031 643.760736196 1452.93865031 643.760736196 1392 677 c 1,80,81
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1th1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th1 r4
 EndChar
 
 StartChar: n1th1r3u1
@@ -31685,7 +31248,6 @@ SplineSet
  1783.16129032 -424 1783.16129032 -424 1806.08064516 -399.5 c 128,-1,107
  1829 -375 1829 -375 1837 -355 c 128,-1,108
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th1r3 u1
 EndChar
 
 StartChar: n1th1r3u2
@@ -31788,7 +31350,6 @@ SplineSet
  1823 -412.028571429 1823 -412.028571429 1823 -357.014285714 c 0,135,136
  1823 -246.1 1823 -246.1 1760 -202 c 1,112,113
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th1r3 u2
 EndChar
 
 StartChar: n1th2
@@ -31849,8 +31410,6 @@ SplineSet
  1469 153 l 1,68,-1
  1722 153 l 1,58,-1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx th2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx th2
 EndChar
 
 StartChar: n1th2u1
@@ -31927,7 +31486,6 @@ SplineSet
  1755 -31 1755 -31 1693 0 c 1,92,-1
  1603 0 l 1,80,81
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th2 u1
 EndChar
 
 StartChar: n1th2u2
@@ -32012,7 +31570,6 @@ SplineSet
  1531 -28 1531 -28 1549 0 c 1,103,-1
  1548 0 l 1,80,81
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th2 u2
 EndChar
 
 StartChar: n1th2r1
@@ -32092,7 +31649,6 @@ SplineSet
  1469 153 l 1,98,-1
  1722 153 l 1,88,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th2 r1
 EndChar
 
 StartChar: n1th3
@@ -32151,8 +31707,6 @@ SplineSet
  533 10 l 1,69,-1
  533 605 l 2,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx th3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx th3
 EndChar
 
 StartChar: n1th3u1
@@ -32224,7 +31778,6 @@ SplineSet
  972.5 -25 l 2,91,92
  964 -25 964 -25 956 -24 c 1,76,77
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th3 u1
 EndChar
 
 StartChar: n1th3u2
@@ -32305,7 +31858,6 @@ SplineSet
  911 -37 911 -37 921 -15 c 1,105,-1
  915 -14 l 1,79,80
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th3 u2
 EndChar
 
 StartChar: n1th3r1
@@ -32369,7 +31921,6 @@ SplineSet
  260.591549296 930 260.591549296 930 380 930 c 0,81,82
  562.741935484 930 562.741935484 930 635 818 c 1,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th3 r1
 EndChar
 
 StartChar: n1th3r3
@@ -32433,9 +31984,6 @@ SplineSet
  530 225.818181818 530 225.818181818 645 0 c 1,77,-1
  455 0 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1th3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th3 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th3 r4
 EndChar
 
 StartChar: n1th3r3u1
@@ -32515,7 +32063,6 @@ SplineSet
  1323.16129032 -474 1323.16129032 -474 1346.08064516 -449.5 c 128,-1,90
  1369 -425 1369 -425 1377 -405 c 128,-1,91
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th3r3 u1
 EndChar
 
 StartChar: n1th3r3u2
@@ -32600,7 +32147,6 @@ SplineSet
  1383 -452.028571429 1383 -452.028571429 1383 -397.014285714 c 0,114,115
  1383 -287.172413793 1383 -287.172413793 1322 -243 c 1,90,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th3r3 u2
 EndChar
 
 StartChar: n1th4
@@ -32663,8 +32209,6 @@ SplineSet
  1832 218 1832 218 1850.5 261.5 c 0,74,75
  1883 337.918918919 1883 337.918918919 1883 437 c 0,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx th4
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx th4
 EndChar
 
 StartChar: n1th4u1
@@ -32738,7 +32282,6 @@ SplineSet
  1865 -43.1538461538 1865 -43.1538461538 1809 -13 c 1,96,97
  1751.69767442 -23.7441860465 1751.69767442 -23.7441860465 1700 -18 c 1,84,85
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th4 u1
 EndChar
 
 StartChar: n1th4u2
@@ -32820,7 +32363,6 @@ SplineSet
  1661 -38 1661 -38 1672 -13 c 1,109,-1
  1666 -12 l 1,85,86
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th4 u2
 EndChar
 
 StartChar: n1th4r1
@@ -32894,7 +32436,6 @@ SplineSet
  1850 219 1850 219 1866 262.5 c 0,98,99
  1893 335.90625 1893 335.90625 1893 437 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th4 r1
 EndChar
 
 StartChar: n1th4r3
@@ -32978,9 +32519,6 @@ SplineSet
  2153 339.833333333 2153 339.833333333 2153 437 c 0,108,109
  2153 741 2153 741 2009 909 c 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1th4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th4 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1th4 r4
 EndChar
 
 StartChar: n1th4r3u1
@@ -33083,7 +32621,6 @@ SplineSet
  2123.16129032 -454 2123.16129032 -454 2146.08064516 -429.5 c 128,-1,121
  2169 -405 2169 -405 2177 -385 c 128,-1,122
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th4r3 u1
 EndChar
 
 StartChar: n1th4r3u2
@@ -33188,7 +32725,6 @@ SplineSet
  2173 -452.028571429 2173 -452.028571429 2173 -397.014285714 c 0,143,144
  2173 -286.1 2173 -286.1 2110 -242 c 1,121,122
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1th4r3 u2
 EndChar
 
 StartChar: n1n1
@@ -33243,8 +32779,6 @@ SplineSet
  261.695652174 930 261.695652174 930 380 930 c 0,64,65
  537.555555556 930 537.555555556 930 615 828 c 1,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx n1
 EndChar
 
 StartChar: n1n1u1
@@ -33314,7 +32848,6 @@ SplineSet
  261.695652174 930 261.695652174 930 380 930 c 0,87,88
  537.555555556 930 537.555555556 930 615 828 c 1,16,17
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1n1 u1
 EndChar
 
 StartChar: n1n1u2
@@ -33393,7 +32926,6 @@ SplineSet
  1394 217.193548387 1394 217.193548387 1438.5 177 c 0,104,105
  1454 163 1454 163 1476 163 c 0,93,94
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1n1 u2
 EndChar
 
 StartChar: n1n1r1
@@ -33456,7 +32988,6 @@ SplineSet
  925.342105263 929 925.342105263 929 1000.5 873 c 0,80,81
  1026 854 1026 854 1045 828 c 1,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1n1 r1
 EndChar
 
 StartChar: n1n1r3
@@ -33509,9 +33040,6 @@ SplineSet
  971.409090909 929 971.409090909 929 1089 929 c 256,68,69
  1228.24 929 1228.24 929 1305 828 c 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1n1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1n1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1n1 r4
 EndChar
 
 StartChar: n1n1r3u1
@@ -33585,7 +33113,6 @@ SplineSet
  1663.16129032 -434 1663.16129032 -434 1686.08064516 -409.5 c 0,102,103
  1725 -367.896551724 1725 -367.896551724 1725 -322 c 256,88,89
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1n1r3 u1
 EndChar
 
 StartChar: n1n1r3u2
@@ -33671,7 +33198,6 @@ SplineSet
  1713 -422.028571429 1713 -422.028571429 1713 -367.014285714 c 0,116,117
  1713 -256.1 1713 -256.1 1650 -212 c 1,92,93
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1n1r3 u2
 EndChar
 
 StartChar: n1m1
@@ -33723,8 +33249,6 @@ SplineSet
  888 329 888 329 888 362.5 c 128,-1,47
  888 396 888 396 867.5 427 c 128,-1,48
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx m1
 EndChar
 
 StartChar: n1m1u1
@@ -33796,7 +33320,6 @@ SplineSet
  1098.16129032 -209 1098.16129032 -209 1121.08064516 -184.5 c 128,-1,68
  1144 -160 1144 -160 1152 -140 c 128,-1,69
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1m1 u1
 EndChar
 
 StartChar: n1m1u2
@@ -33870,7 +33393,6 @@ SplineSet
  961 -116.083333333 961 -116.083333333 961 -86.0416666667 c 0,90,91
  961 -35.6 961 -35.6 980 -9 c 1,68,69
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1m1 u2
 EndChar
 
 StartChar: n1m1r1
@@ -33943,7 +33465,6 @@ SplineSet
  888 328 888 328 888 362 c 128,-1,79
  888 396 888 396 867.5 427 c 128,-1,80
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1m1 r1
 EndChar
 
 StartChar: n1m1r3
@@ -34010,9 +33531,6 @@ SplineSet
  1168 328 1168 328 1168 362 c 128,-1,73
  1168 396 1168 396 1147 427 c 128,-1,74
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1m1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1m1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1m1 r4
 EndChar
 
 StartChar: n1m1r3u1
@@ -34094,7 +33612,6 @@ SplineSet
  1373.16129032 -534 1373.16129032 -534 1396.08064516 -509.5 c 128,-1,89
  1419 -485 1419 -485 1427 -465 c 128,-1,90
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1m1r3 u1
 EndChar
 
 StartChar: n1m1r3u2
@@ -34183,7 +33700,6 @@ SplineSet
  1201 -362 1201 -362 1209 -340 c 1,117,-1
  1199 -340 l 1,92,93
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1m1r3 u2
 EndChar
 
 StartChar: n1r3
@@ -34240,9 +33756,6 @@ SplineSet
  174 -57 174 -57 134 30.5 c 0,66,67
  54 205.5 54 205.5 54 414 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 n1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" n1xx r3
 EndChar
 
 StartChar: n1r3u1
@@ -34316,7 +33829,6 @@ SplineSet
  1213.16129032 -444 1213.16129032 -444 1236.08064516 -419.5 c 128,-1,76
  1259 -395 1259 -395 1267 -375 c 128,-1,77
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1r3 u1
 EndChar
 
 StartChar: n1r3u2
@@ -34393,7 +33905,6 @@ SplineSet
  1293 -422.028571429 1293 -422.028571429 1293 -367.014285714 c 0,100,101
  1293 -256.1 1293 -256.1 1230 -212 c 1,78,79
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1r3 u2
 EndChar
 
 StartChar: n1rh
@@ -34486,8 +33997,6 @@ SplineSet
  1133 507 1133 507 1119 547.5 c 0,115,116
  1088.29032258 636.338709677 1088.29032258 636.338709677 1032 687 c 1,103,104
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" n1 xx rh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" n1 xx rh
 EndChar
 
 StartChar: n1rhu1
@@ -34588,7 +34097,6 @@ SplineSet
  1147 -591 1147 -591 1168.5 -567 c 128,-1,133
  1190 -543 1190 -543 1190 -510 c 256,122,123
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1rh u1
 EndChar
 
 StartChar: n1rhu2
@@ -34696,7 +34204,6 @@ SplineSet
  1073 -601 1073 -601 1105 -601 c 256,140,124
  1137 -601 1137 -601 1158.5 -577 c 128,-1,125
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" n1rh u2
 EndChar
 
 StartChar: p1u1
@@ -34747,7 +34254,6 @@ SplineSet
  773.161290323 -224 773.161290323 -224 796.080645161 -199.5 c 0,56,57
  835 -157.896551724 835 -157.896551724 835 -112 c 256,42,43
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1 u1
 EndChar
 
 StartChar: p1u2
@@ -34803,7 +34309,6 @@ SplineSet
  661 -106.083333333 661 -106.083333333 661 -76.0416666667 c 0,64,65
  661 -24.7 661 -24.7 680 0 c 1,42,43
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1 u2
 EndChar
 
 StartChar: p1r1
@@ -34855,7 +34360,6 @@ SplineSet
  461.6 627 461.6 627 537.5 528 c 0,59,60
  607 437.347826087 607 437.347826087 607 307 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1 r1
 EndChar
 
 StartChar: p1t1
@@ -34915,8 +34419,6 @@ SplineSet
  785.666666667 -447 785.666666667 -447 682.507246377 -447 c 128,-1,69
  579.347826087 -447 579.347826087 -447 499 -403 c 1,30,-1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p1 xx t1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p1 xx t1
 EndChar
 
 StartChar: p1th1
@@ -34981,8 +34483,6 @@ SplineSet
  788 29 788 29 846 29 c 0,78,79
  1082 29 1082 29 1082 -247 c 0,40,41
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p1 xx th1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p1 xx th1
 EndChar
 
 StartChar: p1n1
@@ -35044,8 +34544,6 @@ SplineSet
  1023 -459 1023 -459 1007 -476 c 1,74,-1
  870 -476 l 1,30,31
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p1 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p1 xx n1
 EndChar
 
 StartChar: p1p1
@@ -35103,8 +34601,6 @@ SplineSet
  462.081395349 587 462.081395349 587 537.5 493 c 0,56,57
  607 406.376811594 607 406.376811594 607 284.666666667 c 0,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p1 xx p1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p1 xx p1
 EndChar
 
 StartChar: p1p1u1
@@ -35182,7 +34678,6 @@ SplineSet
  769.161290323 -210 769.161290323 -210 792.080645161 -185.5 c 128,-1,70
  815 -161 815 -161 823 -141 c 128,-1,71
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1p1 u1
 EndChar
 
 StartChar: p1p1u2
@@ -35264,7 +34759,6 @@ SplineSet
  621 -21 621 -21 636 5 c 1,94,-1
  634 5 l 1,71,72
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1p1 u2
 EndChar
 
 StartChar: p1p1r1
@@ -35340,7 +34834,6 @@ SplineSet
  462.081395349 587 462.081395349 587 537.5 493 c 0,86,87
  607 406.376811594 607 406.376811594 607 284.666666667 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1p1 r1
 EndChar
 
 StartChar: p1p2
@@ -35405,8 +34898,6 @@ SplineSet
  933 -242 l 2,72,73
  933 -100 933 -100 867 -100 c 0,67,68
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p1 xx p2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p1 xx p2
 EndChar
 
 StartChar: p1r3
@@ -35456,9 +34947,6 @@ SplineSet
  1199 909 l 1,56,-1
  1199 549 l 1,0,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" p1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" p1xx r3
 EndChar
 
 StartChar: p1r3u1
@@ -35519,7 +35007,6 @@ SplineSet
  1055 -330.5 1055 -330.5 994 -300 c 1,76,77
  937 -323 937 -323 871 -323 c 1,64,65
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1r3 u1
 EndChar
 
 StartChar: p1r3u2
@@ -35588,7 +35075,6 @@ SplineSet
  1053 -333 1053 -333 1023 -287 c 1,88,-1
  1010 -293 l 1,65,66
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1r3 u2
 EndChar
 
 StartChar: p1l3
@@ -35661,8 +35147,6 @@ SplineSet
  443 -229 443 -229 422 -229 c 256,92,93
  358 -229 358 -229 358 -298 c 256,82,83
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" p1 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" p1xx l3
 EndChar
 
 StartChar: p1l3u1
@@ -35749,7 +35233,6 @@ SplineSet
  423 -208 423 -208 402 -208 c 0,112,113
  339 -208 339 -208 339 -269 c 256,102,103
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1l3 u1
 EndChar
 
 StartChar: p1l3u2
@@ -35845,7 +35328,6 @@ SplineSet
  452.666666667 -327 452.666666667 -327 466.833333333 -309.5 c 0,127,128
  487 -284.588235294 487 -284.588235294 487 -259 c 256,115,116
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p1l3 u2
 EndChar
 
 StartChar: p1s1
@@ -35914,8 +35396,6 @@ SplineSet
  907.870503597 -33.2014388489 907.870503597 -33.2014388489 851 20 c 1,84,-1
  995 20 l 1,30,31
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p1 xx s1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p1 xx s1
 EndChar
 
 StartChar: p2u1
@@ -35990,7 +35470,6 @@ SplineSet
  1073.16129032 -214 1073.16129032 -214 1096.08064516 -189.5 c 128,-1,68
  1119 -165 1119 -165 1127 -145 c 128,-1,69
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p2 u1
 EndChar
 
 StartChar: p2u2
@@ -36066,7 +35545,6 @@ SplineSet
  911 -106.083333333 911 -106.083333333 911 -76.0416666667 c 0,91,92
  911 -24.7 911 -24.7 930 0 c 1,69,70
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p2 u2
 EndChar
 
 StartChar: p2k1
@@ -36155,8 +35633,6 @@ SplineSet
  732 -337 l 2,106,107
  738 -337 738 -337 744 -335 c 1,96,97
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p2 xx k1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p2 xx k1
 EndChar
 
 StartChar: p2t1
@@ -36236,8 +35712,6 @@ SplineSet
  1105.66666667 -447 1105.66666667 -447 1002.50724638 -447 c 128,-1,93
  899.347826087 -447 899.347826087 -447 819 -403 c 1,54,-1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p2 xx t1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p2 xx t1
 EndChar
 
 StartChar: p2th1
@@ -36315,8 +35789,6 @@ SplineSet
  898.296028881 -146.902527076 898.296028881 -146.902527076 887 -201.5 c 0,96,97
  884 -216 884 -216 884 -228 c 256,89,90
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p2 xx th1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p2 xx th1
 EndChar
 
 StartChar: p2n1
@@ -36395,8 +35867,6 @@ SplineSet
  714.880597015 20 714.880597015 20 819 20 c 0,92,93
  893.615384615 20 893.615384615 20 949 -28 c 1,51,52
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p2 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p2 xx n1
 EndChar
 
 StartChar: p2p1
@@ -36468,8 +35938,6 @@ SplineSet
  854 -337 854 -337 862 -358 c 1,79,-1
  723 -358 l 1,51,52
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p2 xx p1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p2 xx p1
 EndChar
 
 StartChar: p2m1
@@ -36545,8 +36013,6 @@ SplineSet
  901 -333 l 1,82,-1
  933 -333 l 1,76,77
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p2 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p2 xx m1
 EndChar
 
 StartChar: p2r3
@@ -36611,9 +36077,6 @@ SplineSet
  1351 163 l 1,76,-1
  1351 510 l 2,66,67
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p2
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" p2 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" p2xx r3
 EndChar
 
 StartChar: p2r3u1
@@ -36692,7 +36155,6 @@ SplineSet
  1255 -305 1255 -305 1210 -305 c 2,99,-1
  1203 -305 l 1,85,86
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p2r3 u1
 EndChar
 
 StartChar: p2r3u2
@@ -36780,7 +36242,6 @@ SplineSet
  1363 -462.028571429 1363 -462.028571429 1363 -412.514285714 c 0,112,113
  1363 -327 1363 -327 1329 -281 c 1,87,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p2r3 u2
 EndChar
 
 StartChar: p2l3
@@ -36874,8 +36335,6 @@ SplineSet
  703 -229 703 -229 682 -229 c 256,118,119
  618 -229 618 -229 618 -298 c 256,108,109
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" p2 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" p2xx l3
 EndChar
 
 StartChar: p2l3u1
@@ -36980,7 +36439,6 @@ SplineSet
  672 -200 672 -200 651 -200 c 256,137,138
  588 -200 588 -200 588 -262 c 256,127,128
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p2l3 u1
 EndChar
 
 StartChar: p2l3u2
@@ -37092,7 +36550,6 @@ SplineSet
  607.473684211 -210 607.473684211 -210 600 -245.5 c 0,142,143
  598 -255 598 -255 598 -262 c 256,135,136
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p2l3 u2
 EndChar
 
 StartChar: p2s1
@@ -37176,8 +36633,6 @@ SplineSet
  1115.11815754 -48.4746328438 1115.11815754 -48.4746328438 1055 8 c 1,100,-1
  1218 8 l 1,51,52
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p2 xx s1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p2 xx s1
 EndChar
 
 StartChar: p2rhrh
@@ -37273,8 +36728,6 @@ SplineSet
  671.608695652 14 671.608695652 14 737 -56.5 c 0,113,114
  805 -129.8125 805 -129.8125 805 -243.25 c 0,81,82
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p2 xx rh xx rh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p2 xx rh xx rh
 EndChar
 
 StartChar: p3u1
@@ -37351,7 +36804,6 @@ SplineSet
  355.097560976 150 355.097560976 150 378.5 200.5 c 0,98,99
  395 236.105263158 395 236.105263158 395 278 c 256,84,85
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3 u1
 EndChar
 
 StartChar: p3u2
@@ -37437,7 +36889,6 @@ SplineSet
  1249 0 l 1,110,-1
  1250 0 l 1,109,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3 u2
 EndChar
 
 StartChar: p3r1
@@ -37513,7 +36964,6 @@ SplineSet
  355.097560976 150 355.097560976 150 378.5 200.5 c 0,100,101
  395 236.105263158 395 236.105263158 395 278 c 256,86,87
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3 r1
 EndChar
 
 StartChar: p3k3
@@ -37606,8 +37056,6 @@ SplineSet
  1424 -217 1424 -217 1424 -200 c 0,119,120
  1424 -100 1424 -100 1351 -100 c 0,69,70
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p3 xx k3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p3 xx k3
 EndChar
 
 StartChar: p3ch3
@@ -37738,8 +37186,6 @@ SplineSet
  1115 -132 1115 -132 1098 -119.5 c 128,-1,159
  1081 -107 1081 -107 1059 -107 c 256,149,150
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p3 xx ch3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p3 xx ch3
 EndChar
 
 StartChar: p3th3
@@ -37830,8 +37276,6 @@ SplineSet
  1598 -91.4647887324 1598 -91.4647887324 1598 -167.344639264 c 128,-1,113
  1598 -243.224489796 1598 -243.224489796 1516 -270 c 1,69,70
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p3 xx th3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p3 xx th3
 EndChar
 
 StartChar: p3th3u1
@@ -37935,7 +37379,6 @@ SplineSet
  395 344.631578947 395 344.631578947 375.179487179 385.315789474 c 128,-1,135
  355.358974359 426 355.358974359 426 311 426 c 256,121,122
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3th3 u1
 EndChar
 
 StartChar: p3th3u2
@@ -38048,7 +37491,6 @@ SplineSet
  1493 -573 1493 -573 1482 -586 c 128,-1,147
  1471 -599 1471 -599 1455 -599 c 256,136,137
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3th3 u2
 EndChar
 
 StartChar: p3th4
@@ -38134,8 +37576,6 @@ SplineSet
  1324 -320 1324 -320 1335 -328 c 128,-1,110
  1346 -336 1346 -336 1369 -336 c 0,69,70
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p3 xx th4
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p3 xx th4
 EndChar
 
 StartChar: p3n1
@@ -38225,8 +37665,6 @@ SplineSet
  1471 -162 1471 -162 1455.5 -146.5 c 0,116,117
  1425 -116 1425 -116 1378 -116 c 0,69,70
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p3 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p3 xx n1
 EndChar
 
 StartChar: p3p3
@@ -38296,8 +37734,6 @@ SplineSet
  355.097560976 150 355.097560976 150 378.5 200.5 c 0,83,84
  395 236.105263158 395 236.105263158 395 278 c 256,69,70
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p3 xx p3
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p3 xx p3
 EndChar
 
 StartChar: p3p3u1
@@ -38384,7 +37820,6 @@ SplineSet
  355.097560976 150 355.097560976 150 378.5 200.5 c 0,110,111
  395 236.105263158 395 236.105263158 395 278 c 256,96,97
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3p3 u1
 EndChar
 
 StartChar: p3p3u2
@@ -38481,7 +37916,6 @@ SplineSet
  355.097560976 150 355.097560976 150 378.5 200.5 c 0,124,125
  395 236.105263158 395 236.105263158 395 278 c 256,110,111
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3p3 u2
 EndChar
 
 StartChar: p3p4
@@ -38582,8 +38016,6 @@ SplineSet
  1412 -252 1412 -252 1412 -269 c 256,128,129
  1412 -286 1412 -286 1426 -286 c 2,69,-1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" p3 xx p4
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" p3 xx p4
 EndChar
 
 StartChar: p3r3
@@ -38657,9 +38089,6 @@ SplineSet
  615.097560976 150 615.097560976 150 638.5 200.5 c 0,95,96
  655 236.105263158 655 236.105263158 655 278 c 256,81,82
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" p3 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" p3xx r3
 EndChar
 
 StartChar: p3r3u1
@@ -38748,7 +38177,6 @@ SplineSet
  615.097560976 150 615.097560976 150 638.5 200.5 c 0,120,121
  655 236.105263158 655 236.105263158 655 278 c 256,106,107
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3r3 u1
 EndChar
 
 StartChar: p3r3u2
@@ -38843,7 +38271,6 @@ SplineSet
  615.097560976 150 615.097560976 150 638.5 200.5 c 0,132,133
  655 236.105263158 655 236.105263158 655 278 c 256,118,119
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3r3 u2
 EndChar
 
 StartChar: p3l3
@@ -38943,8 +38370,6 @@ SplineSet
  991 -353 991 -353 998.5 -342 c 0,138,139
  1011 -323.666666667 1011 -323.666666667 1011 -298 c 256,124,125
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" p3 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" p3xx l3
 EndChar
 
 StartChar: p3l3u1
@@ -39055,7 +38480,6 @@ SplineSet
  925.1 -337 925.1 -337 939.55 -320 c 0,157,158
  960 -295.941176471 960 -295.941176471 960 -271 c 256,143,144
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3l3 u1
 EndChar
 
 StartChar: p3l3u2
@@ -39177,7 +38601,6 @@ SplineSet
  925.1 -337 925.1 -337 939.55 -320 c 0,168,169
  960 -295.941176471 960 -295.941176471 960 -271 c 256,154,155
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p3l3 u2
 EndChar
 
 StartChar: p4u1
@@ -39245,7 +38668,6 @@ SplineSet
  233.780487805 314.146341463 233.780487805 314.146341463 243 56 c 1,81,-1
  67 56 l 1,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p4 u1
 EndChar
 
 StartChar: p4u2
@@ -39316,7 +38738,6 @@ SplineSet
  1012 279.5 1012 279.5 1012 185.823529412 c 128,-1,87
  1012 92.1470588235 1012 92.1470588235 945 35 c 1,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p4 u2
 EndChar
 
 StartChar: p4r1
@@ -39378,7 +38799,6 @@ SplineSet
  524 377 524 377 524 323 c 128,-1,78
  524 269 524 269 547 269 c 1,0,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p4 r1
 EndChar
 
 StartChar: p4r3
@@ -39443,9 +38863,6 @@ SplineSet
  785 338.153846154 785 338.153846154 808 324 c 0,79,80
  815.5 318 815.5 318 827 318 c 2,0,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 p4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" p4 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" p4xx r3
 EndChar
 
 StartChar: p4r3u1
@@ -39525,7 +38942,6 @@ SplineSet
  873.161290323 -514 873.161290323 -514 896.080645161 -489.5 c 128,-1,89
  919 -465 919 -465 927 -445 c 128,-1,90
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p4r3 u1
 EndChar
 
 StartChar: p4r3u2
@@ -39611,7 +39027,6 @@ SplineSet
  943 -462.028571429 943 -462.028571429 943 -411.014285714 c 0,112,113
  943 -320.15 943 -320.15 902 -273 c 1,90,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" p4r3 u2
 EndChar
 
 StartChar: m1u1
@@ -39669,7 +39084,6 @@ SplineSet
  593.161290323 -224 593.161290323 -224 616.080645161 -199.5 c 0,62,63
  655 -157.896551724 655 -157.896551724 655 -112 c 256,48,49
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1 u1
 EndChar
 
 StartChar: m1u2
@@ -39730,7 +39144,6 @@ SplineSet
  421 -106.083333333 421 -106.083333333 421 -76.0416666667 c 0,71,72
  421 -24.7 421 -24.7 440 0 c 1,49,50
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1 u2
 EndChar
 
 StartChar: m1r1
@@ -39788,7 +39201,6 @@ SplineSet
  383 329 383 329 383 353 c 0,66,67
  383 458 383 458 295 458 c 0,58,59
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1 r1
 EndChar
 
 StartChar: m1n1
@@ -39857,8 +39269,6 @@ SplineSet
  244.880597015 28 244.880597015 28 349 28 c 0,77,78
  423.615384615 28 423.615384615 28 479 -20 c 1,36,37
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" m1 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" m1 xx n1
 EndChar
 
 StartChar: m1p1
@@ -39903,8 +39313,6 @@ SplineSet
  258 930 258 930 394.447368421 930 c 128,-1,46
  530.894736842 930 530.894736842 930 615 828 c 1,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" m1 xx p1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" m1 xx p1
 EndChar
 
 StartChar: m1p1u1
@@ -39969,7 +39377,6 @@ SplineSet
  1314.16129032 -218 1314.16129032 -218 1337.08064516 -193.5 c 128,-1,59
  1360 -169 1360 -169 1368 -149 c 128,-1,60
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1p1 u1
 EndChar
 
 StartChar: m1p1u2
@@ -40039,7 +39446,6 @@ SplineSet
  1179 0 l 1,60,61
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1p1 u2
 EndChar
 
 StartChar: m1p1r1
@@ -40103,7 +39509,6 @@ SplineSet
  258 930 258 930 394.447368421 930 c 128,-1,76
  530.894736842 930 530.894736842 930 615 828 c 1,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1p1 r1
 EndChar
 
 StartChar: m1p1r3
@@ -40169,9 +39574,6 @@ SplineSet
  528 930 528 930 664.447368421 930 c 128,-1,78
  800.894736842 930 800.894736842 930 885 828 c 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 m1p1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1p1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1p1 r4
 EndChar
 
 StartChar: m1p1r3u1
@@ -40249,7 +39651,6 @@ SplineSet
  1511 -340 1511 -340 1464 -340 c 2,98,-1
  1456 -340 l 1,84,85
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1p1r3 u1
 EndChar
 
 StartChar: m1p1r3u2
@@ -40337,7 +39738,6 @@ SplineSet
  1411 -345 1411 -345 1415 -330 c 1,113,-1
  1403 -330 l 1,89,90
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1p1r3 u2
 EndChar
 
 StartChar: m1m1
@@ -40400,8 +39800,6 @@ SplineSet
  383 329 383 329 383 353 c 0,66,67
  383 458 383 458 295 458 c 0,58,59
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" m1 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" m1 xx m1
 EndChar
 
 StartChar: m1m1u1
@@ -40484,7 +39882,6 @@ SplineSet
  383 329 383 329 383 353 c 0,92,93
  383 458 383 458 295 458 c 0,84,85
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1m1 u1
 EndChar
 
 StartChar: m1m1u2
@@ -40571,7 +39968,6 @@ SplineSet
  383 329 383 329 383 353 c 0,103,104
  383 458 383 458 295 458 c 0,95,96
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1m1 u2
 EndChar
 
 StartChar: m1m1r1
@@ -40650,7 +40046,6 @@ SplineSet
  383 329 383 329 383 353 c 0,93,94
  383 458 383 458 295 458 c 0,85,86
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1m1 r1
 EndChar
 
 StartChar: m1r3
@@ -40709,9 +40104,6 @@ SplineSet
  1098 661.739130435 1098 661.739130435 1098 464 c 2,64,-1
  1100 25 l 1,25,26
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 m1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" m1xx r3
 EndChar
 
 StartChar: m1r3u1
@@ -40780,7 +40172,6 @@ SplineSet
  945 -447.896551724 945 -447.896551724 945 -392.148275862 c 128,-1,82
  945 -336.4 945 -336.4 891 -304 c 1,70,71
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1r3 u1
 EndChar
 
 StartChar: m1r3u2
@@ -40858,7 +40249,6 @@ SplineSet
  731 -322 l 1,94,-1
  708 -322 l 1,71,72
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1r3 u2
 EndChar
 
 StartChar: m1l3
@@ -40939,8 +40329,6 @@ SplineSet
  294.136363636 -229 294.136363636 -229 261 -229 c 256,99,100
  203 -229 203 -229 203 -298 c 256,89,90
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" m1 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" m1xx l3
 EndChar
 
 StartChar: m1l3u1
@@ -41030,7 +40418,6 @@ SplineSet
  193 -206 193 -206 193 -270 c 256,113,114
  193 -335 193 -335 251 -335 c 256,107,108
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1l3 u1
 EndChar
 
 StartChar: m1l3u2
@@ -41138,7 +40525,6 @@ SplineSet
  300 -328 300 -328 307 -316 c 0,132,133
  319 -295.428571429 319 -295.428571429 319 -270 c 256,118,119
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" m1l3 u2
 EndChar
 
 StartChar: y1u1
@@ -41215,7 +40601,6 @@ SplineSet
  923.161290323 -244 923.161290323 -244 946.080645161 -219.5 c 128,-1,80
  969 -195 969 -195 977 -175 c 128,-1,81
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1 u1
 EndChar
 
 StartChar: y1u2
@@ -41295,7 +40680,6 @@ SplineSet
  801 -49 801 -49 818 -21 c 1,103,-1
  817 -21 l 1,80,81
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1 u2
 EndChar
 
 StartChar: y1r1
@@ -41369,7 +40753,6 @@ SplineSet
  510 137 510 137 528 139 c 1,95,96
  385 283.932432432 385 283.932432432 385 492 c 1,77,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1 r1
 EndChar
 
 StartChar: y1k1
@@ -41471,8 +40854,6 @@ SplineSet
  572 -337 l 2,131,132
  578 -337 578 -337 584 -335 c 1,121,122
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx k1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx k1 
 EndChar
 
 StartChar: y1k1k1
@@ -41590,8 +40971,6 @@ SplineSet
  492 -341 492 -341 502 -339 c 1,140,141
 EndSplineSet
 LCarets2: 4 0 0 0 0
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx k1k1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx k1 xx k1
 EndChar
 
 StartChar: y1k1k1u1
@@ -41710,7 +41089,6 @@ SplineSet
  459 -340 459 -340 469 -338 c 1,155,156
  452 -293 452 -293 447 -242 c 1,148,149
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1k1k1 u1
 EndChar
 
 StartChar: y1k1k1u2
@@ -41849,7 +41227,6 @@ SplineSet
  531.5 -349 l 2,183,184
  536 -349 536 -349 541 -347 c 1,175,176
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1k1k1 u2
 EndChar
 
 StartChar: y1ch1
@@ -41929,8 +41306,6 @@ SplineSet
  454 253 454 253 419.5 342 c 128,-1,99
  385 431 385 431 385 517 c 1,80,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx ch1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx ch1
 EndChar
 
 StartChar: y1th1
@@ -42019,8 +41394,6 @@ SplineSet
  758.296028881 -156.902527076 758.296028881 -156.902527076 747 -211.5 c 0,118,119
  744 -226 744 -226 744 -238 c 256,111,112
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx th1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx th1
 EndChar
 
 StartChar: y1th1u1
@@ -42127,7 +41500,6 @@ SplineSet
  788 -142.695652174 788 -142.695652174 788 -221.347826087 c 128,-1,142
  788 -300 788 -300 834 -300 c 256,136,137
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1th1 u1
 EndChar
 
 StartChar: y1th1u2
@@ -42237,7 +41609,6 @@ SplineSet
  753 -182 753 -182 753 -205 c 0,147,148
  753 -298 753 -298 804 -298 c 256,140,141
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1th1 u2
 EndChar
 
 StartChar: y1n1
@@ -42327,8 +41698,6 @@ SplineSet
  604.880597015 10 604.880597015 10 709 10 c 0,114,115
  783.615384615 10 783.615384615 10 839 -38 c 1,73,74
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx n1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx n1
 EndChar
 
 StartChar: y1p1
@@ -42408,8 +41777,6 @@ SplineSet
  454 253 454 253 419.5 342 c 128,-1,100
  385 431 385 431 385 517 c 1,81,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx p1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx p1
 EndChar
 
 StartChar: y1m1
@@ -42495,8 +41862,6 @@ SplineSet
  637 -333 l 1,103,-1
  670 -333 l 1,97,98
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" y1xx m1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx m1
 EndChar
 
 StartChar: y1y1
@@ -42566,8 +41931,6 @@ SplineSet
  510 137 510 137 528 139 c 1,83,84
  385 283.932432432 385 283.932432432 385 492 c 1,66,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1 y2
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" y1 xx y1
 EndChar
 
 StartChar: y1y1u1
@@ -42653,8 +42016,6 @@ SplineSet
  1045 -293.230769231 1045 -293.230769231 987 -262 c 1,109,-1
  889 -262 l 1,98,99
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1y1 u1
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1 y2 u1
 EndChar
 
 StartChar: y1y1u2
@@ -42748,8 +42109,6 @@ SplineSet
  859 -364.428571429 859 -364.428571429 859 -337.214285714 c 128,-1,119
  859 -310 859 -310 860 -305 c 1,98,99
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1y1 u2
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" y1 y2 u2
 EndChar
 
 StartChar: r3u1
@@ -42816,7 +42175,6 @@ SplineSet
  591.292682927 158 591.292682927 158 655 158 c 0,85,86
  758.6 158 758.6 158 767 336.5 c 0,71,72
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" r3 u1
 EndChar
 
 StartChar: r3u2
@@ -42884,7 +42242,6 @@ SplineSet
  1039 525 1039 525 1025.5 561 c 0,90,91
  995.159090909 641.909090909 995.159090909 641.909090909 932 678 c 1,76,77
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" r3 u2
 EndChar
 
 StartChar: r3r1
@@ -42951,7 +42308,6 @@ SplineSet
  240 237.105263158 240 237.105263158 325 0 c 1,86,-1
  135 0 l 1,16,17
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" r3 r1
 EndChar
 
 StartChar: l3u1
@@ -43003,7 +42359,6 @@ SplineSet
  763.161290323 -224 763.161290323 -224 786.080645161 -199.5 c 0,53,54
  825 -157.896551724 825 -157.896551724 825 -112 c 256,39,40
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 u1
 EndChar
 
 StartChar: l3u2
@@ -43065,7 +42420,6 @@ SplineSet
  619 0 l 1,66,-1
  620 0 l 1,65,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 u2
 EndChar
 
 StartChar: l3r1
@@ -43116,7 +42470,6 @@ SplineSet
  537 459 l 1,56,-1
  538 494 l 1,47,48
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 r1
 EndChar
 
 StartChar: l3k1
@@ -43194,8 +42547,6 @@ SplineSet
  442 -337 l 2,87,88
  448 -337 448 -337 454 -335 c 1,77,78
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx k1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx k1
 EndChar
 
 StartChar: l3k1k1
@@ -43288,8 +42639,6 @@ SplineSet
  307 -341 307 -341 309.5 -341 c 128,-1,105
  312 -341 312 -341 322 -339 c 1,96,97
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx k1k1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx k1 xx k1
 EndChar
 
 StartChar: l3k3
@@ -43362,8 +42711,6 @@ SplineSet
  818 -209 818 -209 818 -192 c 0,79,80
  818 -95 818 -95 760 -95 c 0,29,30
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx k3
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx k3
 EndChar
 
 StartChar: l3ch1
@@ -43421,8 +42768,6 @@ SplineSet
  504 -271.363636364 504 -271.363636364 539 -300 c 1,56,-1
  387 -300 l 1,29,30
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx ch1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx ch1
 EndChar
 
 StartChar: l3th1
@@ -43487,8 +42832,6 @@ SplineSet
  588.296028881 -146.902527076 588.296028881 -146.902527076 577 -201.5 c 0,74,75
  574 -216 574 -216 574 -228 c 256,67,68
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx th1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx th1
 EndChar
 
 StartChar: l3p1
@@ -43546,8 +42889,6 @@ SplineSet
  574 -387 574 -387 582 -408 c 1,57,-1
  443 -408 l 1,29,30
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx p1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx p1
 EndChar
 
 StartChar: l3p2
@@ -43617,8 +42958,6 @@ SplineSet
  858 -123.555555556 858 -123.555555556 843.5 -112.277777778 c 128,-1,74
  829 -101 829 -101 812 -101 c 0,67,68
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx p2
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx p2
 EndChar
 
 StartChar: l3p3
@@ -43702,8 +43041,6 @@ SplineSet
  339 -248.2 339 -248.2 324.5 -236.6 c 128,-1,93
  310 -225 310 -225 298 -225 c 256,80,81
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx p3
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx p3
 EndChar
 
 StartChar: l3m1
@@ -43766,8 +43103,6 @@ SplineSet
  581 -333 l 1,60,-1
  613 -333 l 1,54,55
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx m1
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx m1
 EndChar
 
 StartChar: l3l3
@@ -43838,9 +43173,6 @@ SplineSet
  779 14 779 14 764 30 c 1,87,-1
  921 30 l 1,39,40
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" l3xx l3
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" l3 l4
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" l3 xx l3
 EndChar
 
 StartChar: l3l3u1
@@ -43925,8 +43257,6 @@ SplineSet
  383 -229 383 -229 362 -229 c 256,105,106
  298 -229 298 -229 298 -298 c 256,95,96
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3l3 u1
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 l4 u1
 EndChar
 
 StartChar: l3l3u2
@@ -44018,8 +43348,6 @@ SplineSet
  383 -229 383 -229 362 -229 c 256,115,116
  298 -229 298 -229 298 -298 c 256,105,106
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3l3 u2
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" l3 l4 u2
 EndChar
 
 StartChar: v1u1
@@ -44066,7 +43394,6 @@ SplineSet
  868.161290323 -224 868.161290323 -224 891.080645161 -199.5 c 0,51,52
  930 -157.896551724 930 -157.896551724 930 -112 c 256,37,38
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 u1
 EndChar
 
 StartChar: v1u2
@@ -44123,7 +43450,6 @@ SplineSet
  775 0 l 1,64,-1
  776 0 l 1,63,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 u2
 EndChar
 
 StartChar: v1r1
@@ -44175,7 +43501,6 @@ SplineSet
  250 937 250 937 396 937 c 0,59,60
  705.381818182 937 705.381818182 937 732 571 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 r1
 EndChar
 
 StartChar: v1r3
@@ -44222,9 +43547,6 @@ SplineSet
  542.6 937 542.6 937 691 937 c 0,53,54
  1006.02752294 937 1006.02752294 937 1033 569.5 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 v1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" v1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" v1xx r3
 EndChar
 
 StartChar: v1r3u1
@@ -44286,7 +43608,6 @@ SplineSet
  1185 -447.896551724 1185 -447.896551724 1185 -393.426536732 c 128,-1,77
  1185 -338.956521739 1185 -338.956521739 1136 -307 c 1,64,65
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1r3 u1
 EndChar
 
 StartChar: v1r3u2
@@ -44355,7 +43676,6 @@ SplineSet
  1173 -462.028571429 1173 -462.028571429 1173 -399.514285714 c 128,-1,88
  1173 -337 1173 -337 1147 -293 c 1,64,65
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1r3 u2
 EndChar
 
 StartChar: v1l3
@@ -44425,8 +43745,6 @@ SplineSet
  453 -229 453 -229 432 -229 c 256,89,90
  368 -229 368 -229 368 -298 c 256,79,80
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" v1 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" v1xx l3
 EndChar
 
 StartChar: v1l3u1
@@ -44504,7 +43822,6 @@ SplineSet
  403 -216 403 -216 403 -280 c 256,100,101
  403 -345 403 -345 461 -345 c 256,94,95
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1l3 u1
 EndChar
 
 StartChar: v1l3u2
@@ -44598,7 +43915,6 @@ SplineSet
  510 -338 510 -338 517 -326 c 0,116,117
  529 -305.428571429 529 -305.428571429 529 -280 c 256,102,103
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1l3 u2
 EndChar
 
 StartChar: v1v1
@@ -44639,8 +43955,6 @@ SplineSet
  857 0 l 1,39,-1
  775 0 l 1,35,36
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 v2
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" v1 xx v1
 EndChar
 
 StartChar: v1v1u1
@@ -44697,8 +44011,6 @@ SplineSet
  885 -339.413793103 885 -339.413793103 822 -309 c 1,63,-1
  734 -309 l 1,51,52
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1v1 u1
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 v2 u1
 EndChar
 
 StartChar: v1v1u2
@@ -44764,8 +44076,6 @@ SplineSet
  933 -348 933 -348 915 -309 c 1,76,-1
  893 -309 l 1,52,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1v1 u2
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" v1 v2 u2
 EndChar
 
 StartChar: z1u1
@@ -44843,7 +44153,6 @@ SplineSet
  661 518.925373134 661 518.925373134 726.5 603 c 0,104,105
  801.290697674 699 801.290697674 699 936 699 c 1,16,17
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1 u1
 EndChar
 
 StartChar: z1u2
@@ -44936,7 +44245,6 @@ SplineSet
  935.153846154 238 935.153846154 238 959 284.5 c 0,123,124
  982 329.35 982 329.35 982 372 c 2,107,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1 u2
 EndChar
 
 StartChar: z1r1
@@ -45009,7 +44317,6 @@ SplineSet
  622 112 622 112 589.5 69 c 0,101,102
  518.453488372 -25 518.453488372 -25 375 -25 c 0,17,18
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1 r1
 EndChar
 
 StartChar: z1ch1
@@ -45086,8 +44393,6 @@ SplineSet
  1103 583 1103 583 1086.5 609.5 c 0,93,94
  1051.91916168 665.038922156 1051.91916168 665.038922156 998 691 c 1,81,82
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" z1 xx ch1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx ch1
 EndChar
 
 StartChar: z1ch1u1
@@ -45182,7 +44487,6 @@ SplineSet
  1663.16129032 -214 1663.16129032 -214 1686.08064516 -189.5 c 0,119,120
  1725 -147.896551724 1725 -147.896551724 1725 -102 c 0,107,108
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1ch1 u1
 EndChar
 
 StartChar: z1ch1u2
@@ -45283,7 +44587,6 @@ SplineSet
  1501 -23 1501 -23 1514 0 c 1,131,-1
  1509 0 l 1,108,109
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1ch1 u2
 EndChar
 
 StartChar: z1ch1r1
@@ -45381,7 +44684,6 @@ SplineSet
  1103 583 1103 583 1086.5 609.5 c 0,124,125
  1051.91916168 665.038922156 1051.91916168 665.038922156 998 691 c 1,112,113
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1ch1 r1
 EndChar
 
 StartChar: z1ch2
@@ -45482,8 +44784,6 @@ SplineSet
  1103 583 1103 583 1086.5 609 c 0,135,136
  1052.34394904 662.821656051 1052.34394904 662.821656051 998 691 c 1,123,124
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" z1 xx ch2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx ch2
 EndChar
 
 StartChar: z1n1
@@ -45572,8 +44872,6 @@ SplineSet
  604.880597015 10 604.880597015 10 709 10 c 0,118,119
  783.615384615 10 783.615384615 10 839 -38 c 1,77,78
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" z1 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx n1
 EndChar
 
 StartChar: z1n1u1
@@ -45670,7 +44968,6 @@ SplineSet
  980 -374 980 -374 992 -374 c 256,130,131
  1023.11538462 -374 1023.11538462 -374 1033.5 -320 c 0,119,120
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1n1 u1
 EndChar
 
 StartChar: z1n1u2
@@ -45781,7 +45078,6 @@ SplineSet
  864 -368.6 864 -368.6 892 -391 c 0,150,151
  902 -399 902 -399 917 -399 c 0,140,141
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1n1 u2
 EndChar
 
 StartChar: z1m1
@@ -45867,8 +45163,6 @@ SplineSet
  739 -333 l 1,108,-1
  771 -333 l 1,102,103
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" z1 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx m1
 EndChar
 
 StartChar: z1r3
@@ -45950,9 +45244,6 @@ SplineSet
  1003 565.561403509 1003 565.561403509 1167 649 c 0,110,111
  1224 678 1224 678 1303 679 c 1,16,17
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 z1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1xx r3
 EndChar
 
 StartChar: z1r3u1
@@ -46053,7 +45344,6 @@ SplineSet
  1463.16129032 -474 1463.16129032 -474 1486.08064516 -449.5 c 128,-1,123
  1509 -425 1509 -425 1517 -405 c 128,-1,124
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1r3 u1
 EndChar
 
 StartChar: z1r3u2
@@ -46159,7 +45449,6 @@ SplineSet
  1563 -462.028571429 1563 -462.028571429 1563 -407.014285714 c 0,147,148
  1563 -296.1 1563 -296.1 1500 -252 c 1,124,125
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1r3 u2
 EndChar
 
 StartChar: z1l3
@@ -46264,8 +45553,6 @@ SplineSet
  556 -364 556 -364 564 -353.5 c 0,145,146
  577 -336.4375 577 -336.4375 577 -311 c 256,131,132
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" z1 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" z1xx l3
 EndChar
 
 StartChar: z1l3u1
@@ -46379,7 +45666,6 @@ SplineSet
  536.473684211 -337 536.473684211 -337 551.236842105 -320.5 c 0,162,163
  572 -297.294117647 572 -297.294117647 572 -272 c 256,150,151
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1l3 u1
 EndChar
 
 StartChar: z1l3u2
@@ -46500,7 +45786,6 @@ SplineSet
  536.473684211 -337 536.473684211 -337 551.236842105 -320.5 c 0,168,169
  572 -297.294117647 572 -297.294117647 572 -272 c 256,156,157
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1l3 u2
 EndChar
 
 StartChar: z1z1
@@ -46600,8 +45885,6 @@ SplineSet
  998 -208 998 -208 988 -208 c 0,134,135
  950 -208 950 -208 950 -280 c 256,125,126
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" z1 xx z1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" z1 xx z1
 EndChar
 
 StartChar: z1z1u1
@@ -46722,7 +46005,6 @@ SplineSet
  879.580645161 -201 879.580645161 -201 871 -267.5 c 0,165,166
  869 -283 869 -283 869 -293 c 0,153,154
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1z1 u1
 EndChar
 
 StartChar: z1z1u2
@@ -46848,7 +46130,6 @@ SplineSet
  902.692307692 -320 902.692307692 -320 912.5 -269 c 0,172,173
  915 -256 915 -256 915 -247 c 256,163,164
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1z1 u2
 EndChar
 
 StartChar: z1z1r1
@@ -46969,7 +46250,6 @@ SplineSet
  858.28125 -217 858.28125 -217 847.5 -286 c 0,167,168
  845 -302 845 -302 845 -311 c 0,154,155
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" z1z1 r1
 EndChar
 
 StartChar: z1z1r3
@@ -47093,9 +46373,6 @@ SplineSet
  924.8 -215 924.8 -215 910 -252 c 0,171,172
  899 -279.5 899 -279.5 899 -309 c 0,159,160
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 z1z1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1z1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" z1z1 r4
 EndChar
 
 StartChar: shu1
@@ -47182,7 +46459,6 @@ SplineSet
  1173.16129032 -224 1173.16129032 -224 1196.08064516 -199.5 c 0,100,101
  1235 -157.896551724 1235 -157.896551724 1235 -112 c 256,86,87
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sh u1
 EndChar
 
 StartChar: shu2
@@ -47278,7 +46554,6 @@ SplineSet
  1030 0 l 1,113,-1
  1031 0 l 1,112,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sh u2
 EndChar
 
 StartChar: shr1
@@ -47366,7 +46641,6 @@ SplineSet
  1062 164 l 1,105,-1
  1215 164 l 1,101,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sh r1
 EndChar
 
 StartChar: shk1
@@ -47476,8 +46750,6 @@ SplineSet
  802 -327 l 2,134,135
  808 -327 808 -327 814 -325 c 1,124,125
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" sh xx k1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx k1
 EndChar
 
 StartChar: shk1r1
@@ -47599,7 +46871,6 @@ SplineSet
  756 -392 756 -392 770 -392 c 0,152,153
  790 -392 790 -392 800 -388 c 1,145,146
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shk1 r1
 EndChar
 
 StartChar: shk1k1
@@ -47724,8 +46995,6 @@ SplineSet
  672 -341 672 -341 682 -339 c 1,151,152
  662.61509434 -291.418867925 662.61509434 -291.418867925 659 -239 c 1,143,144
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" sh xx k1 xx k1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx k1 xx k1
 EndChar
 
 StartChar: shk1r3
@@ -47844,9 +47113,6 @@ SplineSet
  772 -327 772 -327 784 -341 c 128,-1,151
  796 -355 796 -355 818 -355 c 1,140,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 shk1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" shk1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" shk1 r4
 EndChar
 
 StartChar: sht1
@@ -47940,8 +47206,6 @@ SplineSet
  988 -147 988 -147 994.5 -154.5 c 128,-1,111
  1001 -162 1001 -162 1009 -162 c 2,76,-1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" sh xx t1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx t1
 EndChar
 
 StartChar: sht1r3
@@ -48040,9 +47304,6 @@ SplineSet
  1023 -158 1023 -158 1030.5 -168 c 128,-1,117
  1038 -178 1038 -178 1049 -178 c 1,76,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 sht1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" sht1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" sht1 r4
 EndChar
 
 StartChar: sht2
@@ -48127,8 +47388,6 @@ SplineSet
  978 -310 978 -310 1007 -310 c 256,100,101
  1103 -310 1103 -310 1103 -200 c 256,92,93
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" sh xx t2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx t2
 EndChar
 
 StartChar: sht2u1
@@ -48228,7 +47487,6 @@ SplineSet
  1133.4 -541 1133.4 -541 1169.2 -541 c 128,-1,112
  1205 -541 1205 -541 1229.5 -514 c 128,-1,113
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sht2 u1
 EndChar
 
 StartChar: sht2u2
@@ -48331,7 +47589,6 @@ SplineSet
  1133.4 -541 1133.4 -541 1169.2 -541 c 128,-1,112
  1205 -541 1205 -541 1229.5 -514 c 128,-1,113
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" sht2 u2
 EndChar
 
 StartChar: shnh
@@ -48448,8 +47705,6 @@ SplineSet
  616 -332 616 -332 627 -314 c 128,-1,144
  638 -296 638 -296 638 -279 c 256,133,134
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" sh xx nh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx nh
 EndChar
 
 StartChar: shnhu1
@@ -48576,7 +47831,6 @@ SplineSet
  591 -254.473684211 591 -254.473684211 573.5 -239.736842105 c 128,-1,160
  556 -225 556 -225 542 -225 c 256,147,148
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shnh u1
 EndChar
 
 StartChar: shnhu2
@@ -48721,7 +47975,6 @@ SplineSet
  1258 -294 1258 -294 1259 -284 c 1,185,-1
  1259 -245 l 2,172,173
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shnh u2
 EndChar
 
 StartChar: shp1
@@ -48812,8 +48065,6 @@ SplineSet
  866 -331 l 1,104,-1
  721 -331 l 1,76,77
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" sh xx p1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx p1
 EndChar
 
 StartChar: shp1r3
@@ -48919,9 +48170,6 @@ SplineSet
  1363 39 l 1,126,-1
  1363 -144 l 1,76,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 shp1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" shp1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" shp1 r4
 EndChar
 
 StartChar: shp2
@@ -49024,8 +48272,6 @@ SplineSet
  1226 -122.555555556 1226 -122.555555556 1211.5 -111.277777778 c 128,-1,120
  1197 -100 1197 -100 1180 -100 c 0,113,114
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" sh xx p2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx p2
 EndChar
 
 StartChar: shm1
@@ -49120,8 +48366,6 @@ SplineSet
  961 -324 l 1,107,-1
  993 -324 l 1,101,102
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" sh xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" sh xx m1
 EndChar
 
 StartChar: shm1r3
@@ -49204,9 +48448,6 @@ SplineSet
  1275 164 l 1,99,-1
  1428 164 l 1,95,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 sh
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" sh r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" shxx r3
 EndChar
 
 StartChar: shm1r3u1
@@ -49301,7 +48542,6 @@ SplineSet
  1345.5 -300 1345.5 -300 1321 -300 c 2,119,-1
  1266 -300 l 1,105,106
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shm1r3 u1
 EndChar
 
 StartChar: shm1r3u2
@@ -49404,7 +48644,6 @@ SplineSet
  1423 -462.028571429 1423 -462.028571429 1423 -401.014285714 c 128,-1,130
  1423 -340 1423 -340 1398 -295 c 1,105,106
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" shm1r3 u2
 EndChar
 
 StartChar: s1u1
@@ -49471,7 +48710,6 @@ SplineSet
  1246 -19 1246 -19 1210 -19 c 128,-1,86
  1174 -19 1174 -19 1140 -15 c 1,72,73
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1 u1
 EndChar
 
 StartChar: s1u2
@@ -49545,7 +48783,6 @@ SplineSet
  1101 -21 1101 -21 1103 -9 c 1,98,-1
  1090 -6 l 1,73,74
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1 u2
 EndChar
 
 StartChar: s1r1
@@ -49612,7 +48849,6 @@ SplineSet
  1315 756.744680851 1315 756.744680851 1168 910 c 1,89,-1
  1383 910 l 1,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1 r1
 EndChar
 
 StartChar: s1k1
@@ -49708,8 +48944,6 @@ SplineSet
  709 -312 709 -312 727 -312 c 128,-1,125
  745 -312 745 -312 759 -309 c 1,116,117
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx k1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx k1
 EndChar
 
 StartChar: s1k1u1
@@ -49811,7 +49045,6 @@ SplineSet
  712 -323 712 -323 726.5 -323 c 0,133,134
  747 -323 747 -323 757 -321 c 1,126,127
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1 u1
 EndChar
 
 StartChar: s1k1u2
@@ -49925,7 +49158,6 @@ SplineSet
  761 -283 761 -283 767 -281 c 1,152,153
  751 -235 751 -235 745 -186 c 1,144,145
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1 u2
 EndChar
 
 StartChar: s1k1r1
@@ -50030,7 +49262,6 @@ SplineSet
  1006.65 -328 1006.65 -328 1012 -221 c 1,139,-1
  869 -221 l 1,135,136
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1 r1
 EndChar
 
 StartChar: s1k1k1
@@ -50140,8 +49371,6 @@ SplineSet
  547 -362 547 -362 561.5 -362 c 0,144,145
  581.75 -362 581.75 -362 603 -357 c 1,137,138
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx k1 xx k1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx k1 xx k1
 EndChar
 
 StartChar: s1k1k1u1
@@ -50267,7 +49496,6 @@ SplineSet
  609 -379 609 -379 621 -377 c 1,165,166
  602.526717557 -326.618320611 602.526717557 -326.618320611 596 -257 c 1,158,159
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1k1 u1
 EndChar
 
 StartChar: s1k1k1u2
@@ -50395,7 +49623,6 @@ SplineSet
  672 -357 672 -357 684.5 -357 c 128,-1,172
  697 -357 697 -357 707 -355 c 1,165,166
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1k1 u2
 EndChar
 
 StartChar: s1k1k1r1
@@ -50522,7 +49749,6 @@ SplineSet
  643 -365 643 -365 655 -361 c 1,167,168
  635.426470588 -309.397058824 635.426470588 -309.397058824 631 -243 c 1,160,161
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1k1k1 r1
 EndChar
 
 StartChar: s1k1r3
@@ -50625,9 +49851,6 @@ SplineSet
  883.208333333 -364.395833333 883.208333333 -364.395833333 908 -352 c 1,137,-1
  889 -257 l 1,129,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1k1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1k1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1k1 r4
 EndChar
 
 StartChar: s1k2
@@ -50720,8 +49943,6 @@ SplineSet
  852.1875 -332 852.1875 -332 871 -332 c 256,121,122
  909 -332 909 -332 909 -279.5 c 0,108,109
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx k2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx k2
 EndChar
 
 StartChar: s1t1
@@ -50801,8 +50022,6 @@ SplineSet
  1014 -146 1014 -146 1020.5 -152.5 c 128,-1,105
  1027 -159 1027 -159 1035 -159 c 2,68,-1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx t1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx t1
 EndChar
 
 StartChar: s1t1r3
@@ -50887,9 +50106,6 @@ SplineSet
  946 -147 946 -147 953 -156 c 128,-1,109
  960 -165 960 -165 969 -165 c 2,68,-1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1t1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1t1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1t1 r4
 EndChar
 
 StartChar: s1th1
@@ -50971,8 +50187,6 @@ SplineSet
  928.296028881 -146.902527076 928.296028881 -146.902527076 917 -201.5 c 0,113,114
  914 -216 914 -216 914 -228 c 256,106,107
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx th1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx th1
 EndChar
 
 StartChar: s1th1u1
@@ -51072,7 +50286,6 @@ SplineSet
  918 -132.695652174 918 -132.695652174 918 -211.347826087 c 128,-1,138
  918 -290 918 -290 964 -290 c 256,132,133
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th1 u1
 EndChar
 
 StartChar: s1th1u2
@@ -51178,7 +50391,6 @@ SplineSet
  919 -105 919 -105 906 -132 c 128,-1,147
  893 -159 893 -159 893 -185 c 0,140,141
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th1 u2
 EndChar
 
 StartChar: s1th1r1
@@ -51277,7 +50489,6 @@ SplineSet
  931 -149.291666667 931 -149.291666667 931 -230.145833333 c 128,-1,138
  931 -311 931 -311 980 -311 c 256,132,133
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th1 r1
 EndChar
 
 StartChar: s1th1r3
@@ -51368,9 +50579,6 @@ SplineSet
  1111 -322 1111 -322 1111 -255 c 0,123,124
  1111 -166.64516129 1111 -166.64516129 1061 -136 c 1,119,120
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1th1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1th1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1th1 r4
 EndChar
 
 StartChar: s1th2
@@ -51439,8 +50647,6 @@ SplineSet
  2025 610.833333333 2025 610.833333333 2011 656.916666667 c 0,84,85
  1980.59493671 757 1980.59493671 757 1894 757 c 0,77,78
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx th2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx th2
 EndChar
 
 StartChar: s1th2u1
@@ -51525,7 +50731,6 @@ SplineSet
  2025 -31.1111111111 2025 -31.1111111111 1965 0 c 1,110,-1
  1872 0 l 1,98,99
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th2 u1
 EndChar
 
 StartChar: s1th2u2
@@ -51618,7 +50823,6 @@ SplineSet
  1811 -24 1811 -24 1823 0 c 1,122,-1
  1818 0 l 1,99,100
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th2 u2
 EndChar
 
 StartChar: s1th2r1
@@ -51708,7 +50912,6 @@ SplineSet
  2025 610.833333333 2025 610.833333333 2011 656.916666667 c 0,115,116
  1980.59493671 757 1980.59493671 757 1894 757 c 0,108,109
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1th2 r1
 EndChar
 
 StartChar: s1n1
@@ -51792,8 +50995,6 @@ SplineSet
  724.880597015 23 724.880597015 23 829 23 c 0,109,110
  903.615384615 23 903.615384615 23 959 -25 c 1,68,69
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx n1
 EndChar
 
 StartChar: s1n1u1
@@ -51885,7 +51086,6 @@ SplineSet
  1215.2 -371 1215.2 -371 1225.5 -319.5 c 0,122,123
  1228 -307 1228 -307 1228 -297 c 256,110,111
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1n1 u1
 EndChar
 
 StartChar: s1n1u2
@@ -51985,7 +51185,6 @@ SplineSet
  1069 -346 1069 -346 1096 -367 c 0,137,138
  1105 -374 1105 -374 1117 -374 c 0,128,129
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1n1 u2
 EndChar
 
 StartChar: s1p1
@@ -52058,8 +51257,6 @@ SplineSet
  870 -283 870 -283 906 -351 c 1,88,-1
  772 -351 l 1,64,65
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx p1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx p1
 EndChar
 
 StartChar: s1p1u1
@@ -52148,7 +51345,6 @@ SplineSet
  1311 -371 1311 -371 1271 -351 c 1,112,-1
  1209 -351 l 1,104,105
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p1 u1
 EndChar
 
 StartChar: s1p1u2
@@ -52243,7 +51439,6 @@ SplineSet
  1169 -423 1169 -423 1169 -397 c 128,-1,122
  1169 -371 1169 -371 1181 -353 c 1,103,104
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p1 u2
 EndChar
 
 StartChar: s1p1r1
@@ -52335,7 +51530,6 @@ SplineSet
  1257.7 826.3 1257.7 826.3 1168 916 c 1,117,-1
  1383 916 l 1,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p1 r1
 EndChar
 
 StartChar: s1p1r3
@@ -52425,9 +51619,6 @@ SplineSet
  1079 527 1079 527 1074 490.5 c 0,117,118
  1060 388.3 1060 388.3 1060 342 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1p1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1p1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1p1 r4
 EndChar
 
 StartChar: s1p2
@@ -52517,8 +51708,6 @@ SplineSet
  1178 -118.722222222 1178 -118.722222222 1163.5 -109.861111111 c 128,-1,109
  1149 -101 1149 -101 1132 -101 c 0,102,103
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx p2
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx p2
 EndChar
 
 StartChar: s1p2u1
@@ -52625,7 +51814,6 @@ SplineSet
  1208 -584 1208 -584 1228.5 -562 c 128,-1,133
  1249 -540 1249 -540 1249 -510 c 256,122,123
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p2 u1
 EndChar
 
 StartChar: s1p2u2
@@ -52735,7 +51923,6 @@ SplineSet
  1073 -518 1073 -518 1073 -492 c 128,-1,141
  1073 -466 1073 -466 1085 -448 c 1,122,123
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1p2 u2
 EndChar
 
 StartChar: s1m1
@@ -52815,8 +52002,6 @@ SplineSet
  919 -313 l 1,100,101
  980 -273.115384615 980 -273.115384615 980 -232 c 256,94,95
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx m1
 EndChar
 
 StartChar: s1m1u1
@@ -52912,7 +52097,6 @@ SplineSet
  1169 -432.6 1169 -432.6 1125 -415 c 1,122,-1
  1071 -415 l 1,114,115
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1m1 u1
 EndChar
 
 StartChar: s1m1u2
@@ -53014,7 +52198,6 @@ SplineSet
  1023 -488 1023 -488 1023 -462 c 128,-1,134
  1023 -436 1023 -436 1035 -418 c 1,115,116
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1m1 u2
 EndChar
 
 StartChar: s1m1r1
@@ -53113,7 +52296,6 @@ SplineSet
  870 -313 l 1,128,-1
  919 -313 l 1,121,122
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1m1 r1
 EndChar
 
 StartChar: s1r3
@@ -53182,9 +52364,6 @@ SplineSet
  1508 877 1508 877 1493 907 c 1,90,-1
  1682 907 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1xx r3
 EndChar
 
 StartChar: s1r3u1
@@ -53270,7 +52449,6 @@ SplineSet
  1523.16129032 -464 1523.16129032 -464 1546.08064516 -439.5 c 128,-1,101
  1569 -415 1569 -415 1577 -395 c 128,-1,102
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1r3 u1
 EndChar
 
 StartChar: s1r3u2
@@ -53364,7 +52542,6 @@ SplineSet
  1583 -452.028571429 1583 -452.028571429 1583 -397.014285714 c 0,129,130
  1583 -286.1 1583 -286.1 1520 -242 c 1,103,104
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1r3 u2
 EndChar
 
 StartChar: s1l3
@@ -53458,8 +52635,6 @@ SplineSet
  754 -364 754 -364 762.5 -353.5 c 0,129,130
  777 -335.588235294 777 -335.588235294 777 -311 c 256,115,116
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" s1 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" s1xx l3
 EndChar
 
 StartChar: s1l3u1
@@ -53564,7 +52739,6 @@ SplineSet
  805.1 -347 805.1 -347 819.55 -330 c 0,148,149
  840 -305.941176471 840 -305.941176471 840 -281 c 256,134,135
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1l3 u1
 EndChar
 
 StartChar: s1l3u2
@@ -53679,7 +52853,6 @@ SplineSet
  805.1 -347 805.1 -347 819.55 -330 c 0,157,158
  840 -305.941176471 840 -305.941176471 840 -281 c 256,143,144
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1l3 u2
 EndChar
 
 StartChar: s1s1
@@ -53772,8 +52945,6 @@ SplineSet
  1211.48615385 -49.2738461538 1211.48615385 -49.2738461538 1147 6 c 1,121,-1
  1321 6 l 1,68,69
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx s1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx s1
 EndChar
 
 StartChar: s1s1u1
@@ -53878,7 +53049,6 @@ SplineSet
  1248 -604 1248 -604 1278 -604 c 256,140,130
  1308 -604 1308 -604 1328.5 -582 c 128,-1,131
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1 u1
 EndChar
 
 StartChar: s1s1u2
@@ -53991,7 +53161,6 @@ SplineSet
  1202 -513 1202 -513 1202 -487 c 2,149,-1
  1202 -486 l 1,128,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1 u2
 EndChar
 
 StartChar: s1s1r1
@@ -54090,7 +53259,6 @@ SplineSet
  1135 -269 1135 -269 1135 -309 c 0,133,134
  1135 -370 1135 -370 1192 -370 c 0,62,63
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1 r1
 EndChar
 
 StartChar: s1s1r3
@@ -54187,9 +53355,6 @@ SplineSet
  1325 -138.0625 1325 -138.0625 1240 16 c 1,132,-1
  1382 16 l 1,68,69
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 s1s1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1s1 xx r3
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" s1s1 r4
 EndChar
 
 StartChar: s1s1r3u1
@@ -54305,7 +53470,6 @@ SplineSet
  1358 -588 1358 -588 1358 -560.5 c 128,-1,146
  1358 -533 1358 -533 1338 -512.5 c 128,-1,147
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1r3 u1
 EndChar
 
 StartChar: s1s1r3u2
@@ -54424,7 +53588,6 @@ SplineSet
  1396 -583.526315789 1396 -583.526315789 1396 -553.763157895 c 0,162,163
  1396 -497 1396 -497 1368 -471 c 1,145,146
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1s1r3 u2
 EndChar
 
 StartChar: s1rhrh
@@ -54515,8 +53678,6 @@ SplineSet
  729 -270.666666667 729 -270.666666667 729 -214 c 0,122,123
  729 -112 729 -112 640 -112 c 0,96,97
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" s1 xx rh xx rh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" s1 xx rh xx rh
 EndChar
 
 StartChar: s1rhrhu1
@@ -54619,7 +53780,6 @@ SplineSet
  1328 -574 1328 -574 1348.5 -552 c 128,-1,142
  1369 -530 1369 -530 1369 -500 c 256,131,132
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1rhrh u1
 EndChar
 
 StartChar: s1rhrhu2
@@ -54730,7 +53890,6 @@ SplineSet
  1243 -468 1243 -468 1243 -442 c 128,-1,155
  1243 -416 1243 -416 1255 -398 c 1,136,137
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" s1rhrh u2
 EndChar
 
 StartChar: h1u1
@@ -54793,7 +53952,6 @@ SplineSet
  430.445783133 649 430.445783133 649 501 557.5 c 0,74,75
  566 473.203125 566 473.203125 566 349.5 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1 u1
 EndChar
 
 StartChar: h1u2
@@ -54869,7 +54027,6 @@ SplineSet
  430.445783133 649 430.445783133 649 501 557.5 c 0,92,93
  566 473.203125 566 473.203125 566 349.5 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1 u2
 EndChar
 
 StartChar: h1r1
@@ -54929,7 +54086,6 @@ SplineSet
  462.833333333 624 462.833333333 624 539.5 524 c 0,75,76
  610 432.043478261 610 432.043478261 610 300.9 c 0,0,1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1 r1
 EndChar
 
 StartChar: h1n1
@@ -54991,8 +54147,6 @@ SplineSet
  881.695652174 930 881.695652174 930 1015.84782609 930 c 128,-1,72
  1150 930 1150 930 1235 828 c 1,0,1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" h1 xx n1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" h1 xx n1
 EndChar
 
 StartChar: h1n1u1
@@ -55067,7 +54221,6 @@ SplineSet
  1704 193 1704 193 1714 217.5 c 0,93,94
  1732 261.6 1732 261.6 1732 311 c 256,79,80
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1n1 u1
 EndChar
 
 StartChar: h1n1u2
@@ -55150,7 +54303,6 @@ SplineSet
  1594 217.193548387 1594 217.193548387 1638.5 177 c 0,110,111
  1654 163 1654 163 1676 163 c 0,99,100
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1n1 u2
 EndChar
 
 StartChar: h1m1
@@ -55208,8 +54360,6 @@ SplineSet
  1038 322 1038 322 1038 346 c 0,61,62
  1038 451 1038 451 950 451 c 0,53,54
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" h1 xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" h1 xx m1
 EndChar
 
 StartChar: h1m1u1
@@ -55285,7 +54435,6 @@ SplineSet
  1253.16129032 -214 1253.16129032 -214 1276.08064516 -189.5 c 0,87,88
  1315 -147.896551724 1315 -147.896551724 1315 -102 c 0,75,76
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1m1 u1
 EndChar
 
 StartChar: h1m1u2
@@ -55367,7 +54516,6 @@ SplineSet
  1081 -23 1081 -23 1094 0 c 1,99,-1
  1089 0 l 1,76,77
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1m1 u2
 EndChar
 
 StartChar: h1m1r1
@@ -55444,7 +54592,6 @@ SplineSet
  1038 322 1038 322 1038 346 c 0,90,91
  1038 451 1038 451 950 451 c 0,82,83
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1m1 r1
 EndChar
 
 StartChar: h1r3
@@ -55507,9 +54654,6 @@ SplineSet
  732.833333333 624 732.833333333 624 809.5 524 c 0,78,79
  880 432.043478261 880 432.043478261 880 300.9 c 0,0,1
 EndSplineSet
-Ligature2: "sub_ligature_presmlm2_0 subtable" r4 h1
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" h1 r4
-Ligature2: "presPreBaseSubstitutionsinMalay subtable" h1xx r3
 EndChar
 
 StartChar: h1r3u1
@@ -55588,7 +54732,6 @@ SplineSet
  1443.16129032 -484 1443.16129032 -484 1466.08064516 -459.5 c 128,-1,89
  1489 -435 1489 -435 1497 -415 c 128,-1,90
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1r3 u1
 EndChar
 
 StartChar: h1r3u2
@@ -55673,7 +54816,6 @@ SplineSet
  1523 -452.028571429 1523 -452.028571429 1523 -397.014285714 c 0,114,115
  1523 -286.1 1523 -286.1 1460 -242 c 1,90,91
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1r3 u2
 EndChar
 
 StartChar: h1l3
@@ -55769,8 +54911,6 @@ SplineSet
  776 -364 776 -364 784 -353.5 c 0,129,130
  797 -336.4375 797 -336.4375 797 -311 c 256,115,116
 EndSplineSet
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" h1 l4
-Ligature2: "blwsBelowBaseSubstitutionsinMal subtable" h1xx l3
 EndChar
 
 StartChar: h1l3u1
@@ -55877,7 +55017,6 @@ SplineSet
  735.1 -337 735.1 -337 749.55 -320 c 0,148,149
  770 -295.941176471 770 -295.941176471 770 -271 c 256,134,135
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1l3 u1
 EndChar
 
 StartChar: h1l3u2
@@ -55995,7 +55134,6 @@ SplineSet
  735.1 -337 735.1 -337 749.55 -320 c 0,162,163
  770 -295.941176471 770 -295.941176471 770 -271 c 256,148,149
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" h1l3 u2
 EndChar
 
 StartChar: lhu1
@@ -56080,7 +55218,6 @@ SplineSet
  683.161290323 -564 683.161290323 -564 706.080645161 -539.5 c 128,-1,96
  729 -515 729 -515 737 -495 c 128,-1,97
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" lh u1
 EndChar
 
 StartChar: lhu2
@@ -56169,7 +55306,6 @@ SplineSet
  755 -487.882352941 755 -487.882352941 755 -445.941176471 c 128,-1,117
  755 -404 755 -404 747 -380 c 1,97,-1
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" lh u2
 EndChar
 
 StartChar: lhlh
@@ -56291,8 +55427,6 @@ SplineSet
  364.717948718 223 364.717948718 223 380 297.5 c 0,166,167
  384 317 384 317 384 334 c 256,152,153
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" lh xx lh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" lh xx lh
 EndChar
 
 StartChar: lhlhu1
@@ -56440,7 +55574,6 @@ SplineSet
  273.818181818 239 273.818181818 239 311 239 c 256,196,197
  364.631578947 239 364.631578947 239 380 312 c 0,182,183
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" lhlh u1
 EndChar
 
 StartChar: lhlhu2
@@ -56584,7 +55717,6 @@ SplineSet
  382 430.481481481 382 430.481481481 343.5 459 c 0,199,200
  330 469 330 469 311 469 c 256,185,186
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" lhlh u2
 EndChar
 
 StartChar: zhu1
@@ -56650,7 +55782,6 @@ SplineSet
  613.161290323 -249 613.161290323 -249 636.080645161 -224.5 c 0,86,87
  675 -182.896551724 675 -182.896551724 675 -137 c 256,72,73
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" zh u1
 EndChar
 
 StartChar: zhu2
@@ -56726,7 +55857,6 @@ SplineSet
  733 -182.028571429 733 -182.028571429 733 -127.014285714 c 0,102,103
  733 -15 733 -15 670 27 c 1,77,78
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" zh u2
 EndChar
 
 StartChar: zhk1
@@ -56823,8 +55953,6 @@ SplineSet
  399 -337 399 -337 409 -335 c 1,123,124
  396 -292 396 -292 394 -247 c 1,114,-1
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" zh xx k1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx k1
 EndChar
 
 StartChar: zhk1k1
@@ -56932,8 +56060,6 @@ SplineSet
  249 -347 249 -347 251.5 -347 c 128,-1,139
  254 -347 254 -347 263 -345 c 1,129,130
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" zh xx k1 xx k1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx k1 xx k1
 EndChar
 
 StartChar: zhch1
@@ -57007,8 +56133,6 @@ SplineSet
  686 695.5 686 695.5 660.615384615 736.75 c 128,-1,76
  635.230769231 778 635.230769231 778 600.115384615 778 c 128,-1,77
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" zh xx ch1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx ch1
 EndChar
 
 StartChar: zhth1
@@ -57090,8 +56214,6 @@ SplineSet
  499 -226 499 -226 499 -238 c 256,109,110
  499 -337 499 -337 544 -337 c 256,101,102
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" zh xx th1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx th1
 EndChar
 
 StartChar: zhp1
@@ -57165,8 +56287,6 @@ SplineSet
  686 695.5 686 695.5 660.615384615 736.75 c 128,-1,77
  635.230769231 778 635.230769231 778 600.115384615 778 c 128,-1,78
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" zh xx p1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx p1
 EndChar
 
 StartChar: zhm1
@@ -57245,8 +56365,6 @@ SplineSet
  501 -343 l 1,94,-1
  533 -343 l 1,88,89
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" zh xx m1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx m1
 EndChar
 
 StartChar: zhs1
@@ -57333,8 +56451,6 @@ SplineSet
  710.829787234 -60.829787234 710.829787234 -60.829787234 655 -5 c 1,112,-1
  805 -5 l 1,63,64
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" zh xx s1
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" zh xx s1
 EndChar
 
 StartChar: rhu1
@@ -57379,7 +56495,6 @@ SplineSet
  623.161290323 -284 623.161290323 -284 646.080645161 -259.5 c 0,53,54
  685 -217.896551724 685 -217.896551724 685 -172 c 256,39,40
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" rh u1
 EndChar
 
 StartChar: rhu2
@@ -57426,7 +56541,6 @@ SplineSet
  482.845957175 -373.319590924 482.845957175 -373.319590924 571 -344.5 c 0,58,59
  657.135554928 -316.34029935 657.135554928 -316.34029935 679.5 -207.5 c 0,41,42
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" rh u2
 EndChar
 
 StartChar: rhrh
@@ -57472,8 +56586,6 @@ SplineSet
  634 112 634 112 666 70 c 128,-1,25
  698 28 698 28 708 -22 c 128,-1,26
 EndSplineSet
-Ligature2: "akhnAkhandinMalaylam2lookup1 subtable" rh xx rh
-Ligature2: "akhnAkhandinMalaylamlookup1 subtable" rh xx rh
 EndChar
 
 StartChar: rhrhu1
@@ -57534,7 +56646,6 @@ SplineSet
  512 -577 512 -577 548.5 -577 c 128,-1,62
  585 -577 585 -577 609.5 -550 c 128,-1,63
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" rhrh u1
 EndChar
 
 StartChar: rhrhu2
@@ -57600,7 +56711,6 @@ SplineSet
  495 -475 495 -475 495 -457 c 0,80,81
  495 -432.333333333 495 -432.333333333 499 -411 c 1,62,63
 EndSplineSet
-Ligature2: "pstsPostBaseSubstitutionsinMala subtable" rhrh u2
 EndChar
 
 StartChar: l4
@@ -57655,8 +56765,6 @@ SplineSet
  777 -335.588235294 777 -335.588235294 777 -311 c 256,52,53
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "blwfBelowBaseFormsinMalaylam2lo subtable" xx l3
-Ligature2: "blwfBelowBaseFormsinMalaylamloo subtable" l3 xx
 EndChar
 
 StartChar: k1xx
@@ -57669,7 +56777,6 @@ Fore
 Refer: 164 3405 N 1 0 0 1 1270 0 2
 Refer: 115 3349 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k1 xx
 EndChar
 
 StartChar: k2xx
@@ -57681,7 +56788,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1123 0 2
 Refer: 116 3350 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k2 xx
 EndChar
 
 StartChar: k3xx
@@ -57693,7 +56799,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1012 0 2
 Refer: 117 3351 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k3 xx
 EndChar
 
 StartChar: k4xx
@@ -57705,7 +56810,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1579 0 2
 Refer: 118 3352 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" k4 xx
 EndChar
 
 StartChar: ngxx
@@ -57717,7 +56821,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 1298 0 2
 Refer: 119 3353 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ng xx
 EndChar
 
 StartChar: ch1xx
@@ -57729,7 +56832,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 1124 0 2
 Refer: 120 3354 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ch1 xx
 EndChar
 
 StartChar: ch2xx
@@ -57741,7 +56843,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 1635 0 2
 Refer: 121 3355 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ch2 xx
 EndChar
 
 StartChar: ch3xx
@@ -57753,7 +56854,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 1152 0 2
 Refer: 122 3356 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ch3 xx
 EndChar
 
 StartChar: ch4xx
@@ -57765,7 +56865,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 2056 -24 2
 Refer: 123 3357 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" ch4 xx
 EndChar
 
 StartChar: njxx
@@ -57777,7 +56876,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 1803 -21 2
 Refer: 124 3358 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" nj xx
 EndChar
 
 StartChar: t1xx
@@ -57790,7 +56888,6 @@ Fore
 Refer: 164 3405 N 1 0 0 1 751 0 2
 Refer: 125 3359 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" t1 xx
 EndChar
 
 StartChar: t2xx
@@ -57802,7 +56899,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 759 0 2
 Refer: 126 3360 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" t2 xx
 EndChar
 
 StartChar: t3xx
@@ -57814,7 +56910,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 1520 0 2
 Refer: 127 3361 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" t3 xx
 EndChar
 
 StartChar: t4xx
@@ -57826,7 +56921,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1612 0 2
 Refer: 128 3362 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" t4 xx
 EndChar
 
 StartChar: nhxx
@@ -57838,7 +56932,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 1726 0 2
 Refer: 129 3363 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" nh xx
 EndChar
 
 StartChar: th1xx
@@ -57850,7 +56943,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1228 0 2
 Refer: 130 3364 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" th1 xx
 EndChar
 
 StartChar: th2xx
@@ -57862,7 +56954,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 946 -1 2
 Refer: 131 3365 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" th2 xx
 EndChar
 
 StartChar: th3xx
@@ -57874,7 +56965,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 742 0 2
 Refer: 132 3366 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" th3 xx
 EndChar
 
 StartChar: th4xx
@@ -57886,7 +56976,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1169 0 2
 Refer: 133 3367 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" th4 xx
 EndChar
 
 StartChar: n1xx
@@ -57898,7 +56987,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1147 0 2
 Refer: 134 3368 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" n1 xx
 EndChar
 
 StartChar: p1xx
@@ -57910,7 +56998,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 929 0 2
 Refer: 135 3370 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" p1 xx
 EndChar
 
 StartChar: p2xx
@@ -57922,7 +57009,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1268 0 2
 Refer: 136 3371 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" p2 xx
 EndChar
 
 StartChar: p3xx
@@ -57934,7 +57020,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 N 1 0 0 1 1590 0 2
 Refer: 137 3372 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" p3 xx
 EndChar
 
 StartChar: p4xx
@@ -57947,7 +57032,6 @@ Fore
 Refer: 164 3405 N 1 0 0 1 714 0 2
 Refer: 138 3373 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" p4 xx
 EndChar
 
 StartChar: m1xx
@@ -57959,7 +57043,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 798 0 2
 Refer: 139 3374 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" m1 xx
 EndChar
 
 StartChar: y1xx
@@ -57971,7 +57054,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1228 0 2
 Refer: 140 3375 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" y1 xx
 EndChar
 
 StartChar: r3xx
@@ -57983,7 +57065,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 840 0 2
 Refer: 141 3376 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" r3 xx
 EndChar
 
 StartChar: rhxx
@@ -57995,7 +57076,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 736 0 2
 Refer: 142 3377 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" rh xx
 EndChar
 
 StartChar: l3xx
@@ -58007,7 +57087,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 962 -7 2
 Refer: 143 3378 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" l3 xx
 EndChar
 
 StartChar: lhxx
@@ -58019,7 +57098,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 944 0 2
 Refer: 144 3379 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" lh xx
 EndChar
 
 StartChar: zhxx
@@ -58031,7 +57109,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 832 0 2
 Refer: 145 3380 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" zh xx
 EndChar
 
 StartChar: v1xx
@@ -58043,7 +57120,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1021 -14 2
 Refer: 146 3381 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" v1 xx
 EndChar
 
 StartChar: z1xx
@@ -58055,7 +57131,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1210 0 2
 Refer: 147 3382 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" z1 xx
 EndChar
 
 StartChar: shxx
@@ -58067,7 +57142,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1341 0 2
 Refer: 148 3383 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" sh xx
 EndChar
 
 StartChar: s1xx
@@ -58079,7 +57153,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1479 0 2
 Refer: 149 3384 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" s1 xx
 EndChar
 
 StartChar: h1xx
@@ -58091,7 +57164,6 @@ LayerCount: 2
 Fore
 Refer: 164 3405 S 1 0 0 1 1416 0 2
 Refer: 150 3385 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormsinMalaylamlookup2 subtable" h1 xx
 EndChar
 
 StartChar: quotedblleft
