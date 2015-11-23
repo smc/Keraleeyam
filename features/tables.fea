@@ -12,7 +12,24 @@
 	p3 p4 m1 y1 r3 rh l3 lh zh v1 z1 sh s1 h1 uni0D3D uni0D3E uni0D3F 
 	uni0D40 u1 u2 r1 uni0D46 uni0D47 uni0D48 uni0D4A uni0D4B uni0D4C 
 	uni0D57 uni0d60 l2 ZWNJ ZWJ uni20B9 uni25CC NameMe_195550 quotedblleft 
-	quotedblright quoteleft quoteright];
+	quotedblright quoteleft quoteright
+	onequarter onehalf threequarters ellipsis plusminus multiply 
+	circumflex  Acircumflex 
+	Ecircumflex Icircumflex Ocircumflex Ucircumflex acircumflex ecircumflex 
+	icircumflex ocircumflex ucircumflex tilde Atilde Ntilde Otilde atilde 
+	ntilde otilde dieresis Adieresis Edieresis Idieresis Odieresis 
+	Udieresis adieresis edieresis idieresis odieresis udieresis acute 
+	Aacute Eacute Iacute Oacute Uacute aacute eacute iacute oacute uacute 
+	grave Agrave Egrave Igrave Ograve Ugrave agrave egrave igrave ograve 
+	ugrave yacute ydieresis macron questiondown periodcentered degree 
+	backslash underscore Eth Aring aring divide exclamdown guillemotleft 
+	guillemotright guilsinglleft guilsinglright asciicircum cent 
+	copyright bracketleft bracketright brokenbar currency 
+	currency sterling yen section ordmasculine fraction Euro ordfeminine 
+	registered uni00B2 uni00B3 mu uni00B9 oslash Oslash Yacute germandbls 
+	Thorn thorn minus uni2074 ae AE endash emdash quoteleft quoteright 
+	quotesinglbase quotedblright quotedblbase cedilla 
+	Ccedilla ccedilla oe OE dotlessi eth bullet];
 @GDEF_Ligature = [nhcil n1cil r3cil l3cil lhcil r4 y2 y2u1 y2u2 v2 k1u1 
 	k1u2 k1r1 k1k1 k1k1u1 k1k1u2 k1k1r1 k1k1r3 k1t1 k1t1r3 k1th1 k1th1r1 
 	k1th1r3 k1n1 k1r3 k1r3u1 k1r3u2 k1l3 k1l3u1 k1l3u2 k1sh k1shu1 k1shu2 
