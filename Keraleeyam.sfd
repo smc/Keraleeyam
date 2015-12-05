@@ -66,11 +66,11 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 26 10
+WinInfo: 702 26 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 289792 144896 96597 461824 -1048576 96597 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 66418 1191
+BeginChars: 66418 912
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -52466,218 +52466,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: _1
-Encoding: 66138 -1 793
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _2
-Encoding: 66139 -1 794
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _3
-Encoding: 66140 -1 795
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _4
-Encoding: 66141 -1 796
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _5
-Encoding: 66142 -1 797
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _6
-Encoding: 66143 -1 798
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _7
-Encoding: 66144 -1 799
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _8
-Encoding: 66145 -1 800
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _9
-Encoding: 66146 -1 801
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _10
-Encoding: 66147 -1 802
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _11
-Encoding: 66148 -1 803
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _14
-Encoding: 66149 -1 804
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _15
-Encoding: 66150 -1 805
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _16
-Encoding: 66151 -1 806
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _17
-Encoding: 66152 -1 807
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _18
-Encoding: 66153 -1 808
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _19
-Encoding: 66154 -1 809
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _20
-Encoding: 66155 -1 810
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _21
-Encoding: 66156 -1 811
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _22
-Encoding: 66157 -1 812
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _23
-Encoding: 66158 -1 813
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _24
-Encoding: 66159 -1 814
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _25
-Encoding: 66160 -1 815
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _26
-Encoding: 66161 -1 816
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _27
-Encoding: 66162 -1 817
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _28
-Encoding: 66163 -1 818
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _29
-Encoding: 66164 -1 819
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _30
-Encoding: 66165 -1 820
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _31
-Encoding: 66166 -1 821
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _127
-Encoding: 66167 -1 822
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: Euro
-Encoding: 8364 8364 823
+Encoding: 8364 8364 793
 Width: 995
 Flags: W
 LayerCount: 2
@@ -52718,15 +52508,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: _129
-Encoding: 66168 -1 824
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: quotesinglbase
-Encoding: 8218 8218 825
+Encoding: 8218 8218 794
 Width: 359
 Flags: W
 TtInstrs:
@@ -52752,7 +52535,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblbase
-Encoding: 8222 8222 826
+Encoding: 8222 8222 795
 Width: 644
 Flags: W
 TtInstrs:
@@ -52794,7 +52577,7 @@ EndSplineSet
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 827
+Encoding: 8230 8230 796
 Width: 1227
 Flags: W
 TtInstrs:
@@ -52902,22 +52685,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: _134
-Encoding: 66170 -1 828
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _135
-Encoding: 66171 -1 829
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: circumflex
-Encoding: 710 710 830
+Encoding: 710 710 797
 Width: 748
 Flags: W
 LayerCount: 2
@@ -52935,22 +52704,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: _137
-Encoding: 66172 -1 831
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _138
-Encoding: 66173 -1 832
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: guilsinglleft
-Encoding: 8249 8249 833
+Encoding: 8249 8249 798
 Width: 369
 Flags: W
 LayerCount: 2
@@ -52968,7 +52723,7 @@ EndSplineSet
 EndChar
 
 StartChar: OE
-Encoding: 338 338 834
+Encoding: 338 338 799
 Width: 1373
 Flags: W
 LayerCount: 2
@@ -53016,36 +52771,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: _141
-Encoding: 66174 -1 835
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _142
-Encoding: 66175 -1 836
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _143
-Encoding: 66176 -1 837
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _144
-Encoding: 66177 -1 838
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: bullet
-Encoding: 8226 8226 839
+Encoding: 8226 8226 800
 Width: 692
 Flags: W
 LayerCount: 2
@@ -53065,7 +52792,7 @@ EndSplineSet
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 840
+Encoding: 8211 8211 801
 Width: 793
 Flags: W
 LayerCount: 2
@@ -53080,7 +52807,7 @@ EndSplineSet
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 841
+Encoding: 8212 8212 802
 Width: 1261
 Flags: W
 LayerCount: 2
@@ -53095,7 +52822,7 @@ EndSplineSet
 EndChar
 
 StartChar: tilde
-Encoding: 732 732 842
+Encoding: 732 732 803
 Width: 767
 Flags: W
 LayerCount: 2
@@ -53122,22 +52849,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: _153
-Encoding: 66178 -1 843
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _154
-Encoding: 66179 -1 844
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: guilsinglright
-Encoding: 8250 8250 845
+Encoding: 8250 8250 804
 Width: 369
 Flags: W
 LayerCount: 2
@@ -53155,7 +52868,7 @@ EndSplineSet
 EndChar
 
 StartChar: oe
-Encoding: 339 339 846
+Encoding: 339 339 805
 Width: 1315
 Flags: W
 LayerCount: 2
@@ -53200,29 +52913,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: _157
-Encoding: 66180 -1 847
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _158
-Encoding: 66181 -1 848
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: _159
-Encoding: 66182 -1 849
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: exclamdown
-Encoding: 161 161 850
+Encoding: 161 161 806
 Width: 279
 Flags: W
 LayerCount: 2
@@ -53242,7 +52934,7 @@ EndSplineSet
 EndChar
 
 StartChar: cent
-Encoding: 162 162 851
+Encoding: 162 162 807
 Width: 702
 Flags: W
 LayerCount: 2
@@ -53279,7 +52971,7 @@ EndSplineSet
 EndChar
 
 StartChar: sterling
-Encoding: 163 163 852
+Encoding: 163 163 808
 Width: 884
 Flags: W
 LayerCount: 2
@@ -53318,7 +53010,7 @@ EndSplineSet
 EndChar
 
 StartChar: currency
-Encoding: 164 164 853
+Encoding: 164 164 809
 Width: 929
 Flags: W
 LayerCount: 2
@@ -53359,7 +53051,7 @@ EndSplineSet
 EndChar
 
 StartChar: yen
-Encoding: 165 165 854
+Encoding: 165 165 810
 Width: 1039
 Flags: W
 LayerCount: 2
@@ -53395,7 +53087,7 @@ EndSplineSet
 EndChar
 
 StartChar: brokenbar
-Encoding: 166 166 855
+Encoding: 166 166 811
 Width: 295
 Flags: W
 LayerCount: 2
@@ -53415,7 +53107,7 @@ EndSplineSet
 EndChar
 
 StartChar: section
-Encoding: 167 167 856
+Encoding: 167 167 812
 Width: 943
 Flags: W
 LayerCount: 2
@@ -53464,7 +53156,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis
-Encoding: 168 168 857
+Encoding: 168 168 813
 Width: 639
 Flags: W
 LayerCount: 2
@@ -53484,7 +53176,7 @@ EndSplineSet
 EndChar
 
 StartChar: copyright
-Encoding: 169 169 858
+Encoding: 169 169 814
 Width: 1434
 Flags: W
 LayerCount: 2
@@ -53535,7 +53227,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordfeminine
-Encoding: 170 170 859
+Encoding: 170 170 815
 Width: 470
 Flags: W
 LayerCount: 2
@@ -53569,7 +53261,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotleft
-Encoding: 171 171 860
+Encoding: 171 171 816
 Width: 674
 Flags: W
 LayerCount: 2
@@ -53595,7 +53287,7 @@ EndSplineSet
 EndChar
 
 StartChar: logicalnot
-Encoding: 172 172 861
+Encoding: 172 172 817
 Width: 778
 Flags: W
 LayerCount: 2
@@ -53612,7 +53304,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00AD
-Encoding: 173 173 862
+Encoding: 173 173 818
 Width: 593
 Flags: W
 LayerCount: 2
@@ -53627,7 +53319,7 @@ EndSplineSet
 EndChar
 
 StartChar: registered
-Encoding: 174 174 863
+Encoding: 174 174 819
 Width: 1532
 Flags: W
 LayerCount: 2
@@ -53680,7 +53372,7 @@ EndSplineSet
 EndChar
 
 StartChar: macron
-Encoding: 175 175 864
+Encoding: 175 175 820
 Width: 793
 Flags: W
 LayerCount: 2
@@ -53695,7 +53387,7 @@ EndSplineSet
 EndChar
 
 StartChar: degree
-Encoding: 176 176 865
+Encoding: 176 176 821
 Width: 452
 Flags: W
 LayerCount: 2
@@ -53724,7 +53416,7 @@ EndSplineSet
 EndChar
 
 StartChar: plusminus
-Encoding: 177 177 866
+Encoding: 177 177 822
 Width: 697
 Flags: W
 LayerCount: 2
@@ -53752,7 +53444,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B2
-Encoding: 178 178 867
+Encoding: 178 178 823
 Width: 393
 Flags: W
 LayerCount: 2
@@ -53777,7 +53469,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B3
-Encoding: 179 179 868
+Encoding: 179 179 824
 Width: 407
 Flags: W
 LayerCount: 2
@@ -53805,7 +53497,7 @@ EndSplineSet
 EndChar
 
 StartChar: acute
-Encoding: 180 180 869
+Encoding: 180 180 825
 Width: 356
 Flags: W
 LayerCount: 2
@@ -53820,7 +53512,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B5
-Encoding: 181 181 870
+Encoding: 181 181 826
 Width: 807
 Flags: W
 LayerCount: 2
@@ -53845,7 +53537,7 @@ EndSplineSet
 EndChar
 
 StartChar: paragraph
-Encoding: 182 182 871
+Encoding: 182 182 827
 Width: 985
 Flags: W
 LayerCount: 2
@@ -53871,7 +53563,7 @@ EndSplineSet
 EndChar
 
 StartChar: periodcentered
-Encoding: 183 183 872
+Encoding: 183 183 828
 Width: 266
 Flags: W
 LayerCount: 2
@@ -53886,7 +53578,7 @@ EndSplineSet
 EndChar
 
 StartChar: cedilla
-Encoding: 184 184 873
+Encoding: 184 184 829
 Width: 540
 Flags: W
 LayerCount: 2
@@ -53913,7 +53605,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B9
-Encoding: 185 185 874
+Encoding: 185 185 830
 Width: 258
 Flags: W
 LayerCount: 2
@@ -53931,7 +53623,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 186 186 875
+Encoding: 186 186 831
 Width: 505
 Flags: W
 LayerCount: 2
@@ -53962,7 +53654,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotright
-Encoding: 187 187 876
+Encoding: 187 187 832
 Width: 674
 Flags: W
 LayerCount: 2
@@ -53988,7 +53680,7 @@ EndSplineSet
 EndChar
 
 StartChar: onequarter
-Encoding: 188 188 877
+Encoding: 188 188 833
 Width: 1031
 Flags: W
 LayerCount: 2
@@ -54027,7 +53719,7 @@ EndSplineSet
 EndChar
 
 StartChar: onehalf
-Encoding: 189 189 878
+Encoding: 189 189 834
 Width: 1135
 Flags: W
 LayerCount: 2
@@ -54071,7 +53763,7 @@ EndSplineSet
 EndChar
 
 StartChar: threequarters
-Encoding: 190 190 879
+Encoding: 190 190 835
 Width: 1109
 Flags: W
 LayerCount: 2
@@ -54119,7 +53811,7 @@ EndSplineSet
 EndChar
 
 StartChar: questiondown
-Encoding: 191 191 880
+Encoding: 191 191 836
 Width: 754
 Flags: W
 LayerCount: 2
@@ -54156,7 +53848,7 @@ EndSplineSet
 EndChar
 
 StartChar: Agrave
-Encoding: 192 192 881
+Encoding: 192 192 837
 Width: 923
 Flags: W
 LayerCount: 2
@@ -54184,7 +53876,7 @@ EndSplineSet
 EndChar
 
 StartChar: Aacute
-Encoding: 193 193 882
+Encoding: 193 193 838
 Width: 923
 Flags: W
 LayerCount: 2
@@ -54212,7 +53904,7 @@ EndSplineSet
 EndChar
 
 StartChar: Acircumflex
-Encoding: 194 194 883
+Encoding: 194 194 839
 Width: 923
 Flags: W
 LayerCount: 2
@@ -54246,7 +53938,7 @@ EndSplineSet
 EndChar
 
 StartChar: Atilde
-Encoding: 195 195 884
+Encoding: 195 195 840
 Width: 923
 Flags: W
 LayerCount: 2
@@ -54287,7 +53979,7 @@ EndSplineSet
 EndChar
 
 StartChar: Adieresis
-Encoding: 196 196 885
+Encoding: 196 196 841
 Width: 923
 Flags: W
 LayerCount: 2
@@ -54320,7 +54012,7 @@ EndSplineSet
 EndChar
 
 StartChar: Aring
-Encoding: 197 197 886
+Encoding: 197 197 842
 Width: 923
 Flags: W
 LayerCount: 2
@@ -54369,7 +54061,7 @@ EndSplineSet
 EndChar
 
 StartChar: AE
-Encoding: 198 198 887
+Encoding: 198 198 843
 Width: 1409
 Flags: W
 LayerCount: 2
@@ -54401,7 +54093,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ccedilla
-Encoding: 199 199 888
+Encoding: 199 199 844
 Width: 857
 Flags: W
 LayerCount: 2
@@ -54448,7 +54140,7 @@ EndSplineSet
 EndChar
 
 StartChar: Egrave
-Encoding: 200 200 889
+Encoding: 200 200 845
 Width: 659
 Flags: W
 LayerCount: 2
@@ -54476,7 +54168,7 @@ EndSplineSet
 EndChar
 
 StartChar: Eacute
-Encoding: 201 201 890
+Encoding: 201 201 846
 Width: 659
 Flags: W
 LayerCount: 2
@@ -54504,7 +54196,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 202 202 891
+Encoding: 202 202 847
 Width: 659
 Flags: W
 LayerCount: 2
@@ -54538,7 +54230,7 @@ EndSplineSet
 EndChar
 
 StartChar: Edieresis
-Encoding: 203 203 892
+Encoding: 203 203 848
 Width: 659
 Flags: W
 LayerCount: 2
@@ -54571,7 +54263,7 @@ EndSplineSet
 EndChar
 
 StartChar: Igrave
-Encoding: 204 204 893
+Encoding: 204 204 849
 Width: 361
 Flags: W
 LayerCount: 2
@@ -54591,7 +54283,7 @@ EndSplineSet
 EndChar
 
 StartChar: Iacute
-Encoding: 205 205 894
+Encoding: 205 205 850
 Width: 351
 Flags: W
 LayerCount: 2
@@ -54611,7 +54303,7 @@ EndSplineSet
 EndChar
 
 StartChar: Icircumflex
-Encoding: 206 206 895
+Encoding: 206 206 851
 Width: 582
 Flags: W
 LayerCount: 2
@@ -54637,7 +54329,7 @@ EndSplineSet
 EndChar
 
 StartChar: Idieresis
-Encoding: 207 207 896
+Encoding: 207 207 852
 Width: 505
 Flags: W
 LayerCount: 2
@@ -54662,7 +54354,7 @@ EndSplineSet
 EndChar
 
 StartChar: Eth
-Encoding: 208 208 897
+Encoding: 208 208 853
 Width: 1081
 Flags: W
 LayerCount: 2
@@ -54700,7 +54392,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ntilde
-Encoding: 209 209 898
+Encoding: 209 209 854
 Width: 785
 Flags: W
 LayerCount: 2
@@ -54741,7 +54433,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ograve
-Encoding: 210 210 899
+Encoding: 210 210 855
 Width: 898
 Flags: W
 LayerCount: 2
@@ -54776,7 +54468,7 @@ EndSplineSet
 EndChar
 
 StartChar: Oacute
-Encoding: 211 211 900
+Encoding: 211 211 856
 Width: 898
 Flags: W
 LayerCount: 2
@@ -54811,7 +54503,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 212 212 901
+Encoding: 212 212 857
 Width: 898
 Flags: W
 LayerCount: 2
@@ -54852,7 +54544,7 @@ EndSplineSet
 EndChar
 
 StartChar: Otilde
-Encoding: 213 213 902
+Encoding: 213 213 858
 Width: 898
 Flags: W
 LayerCount: 2
@@ -54900,7 +54592,7 @@ EndSplineSet
 EndChar
 
 StartChar: Odieresis
-Encoding: 214 214 903
+Encoding: 214 214 859
 Width: 898
 Flags: W
 LayerCount: 2
@@ -54940,7 +54632,7 @@ EndSplineSet
 EndChar
 
 StartChar: multiply
-Encoding: 215 215 904
+Encoding: 215 215 860
 Width: 846
 Flags: W
 LayerCount: 2
@@ -54963,7 +54655,7 @@ EndSplineSet
 EndChar
 
 StartChar: Oslash
-Encoding: 216 216 905
+Encoding: 216 216 861
 Width: 1035
 Flags: W
 LayerCount: 2
@@ -54999,7 +54691,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ugrave
-Encoding: 217 217 906
+Encoding: 217 217 862
 Width: 829
 Flags: W
 LayerCount: 2
@@ -55029,7 +54721,7 @@ EndSplineSet
 EndChar
 
 StartChar: Uacute
-Encoding: 218 218 907
+Encoding: 218 218 863
 Width: 829
 Flags: W
 LayerCount: 2
@@ -55059,7 +54751,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 219 219 908
+Encoding: 219 219 864
 Width: 829
 Flags: W
 LayerCount: 2
@@ -55095,7 +54787,7 @@ EndSplineSet
 EndChar
 
 StartChar: Udieresis
-Encoding: 220 220 909
+Encoding: 220 220 865
 Width: 829
 Flags: W
 LayerCount: 2
@@ -55130,7 +54822,7 @@ EndSplineSet
 EndChar
 
 StartChar: Yacute
-Encoding: 221 221 910
+Encoding: 221 221 866
 Width: 863
 Flags: W
 LayerCount: 2
@@ -55155,7 +54847,7 @@ EndSplineSet
 EndChar
 
 StartChar: Thorn
-Encoding: 222 222 911
+Encoding: 222 222 867
 Width: 721
 Flags: W
 LayerCount: 2
@@ -55185,7 +54877,7 @@ EndSplineSet
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 912
+Encoding: 223 223 868
 Width: 916
 Flags: W
 LayerCount: 2
@@ -55225,7 +54917,7 @@ EndSplineSet
 EndChar
 
 StartChar: agrave
-Encoding: 224 224 913
+Encoding: 224 224 869
 Width: 767
 Flags: W
 LayerCount: 2
@@ -55268,7 +54960,7 @@ EndSplineSet
 EndChar
 
 StartChar: aacute
-Encoding: 225 225 914
+Encoding: 225 225 870
 Width: 767
 Flags: W
 LayerCount: 2
@@ -55311,7 +55003,7 @@ EndSplineSet
 EndChar
 
 StartChar: acircumflex
-Encoding: 226 226 915
+Encoding: 226 226 871
 Width: 767
 Flags: W
 LayerCount: 2
@@ -55360,7 +55052,7 @@ EndSplineSet
 EndChar
 
 StartChar: atilde
-Encoding: 227 227 916
+Encoding: 227 227 872
 Width: 767
 Flags: W
 LayerCount: 2
@@ -55416,7 +55108,7 @@ EndSplineSet
 EndChar
 
 StartChar: adieresis
-Encoding: 228 228 917
+Encoding: 228 228 873
 Width: 767
 Flags: W
 LayerCount: 2
@@ -55464,7 +55156,7 @@ EndSplineSet
 EndChar
 
 StartChar: aring
-Encoding: 229 229 918
+Encoding: 229 229 874
 Width: 767
 Flags: W
 LayerCount: 2
@@ -55528,7 +55220,7 @@ EndSplineSet
 EndChar
 
 StartChar: ae
-Encoding: 230 230 919
+Encoding: 230 230 875
 Width: 1299
 Flags: W
 LayerCount: 2
@@ -55581,7 +55273,7 @@ EndSplineSet
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 920
+Encoding: 231 231 876
 Width: 702
 Flags: W
 LayerCount: 2
@@ -55623,7 +55315,7 @@ EndSplineSet
 EndChar
 
 StartChar: egrave
-Encoding: 232 232 921
+Encoding: 232 232 877
 Width: 846
 Flags: W
 LayerCount: 2
@@ -55659,7 +55351,7 @@ EndSplineSet
 EndChar
 
 StartChar: eacute
-Encoding: 233 233 922
+Encoding: 233 233 878
 Width: 850
 Flags: W
 LayerCount: 2
@@ -55695,7 +55387,7 @@ EndSplineSet
 EndChar
 
 StartChar: ecircumflex
-Encoding: 234 234 923
+Encoding: 234 234 879
 Width: 850
 Flags: W
 LayerCount: 2
@@ -55737,7 +55429,7 @@ EndSplineSet
 EndChar
 
 StartChar: edieresis
-Encoding: 235 235 924
+Encoding: 235 235 880
 Width: 850
 Flags: W
 LayerCount: 2
@@ -55778,7 +55470,7 @@ EndSplineSet
 EndChar
 
 StartChar: igrave
-Encoding: 236 236 925
+Encoding: 236 236 881
 Width: 253
 Flags: W
 LayerCount: 2
@@ -55798,7 +55490,7 @@ EndSplineSet
 EndChar
 
 StartChar: iacute
-Encoding: 237 237 926
+Encoding: 237 237 882
 Width: 330
 Flags: W
 LayerCount: 2
@@ -55818,7 +55510,7 @@ EndSplineSet
 EndChar
 
 StartChar: icircumflex
-Encoding: 238 238 927
+Encoding: 238 238 883
 Width: 570
 Flags: W
 LayerCount: 2
@@ -55844,7 +55536,7 @@ EndSplineSet
 EndChar
 
 StartChar: idieresis
-Encoding: 239 239 928
+Encoding: 239 239 884
 Width: 460
 Flags: W
 LayerCount: 2
@@ -55869,7 +55561,7 @@ EndSplineSet
 EndChar
 
 StartChar: eth
-Encoding: 240 240 929
+Encoding: 240 240 885
 Width: 830
 Flags: W
 LayerCount: 2
@@ -55909,7 +55601,7 @@ EndSplineSet
 EndChar
 
 StartChar: ntilde
-Encoding: 241 241 930
+Encoding: 241 241 886
 Width: 800
 Flags: W
 LayerCount: 2
@@ -55954,7 +55646,7 @@ EndSplineSet
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 931
+Encoding: 242 242 887
 Width: 830
 Flags: W
 LayerCount: 2
@@ -55993,7 +55685,7 @@ EndSplineSet
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 932
+Encoding: 243 243 888
 Width: 830
 Flags: W
 LayerCount: 2
@@ -56032,7 +55724,7 @@ EndSplineSet
 EndChar
 
 StartChar: ocircumflex
-Encoding: 244 244 933
+Encoding: 244 244 889
 Width: 830
 Flags: W
 LayerCount: 2
@@ -56077,7 +55769,7 @@ EndSplineSet
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 934
+Encoding: 245 245 890
 Width: 830
 Flags: W
 LayerCount: 2
@@ -56127,7 +55819,7 @@ EndSplineSet
 EndChar
 
 StartChar: odieresis
-Encoding: 246 246 935
+Encoding: 246 246 891
 Width: 830
 Flags: W
 LayerCount: 2
@@ -56171,7 +55863,7 @@ EndSplineSet
 EndChar
 
 StartChar: divide
-Encoding: 247 247 936
+Encoding: 247 247 892
 Width: 826
 Flags: W
 LayerCount: 2
@@ -56220,7 +55912,7 @@ EndSplineSet
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 937
+Encoding: 248 248 893
 Width: 830
 Flags: W
 LayerCount: 2
@@ -56258,7 +55950,7 @@ EndSplineSet
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 938
+Encoding: 249 249 894
 Width: 788
 Flags: W
 LayerCount: 2
@@ -56288,7 +55980,7 @@ EndSplineSet
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 939
+Encoding: 250 250 895
 Width: 788
 Flags: W
 LayerCount: 2
@@ -56318,7 +56010,7 @@ EndSplineSet
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 940
+Encoding: 251 251 896
 Width: 788
 Flags: W
 LayerCount: 2
@@ -56354,7 +56046,7 @@ EndSplineSet
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 941
+Encoding: 252 252 897
 Width: 788
 Flags: W
 LayerCount: 2
@@ -56389,7 +56081,7 @@ EndSplineSet
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 942
+Encoding: 253 253 898
 Width: 920
 Flags: W
 LayerCount: 2
@@ -56420,7 +56112,7 @@ EndSplineSet
 EndChar
 
 StartChar: thorn
-Encoding: 254 254 943
+Encoding: 254 254 899
 Width: 842
 Flags: W
 LayerCount: 2
@@ -56452,7 +56144,7 @@ EndSplineSet
 EndChar
 
 StartChar: ydieresis
-Encoding: 255 255 944
+Encoding: 255 255 900
 Width: 920
 Flags: W
 LayerCount: 2
@@ -56488,7 +56180,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotlessi
-Encoding: 305 305 945
+Encoding: 305 305 901
 Width: 295
 Flags: W
 LayerCount: 2
@@ -56503,7 +56195,7 @@ EndSplineSet
 EndChar
 
 StartChar: ring
-Encoding: 730 730 946
+Encoding: 730 730 902
 Width: 1114
 Flags: W
 LayerCount: 2
@@ -56539,7 +56231,7 @@ EndSplineSet
 EndChar
 
 StartChar: fraction
-Encoding: 8260 8260 947
+Encoding: 8260 8260 903
 Width: 796
 Flags: W
 TtInstrs:
@@ -56575,7 +56267,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2074
-Encoding: 8308 8308 948
+Encoding: 8308 8308 904
 Width: 427
 Flags: W
 LayerCount: 2
@@ -56601,14 +56293,14 @@ EndSplineSet
 EndChar
 
 StartChar: minus
-Encoding: 8722 8722 949
+Encoding: 8722 8722 905
 Width: 2048
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uni2215
-Encoding: 8725 8725 950
+Encoding: 8725 8725 906
 Width: 939
 Flags: W
 LayerCount: 2
@@ -56623,1680 +56315,35 @@ EndSplineSet
 EndChar
 
 StartChar: uniE0FF
-Encoding: 57599 57599 951
+Encoding: 57599 57599 907
 Width: 2048
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uniEFFD
-Encoding: 61437 61437 952
+Encoding: 61437 61437 908
 Width: 2048
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uniF000
-Encoding: 61440 61440 953
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: NULL.001
-Encoding: 66183 -1 954
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: NameMe_195551
-Encoding: 66184 -1 955
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1r2
-Encoding: 66185 -1 956
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1t1u1
-Encoding: 66186 -1 957
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1t1u2
-Encoding: 66187 -1 958
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1t1r3u1
-Encoding: 66188 -1 959
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1t1r3u2
-Encoding: 66189 -1 960
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1nhu1
-Encoding: 66190 -1 961
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1nhu2
-Encoding: 66191 -1 962
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1th1r3u1
-Encoding: 66192 -1 963
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1th1r3u2
-Encoding: 66193 -1 964
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1n1u1
-Encoding: 66194 -1 965
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1n1u2
-Encoding: 66195 -1 966
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1m1u1
-Encoding: 66196 -1 967
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1m1u2
-Encoding: 66197 -1 968
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1shr1
-Encoding: 66198 -1 969
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1shnhu1
-Encoding: 66199 -1 970
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1shnhu2
-Encoding: 66200 -1 971
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1shm1u1
-Encoding: 66201 -1 972
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1shm1u2
-Encoding: 66202 -1 973
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1shm1r1
-Encoding: 66203 -1 974
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1s1u1
-Encoding: 66204 -1 975
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1s1u2
-Encoding: 66205 -1 976
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1s1r1
-Encoding: 66206 -1 977
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1rhrhu1
-Encoding: 66207 -1 978
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k1rhrhu2
-Encoding: 66208 -1 979
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k3th3r1
-Encoding: 66209 -1 980
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k4n1u1
-Encoding: 66210 -1 981
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: k4n1u2
-Encoding: 66211 -1 982
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: ch1ch2u1
-Encoding: 66212 -1 983
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: ch1ch2u2
-Encoding: 66213 -1 984
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: ch1ch2r1
-Encoding: 66214 -1 985
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: ch1ch2r3
-Encoding: 66215 -1 986
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: ch1ch2r3u1
-Encoding: 66216 -1 987
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: ch1ch2r3u2
-Encoding: 66217 -1 988
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: t3m1u1
-Encoding: 66218 -1 989
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: t3m1u2
-Encoding: 66219 -1 990
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: t3m1r1
-Encoding: 66220 -1 991
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nht1r3
-Encoding: 66221 -1 992
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nht1r3u1
-Encoding: 66222 -1 993
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nht1r3u2
-Encoding: 66223 -1 994
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nht3r1
-Encoding: 66224 -1 995
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nht3r3
-Encoding: 66225 -1 996
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nht3r3u1
-Encoding: 66226 -1 997
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nht3r3u2
-Encoding: 66227 -1 998
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nht4r1
-Encoding: 66228 -1 999
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th1s1n1u1
-Encoding: 66229 -1 1000
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th1s1n1u2
-Encoding: 66230 -1 1001
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th1s1m1
-Encoding: 66231 -1 1002
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th1s1m1u1
-Encoding: 66232 -1 1003
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th1s1m1u2
-Encoding: 66233 -1 1004
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th1s1m1r1
-Encoding: 66234 -1 1005
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th1s1r3
-Encoding: 66235 -1 1006
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th1s1r3u1
-Encoding: 66236 -1 1007
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th1s1r3u2
-Encoding: 66237 -1 1008
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th2n1u1
-Encoding: 66238 -1 1009
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th2n1u2
-Encoding: 66239 -1 1010
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th2m1u1
-Encoding: 66240 -1 1011
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th2m1u2
-Encoding: 66241 -1 1012
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th2m1r1
-Encoding: 66242 -1 1013
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th3th4n1u1
-Encoding: 66243 -1 1014
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th3th4n1u2
-Encoding: 66244 -1 1015
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th3th4m1u1
-Encoding: 66245 -1 1016
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th3th4m1u2
-Encoding: 66246 -1 1017
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th3th4m1r1
-Encoding: 66247 -1 1018
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th4n1u1
-Encoding: 66248 -1 1019
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th4n1u2
-Encoding: 66249 -1 1020
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th4m1u1
-Encoding: 66250 -1 1021
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th4m1u2
-Encoding: 66251 -1 1022
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: th4m1r1
-Encoding: 66252 -1 1023
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1t1u1
-Encoding: 66253 -1 1024
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1t1u2
-Encoding: 66254 -1 1025
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1th1u1
-Encoding: 66255 -1 1026
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1th1u2
-Encoding: 66256 -1 1027
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1th1r1
-Encoding: 66257 -1 1028
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1n1u1
-Encoding: 66258 -1 1029
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1n1u2
-Encoding: 66259 -1 1030
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1p2u1
-Encoding: 66260 -1 1031
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1p2u2
-Encoding: 66261 -1 1032
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1s1u1
-Encoding: 66262 -1 1033
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1s1u2
-Encoding: 66263 -1 1034
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1s1r1
-Encoding: 66264 -1 1035
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1s1r3
-Encoding: 66265 -1 1036
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1s1r3u1
-Encoding: 66266 -1 1037
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p1s1r3u2
-Encoding: 66267 -1 1038
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2k1u1
-Encoding: 66268 -1 1039
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2k1u2
-Encoding: 66269 -1 1040
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2t1u1
-Encoding: 66270 -1 1041
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2t1u2
-Encoding: 66271 -1 1042
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2th1u1
-Encoding: 66272 -1 1043
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2th1u2
-Encoding: 66273 -1 1044
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2th1r1
-Encoding: 66274 -1 1045
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2n1u1
-Encoding: 66275 -1 1046
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2n1u2
-Encoding: 66276 -1 1047
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2p1u1
-Encoding: 66277 -1 1048
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2p1u2
-Encoding: 66278 -1 1049
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2m1u1
-Encoding: 66279 -1 1050
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2m1u2
-Encoding: 66280 -1 1051
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2s1u1
-Encoding: 66281 -1 1052
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2s1u2
-Encoding: 66282 -1 1053
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2s1r1
-Encoding: 66283 -1 1054
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2rhrhu1
-Encoding: 66284 -1 1055
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p2rhrhu2
-Encoding: 66285 -1 1056
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3k3u1
-Encoding: 66286 -1 1057
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3k3u2
-Encoding: 66287 -1 1058
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3k3r1
-Encoding: 66288 -1 1059
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3ch3u1
-Encoding: 66289 -1 1060
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3ch3u2
-Encoding: 66290 -1 1061
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3ch3r1
-Encoding: 66291 -1 1062
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3th3r1
-Encoding: 66292 -1 1063
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3th4u1
-Encoding: 66293 -1 1064
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3th4u2
-Encoding: 66294 -1 1065
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3th4r1
-Encoding: 66295 -1 1066
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3n1u1
-Encoding: 66296 -1 1067
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: p3n1u2
-Encoding: 66297 -1 1068
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: m1n1u1
-Encoding: 66298 -1 1069
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: m1n1u2
-Encoding: 66299 -1 1070
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1k1u1
-Encoding: 66300 -1 1071
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1k1u2
-Encoding: 66301 -1 1072
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1k1r1
-Encoding: 66302 -1 1073
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1ch1u1
-Encoding: 66303 -1 1074
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1ch1u2
-Encoding: 66304 -1 1075
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1th1r1
-Encoding: 66305 -1 1076
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1th1th1
-Encoding: 66306 -1 1077
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1th1th1u1
-Encoding: 66307 -1 1078
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1th1th1u2
-Encoding: 66308 -1 1079
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1th1th1r1
-Encoding: 66309 -1 1080
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1n1u1
-Encoding: 66310 -1 1081
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1n1u2
-Encoding: 66311 -1 1082
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1p1u1
-Encoding: 66312 -1 1083
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1p1u2
-Encoding: 66313 -1 1084
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1p1r1
-Encoding: 66314 -1 1085
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1m1u1
-Encoding: 66315 -1 1086
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1m1u2
-Encoding: 66316 -1 1087
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: y1m1r1
-Encoding: 66317 -1 1088
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3k1u1
-Encoding: 66318 -1 1089
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3k1u2
-Encoding: 66319 -1 1090
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3k1r1
-Encoding: 66320 -1 1091
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3k1k1u1
-Encoding: 66321 -1 1092
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3k1k1u2
-Encoding: 66322 -1 1093
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3k3u1
-Encoding: 66323 -1 1094
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3k3u2
-Encoding: 66324 -1 1095
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3k3r1
-Encoding: 66325 -1 1096
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3ch1u1
-Encoding: 66326 -1 1097
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3ch1u2
-Encoding: 66327 -1 1098
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3th1u1
-Encoding: 66328 -1 1099
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3th1u2
-Encoding: 66329 -1 1100
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3th1r1
-Encoding: 66330 -1 1101
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3th1th1
-Encoding: 66331 -1 1102
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3th1th1u1
-Encoding: 66332 -1 1103
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3th1th1u2
-Encoding: 66333 -1 1104
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3p1u1
-Encoding: 66334 -1 1105
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3p1u2
-Encoding: 66335 -1 1106
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3p1r3
-Encoding: 66336 -1 1107
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3p1r3u1
-Encoding: 66337 -1 1108
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3p1r3u2
-Encoding: 66338 -1 1109
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3p2u1
-Encoding: 66339 -1 1110
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3p2u2
-Encoding: 66340 -1 1111
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3p3u1
-Encoding: 66341 -1 1112
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3p3u2
-Encoding: 66342 -1 1113
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3m1u1
-Encoding: 66343 -1 1114
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: l3m1u2
-Encoding: 66344 -1 1115
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: z1ch2u1
-Encoding: 66345 -1 1116
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: z1ch2u2
-Encoding: 66346 -1 1117
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: z1ch2r1
-Encoding: 66347 -1 1118
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: z1m1u1
-Encoding: 66348 -1 1119
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: z1m1u2
-Encoding: 66349 -1 1120
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: z1m1r1
-Encoding: 66350 -1 1121
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: z1z1r3u1
-Encoding: 66351 -1 1122
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: z1z1r3u2
-Encoding: 66352 -1 1123
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shk1u1
-Encoding: 66353 -1 1124
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shk1u2
-Encoding: 66354 -1 1125
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shk1k1u1
-Encoding: 66355 -1 1126
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shk1k1u2
-Encoding: 66356 -1 1127
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shk1k1r1
-Encoding: 66357 -1 1128
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shk1r3u1
-Encoding: 66358 -1 1129
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shk1r3u2
-Encoding: 66359 -1 1130
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: sht1u1
-Encoding: 66360 -1 1131
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: sht1u2
-Encoding: 66361 -1 1132
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: sht1r1
-Encoding: 66362 -1 1133
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: sht1r3u1
-Encoding: 66363 -1 1134
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: sht1r3u2
-Encoding: 66364 -1 1135
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shp1u1
-Encoding: 66365 -1 1136
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shp1u2
-Encoding: 66366 -1 1137
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shp1r1
-Encoding: 66367 -1 1138
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shp1r3u1
-Encoding: 66368 -1 1139
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shp1r3u2
-Encoding: 66369 -1 1140
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shp2u1
-Encoding: 66370 -1 1141
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shp2u2
-Encoding: 66371 -1 1142
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shm1u1
-Encoding: 66372 -1 1143
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shm1u2
-Encoding: 66373 -1 1144
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shr3
-Encoding: 66374 -1 1145
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shr3u1
-Encoding: 66375 -1 1146
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: shr3u2
-Encoding: 66376 -1 1147
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1k1r3u1
-Encoding: 66377 -1 1148
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1k1r3u2
-Encoding: 66378 -1 1149
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1k2u1
-Encoding: 66379 -1 1150
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1k2u2
-Encoding: 66380 -1 1151
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1t1u1
-Encoding: 66381 -1 1152
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1t1u2
-Encoding: 66382 -1 1153
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1t1r3u1
-Encoding: 66383 -1 1154
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1t1r3u2
-Encoding: 66384 -1 1155
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1th1r3u1
-Encoding: 66385 -1 1156
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1th1r3u2
-Encoding: 66386 -1 1157
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1p1r3u1
-Encoding: 66387 -1 1158
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1p1r3u2
-Encoding: 66388 -1 1159
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1rhrhr3
-Encoding: 66389 -1 1160
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1rhrhr3u1
-Encoding: 66390 -1 1161
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: s1rhrhr3u3
-Encoding: 66391 -1 1162
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhk1u1
-Encoding: 66392 -1 1163
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhk1u2
-Encoding: 66393 -1 1164
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhk1k1u1
-Encoding: 66394 -1 1165
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhk1k1u2
-Encoding: 66395 -1 1166
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhch1u1
-Encoding: 66396 -1 1167
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhch1u2
-Encoding: 66397 -1 1168
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhth1u1
-Encoding: 66398 -1 1169
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhth1u2
-Encoding: 66399 -1 1170
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhth1th1
-Encoding: 66400 -1 1171
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhth1th1u1
-Encoding: 66401 -1 1172
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhth1th1u2
-Encoding: 66402 -1 1173
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhn1
-Encoding: 66403 -1 1174
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhn1u1
-Encoding: 66404 -1 1175
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhn1u2
-Encoding: 66405 -1 1176
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhn1n1
-Encoding: 66406 -1 1177
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhn1n1u1
-Encoding: 66407 -1 1178
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhn1n1u2
-Encoding: 66408 -1 1179
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhp1u1
-Encoding: 66409 -1 1180
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhp1u2
-Encoding: 66410 -1 1181
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhm1u1
-Encoding: 66411 -1 1182
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhm1u2
-Encoding: 66412 -1 1183
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhv1
-Encoding: 66413 -1 1184
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhv1u1
-Encoding: 66414 -1 1185
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhv1u2
-Encoding: 66415 -1 1186
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhs1u1
-Encoding: 66416 -1 1187
-Width: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: zhs1u2
-Encoding: 66417 -1 1188
+Encoding: 61440 61440 909
 Width: 2048
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: datemark
-Encoding: 3449 3449 1189
+Encoding: 3449 3449 910
 Width: 2048
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: ml_quarter
-Encoding: 3443 3443 1190
+Encoding: 3443 3443 911
 Width: 2048
 Flags: W
 LayerCount: 2
