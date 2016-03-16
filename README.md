@@ -1,5 +1,5 @@
-Keraleeyam Malayalam font.
+Keraleeyam is a Malayalam font designed by Hussain K. H. It is a bold style font in condensed form suitable for titles.
 
-Designed by Hussain KH and SMC.
+Keraleeyam font was originally designed in 2005. The current version of the font is based on comprehensive character set of traditional Malayalam script with many unique conjuncts. Latin glyphs were designed and added to match the malayalam sript style in 2015.
 
-Keraleeyam font was first designed as an ASCII font in 2005 and distributed with Rachana editor. This Unicode Keraleeyam font based on Rachana's exhaustive character set of traditional Malayalam Lipi is totally redesigned as a part of the Grant (2014-2015) received from India Foundation for the Arts, Bangalore under Arts Research and Documentation Programme. The font is dedicated to the environmental activism in Kerala.
+The font is maintained by Swathanthra Malayalam Computing project. Source code is available at https://gitlab.com/smc/keraleeyam
