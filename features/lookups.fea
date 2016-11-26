@@ -449,6 +449,7 @@ lookup psts_vowel_signs {
     sub njnj u2  by njnju2;
     sub t1 u1  by t1u1;
     sub t1 u2  by t1u2;
+    sub t1 r1 by t1r1;
     sub t1t1 u1  by t1t1u1;
     sub t1t1 u2  by t1t1u2;
     sub t1r3 u1  by t1r3u1;
