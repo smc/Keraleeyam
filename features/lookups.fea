@@ -23,12 +23,7 @@ lookup akhn_conjuncts {
     sub lh xx ZWJ  by lhcil;
     sub k1 xx k1  by k1k1;
     sub k1 xx th1  by k1th1;
-    #sub k1 xx n1  by k1n1;
     sub k1 xx sh  by k1sh;
-    sub k1 xx sh xx nh  by k1shnh;
-    sub k1 xx sh xx m1  by k1shm1;
-    sub k1 xx s1  by k1s1;
-    sub k1 xx rh xx rh  by k1rhrh;
     sub k3 xx k3  by k3k3;
     sub k3 xx th3  by k3th3;
     sub k3 xx n1  by k3n1;
@@ -137,6 +132,14 @@ lookup akhn_conditional_stacking {
     sub k1' xx' n1'  by k1n1;
     ignore sub k1' xx' m1' [u1 u2 r1 xx];
     sub k1' xx' m1'  by k1m1;
+    ignore sub k1sh' xx' nh' [u1 u2 r1 xx];
+    sub k1sh' xx' nh'  by k1shnh;
+    ignore sub k1sh' xx' m1' [u1 u2 r1 xx];
+    sub k1sh' xx' m1'  by k1shm1;
+    ignore sub k1' xx' s1' [u1 u2 r1 xx];
+    sub k1' xx' s1' by k1s1;
+    ignore sub k1' xx' rhrh' [u1 u2 r1 xx];
+    sub k1' xx' rhrh' by k1rhrh;
     ignore sub y1' xx' p1' [u1 u2 r1];
     ignore sub y1' xx' p1' xx p1;
     sub y1' xx' p1'  by y1p1;
