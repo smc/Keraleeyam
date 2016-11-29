@@ -122,8 +122,9 @@ lookup akhn_conjuncts {
 }  akhn_conjuncts;
 
 lookup akhn_conditional_stacking {
-    ignore sub k1' xx' t1' [u1 u2  r1 xx];
-    sub k1' xx' t1' by k1t1;# Need to rewrite such that k1xxt1xxr3 is stacked but k1xxt1xxr3xxu1 is not
+    ignore sub k1' xx' t1' [u1 u2  r1];
+    ignore sub k1' xx' t1' xx r3 [u1 u2];
+    sub k1' xx' t1' by k1t1;
     ignore sub k1' xx' nh' [u1 u2 r1 xx];
     sub k1' xx' nh'  by k1nh;
     ignore sub k1' xx' n1' [u1 u2 r1 xx];
