@@ -67,7 +67,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 27 27 9
+WinInfo: 675 27 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 289792 144896 96597 461824 -1048576 96597 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -44129,7 +44129,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shm1r3
+StartChar: shr3
 Encoding: 66008 -1 657
 Width: 1613
 GlyphClass: 3
@@ -44204,7 +44204,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shm1r3u1
+StartChar: shr3u1
 Encoding: 66009 -1 658
 Width: 1613
 GlyphClass: 3
@@ -44292,7 +44292,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shm1r3u2
+StartChar: shr3u2
 Encoding: 66010 -1 659
 Width: 1613
 GlyphClass: 3
