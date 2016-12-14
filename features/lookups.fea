@@ -73,12 +73,8 @@ lookup akhn_conjuncts {
     sub l3 xx l3  by l3l3;
     sub v1 xx v1  by v1v1;
     sub z1 xx ch1  by z1ch1;
-    sub s1 xx k1 xx k1 by s1k1k1;
-    sub s1 xx k2  by s1k2;
-    sub s1 xx t1 xx r3  by s1t1r3;
-    sub s1 xx th1  by s1th1;
+    sub s1 xx k1 xx k1 by s1k1k1;#rewrite to conditinally unstack s1 xx k1 xx k1 xx r3 as s1 xx k1k1r3
     sub s1 xx th2  by s1th2;
-    sub s1 xx n1  by s1n1;
     sub s1 xx p2  by s1p2;
     sub s1 xx m1  by s1m1;
     sub s1 xx s1  by s1s1;
@@ -217,10 +213,21 @@ lookup akhn_conditional_stacking {
     sub zh' xx' ch1'  by zhch1;
     ignore sub s1' xx' k1' xx r3 [u1 u2];
     sub s1' xx' k1' by s1k1;
-    ignore sub s1' xx' p1' [xx u1 u2 r1];
-    sub s1' xx' p1' by s1p1;
     ignore sub p1' xx' th1' [xx u1 u2 r1];
     sub p1' xx' th1'  by p1th1;
+    ignore sub s1' xx' k2' [xx u1 u2 r1];
+    sub s1' xx' k2' by s1k2;
+    ignore sub s1' xx' t1' [u1 u2  r1];
+    ignore sub s1' xx' t1' xx r3 [u1 u2];
+    sub s1' xx' t1' by s1t1;
+    ignore sub s1' xx' th1' xx' r3' [u1 u2 r1];
+    sub s1' xx' th1' by s1th1;
+    ignore sub s1' xx' n1' [xx r3];
+    ignore sub s1' xx' n1' r1;
+    sub s1' xx' n1' by s1n1;
+    ignore sub s1' xx' p1' xx p1;
+    ignore sub s1' xx' p1' xx r3 [u1 u2];
+    sub s1' xx' p1' by s1p1;
     #ignore sub k3' xx' th3' xx' th4' [xx u1 u2 r1];
     #sub k3' xx' th3' xx' th4'  by k3th3th4;
 } akhn_conditional_stacking;
@@ -374,6 +381,8 @@ lookup pres_reph_mlym {
     sub sh r4  by shr3;
     sub s1k1 r4  by s1k1r3;
     sub s1k1 xx r3  by s1k1r3;
+    sub s1t1 r4  by s1t1r3;
+    sub s1t1 xx r3  by s1t1r3;
     sub s1th1 r4  by s1th1r3;
     sub s1th1 xx r3  by s1th1r3;
     sub s1p1 r4  by s1p1r3;
@@ -423,6 +432,7 @@ lookup pres_reph {
     sub r4 shp1  by shp1r3;
     sub r4 sh  by shr3;
     sub r4 s1k1  by s1k1r3;
+    sub r4 s1t1  by s1t1r3;
     sub r4 s1th1  by s1th1r3;
     sub r4 s1p1  by s1p1r3;
     sub r4 s1  by s1r3;
@@ -775,7 +785,11 @@ lookup psts_vowel_signs {
     sub s1th1 u1  by s1th1u1;
     sub s1th1 u2  by s1th1u2;
     sub s1th1 r1  by s1th1r1;
+    sub s1th2 u1  by s1th2u1;
     sub s1th2 u2  by s1th2u2;
+    sub s1th2 r1 by s1th2r1;
+    sub s1n1 u1  by s1n1u1;
+    sub s1n1 u2  by s1n1u2;
     sub s1p1 u1  by s1p1u1;
     sub s1p1 u2  by s1p1u2;
     sub s1p1 r1  by s1p1r1;
