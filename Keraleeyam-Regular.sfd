@@ -22,9 +22,9 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1496300408
+ModificationTime: 1496301170
 PfmFamily: 33
-TTFWeight: 700
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
